@@ -1,0 +1,17 @@
+Fernseher
+Lautsprecher
+Notebook
+Tafeln
+MP3_Spieler
+Handy
+Radio
+Playstation
+
+Notizbuch
+Heft
+Buch
+CD
+Energie
+Licht
+Papier
+Morgen

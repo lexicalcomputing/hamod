@@ -1,0 +1,17 @@
+noms
+adjectifs
+pronoms
+chiffres
+verbes
+embrayage
+adverbe
+interjection
+
+sons
+personnes
+flexibilité
+conugaison
+singulier
+temps
+carpe
+rien

@@ -1,0 +1,17 @@
+motorka
+loď
+auto
+električka
+autobus
+vlak
+lietadlo
+vrtuľník
+
+rotoped
+bežecký_pás
+chodník
+cesta
+vodič
+pilot
+ihla
+topánka

@@ -1,0 +1,17 @@
+hasič
+doktor
+kovář
+prodavač
+kuchař
+švadlena
+právník
+policista
+
+Jan
+Marie_Terezie
+otec
+tchyně
+práce
+kancelář
+deník
+sedmikráska

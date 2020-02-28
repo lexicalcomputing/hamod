@@ -1,0 +1,17 @@
+hrudná_kosť
+horná_čelusť
+stehenná_kosť
+lakťová_kosť
+lopatka
+panvová_kosť
+ihlica
+píšťala
+
+panvica
+kôš_na_odpadky
+kĺb
+chrupka
+krv
+sval
+farebný
+malý

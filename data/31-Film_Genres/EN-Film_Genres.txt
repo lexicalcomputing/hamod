@@ -1,0 +1,17 @@
+fantasy
+drama
+horror
+romantic
+sci-fi
+comedy
+biographical
+psychological
+
+theater_play
+film
+poetry
+prose
+DVD
+television
+flower
+window

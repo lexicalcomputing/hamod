@@ -1,0 +1,17 @@
+grandmother
+grandfather
+sister
+mother
+aunt
+uncle
+brother
+father
+
+human
+person
+Mary
+Josef
+old_man
+teenager
+candle
+tattoo

@@ -1,0 +1,17 @@
+kreslo
+pohovka
+stolička
+skriňa
+polička
+stôl
+nočný_stolík
+posteľ
+
+chladnička
+umývačka
+odpadkový_kôš
+koberec
+drevo
+sklo
+Mária
+kanón

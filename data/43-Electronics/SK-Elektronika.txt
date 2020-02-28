@@ -1,0 +1,17 @@
+televízia
+reproduktor
+notebook
+tablet
+mp3_prehrávač
+mobil
+rádio
+playstation
+
+blok
+zošit
+kniha
+film
+energia
+svetlo
+papier
+ráno

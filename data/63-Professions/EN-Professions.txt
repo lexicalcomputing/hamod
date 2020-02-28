@@ -1,0 +1,17 @@
+fireman
+doctor
+smith
+seller
+cook
+dressmaker
+lawyer
+policeman
+
+John
+Maria_Theresa
+father
+mother_in_law
+job
+office
+diary
+daisy

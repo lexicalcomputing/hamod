@@ -1,0 +1,17 @@
+télévision
+haut-parleur
+cahier
+comprimé
+lecteur_mp3
+téléphone_cellulaire
+radio
+station_de_jeu
+
+bloc
+classeur
+livre
+CD
+puissance
+lumiere
+papier
+matin

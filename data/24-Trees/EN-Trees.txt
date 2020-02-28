@@ -1,0 +1,17 @@
+oak
+birch
+beech
+linden
+maple
+spruce
+pine
+fir
+
+family_tree
+fractal
+trunk
+weed
+clay
+flower
+lunch
+crematorium

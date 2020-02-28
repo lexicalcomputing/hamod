@@ -1,0 +1,17 @@
+bark
+meow
+bleat
+moo
+croak
+peep
+neigh
+purr
+
+cow
+frog
+gore
+stomp
+bang
+ouch
+learn
+dance

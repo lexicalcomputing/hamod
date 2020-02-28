@@ -1,0 +1,17 @@
+cuisine
+toilett
+salon
+salle_de_bain
+vestiaire
+pépiniere
+chambre_a_coucher
+cave
+
+wagon
+cabine_de_pilotage
+salle_de_concert
+réceotion
+sofa
+cuisiniere
+nez
+univers

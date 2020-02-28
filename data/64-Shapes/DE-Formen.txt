@@ -1,0 +1,17 @@
+Würfel
+Dreieck
+Kugel
+Rechteck
+Rhombus
+Pyramide
+Kegel
+Zylinder
+
+Schwimmbassin
+Sonne
+Lineal
+Radiergummi
+Mathematik
+Winkel
+Papier
+Hängegleiter

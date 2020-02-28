@@ -1,0 +1,17 @@
+television
+speaker
+laptop
+tablet
+computer
+phone
+radio
+playstation
+
+notebook
+workbook
+book
+movie
+energy
+light
+paper
+morning

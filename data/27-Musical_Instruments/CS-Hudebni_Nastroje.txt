@@ -1,0 +1,17 @@
+harfa
+housle
+kytara
+klavír
+flétna
+saxofon
+bubny
+kontrabas
+
+sluchátka
+reproduktor
+rádio
+gramofón
+hudba
+noty
+živý_plot
+ručník

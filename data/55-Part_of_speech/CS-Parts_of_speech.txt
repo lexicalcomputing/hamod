@@ -1,0 +1,17 @@
+podstatná_jména
+přídavná_jména
+zájmena
+číslovky
+slovesa
+spojky
+příslovce
+citoslovce
+
+zvuky
+osoby
+ohebnost
+časování
+jednotné_číslo
+čas
+kapr
+nic

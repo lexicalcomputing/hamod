@@ -1,0 +1,17 @@
+maths
+physic
+chemistry
+biology
+physical_education
+foreign_language
+art_education
+history
+
+scouting
+ceramics
+break
+lunch
+tutoring
+cold_war
+wooden_spoon
+hot_air_balloon

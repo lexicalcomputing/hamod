@@ -1,0 +1,17 @@
+cube
+triangle
+sphere
+rectangle
+losange
+pyramide
+cône
+cylindre
+
+piscine
+soleil
+regle
+gomme
+mathématiques
+angle
+papier
+deltaplane

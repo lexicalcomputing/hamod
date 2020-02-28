@@ -1,0 +1,17 @@
+horror
+travelogue
+short_stories
+poetry
+fantasy
+sci-fi
+biography
+mystery_novel
+
+sugar
+writer
+serial
+film
+book
+simile
+digger
+napkin

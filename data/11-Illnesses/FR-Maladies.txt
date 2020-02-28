@@ -1,0 +1,17 @@
+rhinite
+grippe
+allergie
+coqueluche
+diabete
+engelures
+carie_dentaire
+angine
+
+fracture
+contusion
+mort
+hôpital
+thermometre
+pommade
+plaque
+flute

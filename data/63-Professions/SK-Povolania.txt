@@ -1,0 +1,17 @@
+hasič
+doktor
+kováč
+predavač
+kuchár
+krajčírka
+právnik
+policajt
+
+Jan
+Marie_Terezie
+otec
+svorka
+práce
+kancelária
+denník
+sedmokráska

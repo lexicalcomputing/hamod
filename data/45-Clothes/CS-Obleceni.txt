@@ -1,0 +1,17 @@
+triko
+šaty
+kalhoty
+kraťasy
+svetr
+sukně
+košile
+kabát
+
+prostěradlo
+deka
+brýle
+sponka
+bavlna
+polyester
+klíčenka
+skříň

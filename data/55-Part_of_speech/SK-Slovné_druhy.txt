@@ -1,0 +1,17 @@
+podstatné_mená
+prídavné_mená
+zámená
+číslovky
+slovesá
+spojky
+príslovky
+citoslovcia
+
+zvuky
+osoby
+ohebnosť
+časovanie
+jednotné_číslo
+čas
+kapor
+nič

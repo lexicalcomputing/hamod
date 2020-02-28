@@ -1,0 +1,17 @@
+métal
+vitreux
+en_bois
+en_étoffe
+en_papier
+cuir
+d'aluminium
+d'or
+
+ordinateur
+animé
+difficile
+petit
+arbre
+livre
+stupide
+primitif

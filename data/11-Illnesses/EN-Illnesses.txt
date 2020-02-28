@@ -1,0 +1,17 @@
+cold
+flu
+allergy
+whooping_cough
+diabetes
+jaundice
+plague
+angina
+
+fracture
+bruise
+death
+hospital
+thermometer
+ointment
+plate
+flute

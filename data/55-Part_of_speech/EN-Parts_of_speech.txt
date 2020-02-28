@@ -1,0 +1,17 @@
+nouns
+adjectives
+pronouns
+numerals
+verbs
+conjunction
+adverb
+interjection
+
+sounds
+people
+flexibility
+conjugation
+singular
+tense
+carp
+nothing

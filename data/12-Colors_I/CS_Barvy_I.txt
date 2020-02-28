@@ -1,0 +1,17 @@
+červená
+modrá
+zelená
+žlutá
+fialová
+růžová
+oranžová
+hnědá
+
+dřevěná
+skleněná
+temná
+zářivá
+pruhovaná
+puntíkovaná
+smutná
+nízká

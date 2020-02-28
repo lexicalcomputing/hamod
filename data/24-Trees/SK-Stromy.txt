@@ -1,0 +1,17 @@
+dub
+breza
+buk
+lipa
+javor
+smrek
+borovica
+jedľa
+
+rodokmeň
+fraktál
+kmeň
+burina
+hlina
+kvetina
+obed
+krematórium

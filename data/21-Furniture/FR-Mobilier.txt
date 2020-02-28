@@ -1,0 +1,17 @@
+place
+canapé
+lampe
+placard
+étagere
+table
+table_de_chevet
+lit
+
+frigo
+laveuse
+corbeille
+tapis
+bios
+verre
+Marie
+canon

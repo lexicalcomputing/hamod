@@ -1,0 +1,17 @@
+metal
+glass
+wooden
+cloth
+paper
+leather
+aluminum
+golden
+
+computerized
+animated
+heavy
+small
+tree
+notebook
+silly
+simple

@@ -1,0 +1,17 @@
+gin
+whisky
+vodka
+rum
+wine
+beer
+tequilla
+cognac
+
+water
+juice
+tea
+coffee
+potatoes
+barley
+table
+park

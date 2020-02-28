@@ -1,0 +1,17 @@
+moto
+navire
+voiture
+tramway
+bus
+train
+avion
+hélicoptere
+
+vélo
+tapis_roulant
+passerelle
+maniere
+conducter
+pilote
+aigulle
+botte

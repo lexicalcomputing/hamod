@@ -1,0 +1,17 @@
+gin
+whisky
+vodka
+rum
+víno
+pivo
+tequila
+koňak
+
+voda
+džús
+čaj
+káva
+zemiaky
+jačmeň
+stôl
+park

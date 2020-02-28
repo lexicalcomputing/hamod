@@ -1,0 +1,17 @@
+motorbike
+boat
+car
+tram
+bus
+train
+plane
+helicopter
+
+exercise_bike
+treadmill
+pavement
+road
+driver
+pilot
+needle
+shoe

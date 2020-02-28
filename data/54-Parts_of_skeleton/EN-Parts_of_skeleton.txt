@@ -1,0 +1,17 @@
+breastbone
+maxilla
+femur
+elbow_bone
+shoulder_blade
+pelvic_bone
+calf_bone
+tibia
+
+pan
+bin
+joint
+cartilage
+blood
+muscle
+colorfull
+small

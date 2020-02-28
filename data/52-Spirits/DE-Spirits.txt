@@ -1,0 +1,17 @@
+Gin
+Whiskey
+Wodka
+Rum
+Whisky
+Absinth
+Tequila
+Brandy
+
+Wasser
+Saft
+Wein
+Bier
+Kartoffeln
+Gerste
+Tisch
+Park

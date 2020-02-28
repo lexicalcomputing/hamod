@@ -1,0 +1,17 @@
+Motorrad
+Schiff
+Auto
+Straßenbahn
+Bus
+Zug
+Flugzeug
+Hubschrauber
+
+Rotoped
+Laufgürtel
+Gehweg
+Weg
+Fahrer
+Pilot
+Nadel
+Schuh

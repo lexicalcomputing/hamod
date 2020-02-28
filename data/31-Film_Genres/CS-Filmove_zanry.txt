@@ -1,0 +1,17 @@
+fantasy
+drama
+horor
+romantický
+sci-fi
+komedie
+životopisný
+psychologický
+
+divadelní_hra
+film
+poezie
+próza
+DVD
+televize
+květina
+okno

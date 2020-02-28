@@ -1,0 +1,17 @@
+rouge
+bleu
+vert
+jaune
+violet
+rose
+orange
+brun
+
+en_bois
+verre
+sombre
+brillant
+rayé
+tacheté
+triste
+faible

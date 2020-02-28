@@ -1,0 +1,17 @@
+if
+pin
+épicéa
+sapin
+méleze
+sequoia
+cedre
+genévrier
+
+arbre_de_Noël
+tronc
+pommier
+érable
+argile
+mauvaise_hebre
+trompette
+bougie

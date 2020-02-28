@@ -1,0 +1,17 @@
+lavender
+thyme
+rosemary
+mint
+marjoram
+sage
+basil
+dill
+
+oak
+ash
+strawberry
+raspberry
+celery
+carrot
+pen
+Sun

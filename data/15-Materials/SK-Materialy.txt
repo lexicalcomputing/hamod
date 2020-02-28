@@ -1,0 +1,17 @@
+kovový
+sklenený
+drevený
+látkový
+papierový
+kožený
+hliníkový
+zlatý
+
+počítačový
+animovaný
+ťažký
+malý
+strom
+zošit
+hlúpy
+primitívny
