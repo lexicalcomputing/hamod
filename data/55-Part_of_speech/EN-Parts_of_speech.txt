@@ -3,9 +3,9 @@ adjectives
 pronouns
 numerals
 verbs
-conjunction
-adverb
-interjection
+conjunctions
+adverbs
+interjections
 
 sounds
 people
