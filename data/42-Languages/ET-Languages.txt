@@ -1,0 +1,17 @@
+saksa
+poola
+inglise
+itaalia
+vene
+tšehhi
+prantsuse
+hollandi
+
+Java_skript
+Python
+vene_tähestik
+ladina_tähestik
+Prantsusmaa
+USA
+sülearvuti
+kõrvarõngas

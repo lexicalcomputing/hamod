@@ -1,0 +1,17 @@
+forehead
+chin
+nose
+cheek
+ears
+eyes
+lips
+mouth
+
+butt
+hat
+moustache
+coat
+earring
+swelling
+nails
+lipstick

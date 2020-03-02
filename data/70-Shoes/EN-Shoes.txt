@@ -1,0 +1,17 @@
+high_heel_shoes
+rainboots
+sandals
+boots
+sneakers
+tennis_shoes
+flip-flops
+slippers
+
+trousers
+t-shirt
+skirt
+pavement
+stockings
+socks
+clothes
+sweatpants
