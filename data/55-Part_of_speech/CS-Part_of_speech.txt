@@ -1,13 +1,13 @@
-podstatná_jména
-přídavná_jména
-zájmena
-číslovky
-slovesa
-spojky
+podstatné_jméno
+přídavné_jméno
+zájmeno
+číslovka
+sloveso
+spojka
 příslovce
 citoslovce
 
-zvuky
+zvuk
 osoby
 ohebnost
 časování

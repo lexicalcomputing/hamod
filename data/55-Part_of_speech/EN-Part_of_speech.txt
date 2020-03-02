@@ -1,13 +1,13 @@
-nouns
-adjectives
-pronouns
-numerals
-verbs
-conjunctions
-adverbs
-interjections
+noun
+adjective
+pronoun
+numeral
+verb
+conjunction
+adverb
+interjection
 
-sounds
+sound
 people
 flexibility
 conjugation
