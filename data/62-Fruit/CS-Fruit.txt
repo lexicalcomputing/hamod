@@ -1,6 +1,6 @@
 pomeranč
-maliny
-borůvky
+malina
+borůvka
 ananas
 hroznové_víno
 meruňka
@@ -14,4 +14,4 @@ dýně
 Eva
 džus
 pavouk
-bicí
+paprika

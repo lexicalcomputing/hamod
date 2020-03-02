@@ -1,8 +1,8 @@
 orange
-raspberries
-blueberries
+raspberry
+blueberry
 pineapple
-grapes
+grape
 apricot
 mango
 kiwi
@@ -14,4 +14,4 @@ pumpkin
 Eva
 juice
 spider
-drums
+drum
