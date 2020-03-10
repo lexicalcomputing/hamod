@@ -73,8 +73,34 @@
               <li>You will be presented 9 words.</li>
               <li>Your task is to choose an <em>outlier</em> among those words, exactly one word that does not fit the rest of the words according to some cognitive criteria that you should figure out.</li>
               <li>An example set would be: <em>blue, red, green, yellow, orange, black, brown, white, table</em>. Obviously the last word is the outlier: all other are color names.</li>
+            </ul>
+            <h5>Why should I do that?</h5>
+            <ul class="browser-default" style="color: black">
+              <li>The dataset will be used for evaluation of automatically built thesauri and by that help improving methods for their automatic generation.</li>
+              <li>The key reason for taking the task manually is detecting issues in the dataset manifested by low inter-annotator agreement.</li>
+            </ul>
+            <h5>How long does it take?</h5>
+            <ul class="browser-default" style="color: black">
+              <li>With the current size of the dataset it only takes about 10 minutes.</li>
+            </ul>
+            <h5>What happens with the data?</h5>
+            <ul class="browser-default" style="color: black">
+              <li>The resulting dataset will be openly available under the <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC-BY-SA 4.0 licence</a> in the <a href="https://github.com/elexis-eu">ELEXIS GitHub repository</a>.</li>
+              <li>We are also going to publish anonymized statistics on the inter-annotator agreement evaluation.</li>
+              <li>By taking the exercise you agree that the decisions you have made can be stored and used to improve the outlier detection datasets.</li>
+            </ul>
+            <h5>Can I take mutliple turns?</h5>
+            <ul class="browser-default" style="color: black">
+              <li>Please don't because your next turn could be biased by the data you have already seen.</li>
+            </ul>
+            <p>
+              <label for="agree">
+                <input type="checkbox" id="agree" onchange={agreeChanged} ref="agree"/>
+                <span class="red-text"><strong>I HAVE READ THIS AND I AGREE</strong></span>
+              </label>
+            </p>
           </div>
-          <div class="card-action">
+          <div class="card-action" if={agreed}>
             <a href="javascript:void(0)" onclick={startExercise}>Start exercise</a>
           </div>
         </div>
@@ -86,7 +112,11 @@
     this.status = "welcome";
     this.formComplete = false;
     this.exIDComplete = false;
+    this.agreed = false;
 
+    agreeChanged() {
+      this.agreed = !!this.refs.agree.checked;
+    }
     onNewExercise(e) {
       this.status = "getuser";
       this.update();
