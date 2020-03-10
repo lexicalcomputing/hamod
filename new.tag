@@ -77,6 +77,7 @@
             <h5>Why should I do that?</h5>
             <ul class="browser-default" style="color: black">
               <li>The dataset will be used for evaluation of automatically built thesauri and by that help improving methods for their automatic generation.</li>
+              <li>Examples of distributional thesauri: <a href="https://www.sketchengine.eu/guide/thesaurus-synonyms-antonyms-similar-words/">a word-sketch based one</a> and <a href="https://embeddings.sketchengine.co.uk/">a word-embeddings based one</a>.</li>
               <li>The key reason for taking the task manually is detecting issues in the dataset manifested by low inter-annotator agreement.</li>
             </ul>
             <h5>How long does it take?</h5>
