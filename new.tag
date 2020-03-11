@@ -90,6 +90,10 @@
               <li>We are also going to publish anonymized statistics on the inter-annotator agreement evaluation.</li>
               <li>By taking the exercise you agree that the decisions you have made can be stored and used to improve the outlier detection datasets.</li>
             </ul>
+            <h5>Can I take the exercise in a language that is not my mother tongue</h5>
+            <ul class="browser-default" style="color: black">
+              <li>Please don't! While your knowledge of the second language might be excellent, you might not be misled by what actually would be misleading for native speakers.</li>
+            </ul>
             <h5>Can I take mutliple turns?</h5>
             <ul class="browser-default" style="color: black">
               <li>Please don't because your next turn could be biased by the data you have already seen.</li>
