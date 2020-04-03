@@ -3,7 +3,7 @@ rásť
 klíčiť
 pučať
 množiť_sa
-koreniť
+zakoreňovať
 rašiť
 fotosyntetizovať
 
@@ -12,6 +12,6 @@ smiať_sa
 musieť
 dokázať
 chcieť
-vedieť
+rozumieť
 spievať
 ležať

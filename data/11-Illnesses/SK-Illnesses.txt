@@ -1,10 +1,10 @@
 nádcha
 chrípka
-alergie
+alergia
 čierny_kašeľ
 cukrovka
 žltačka
-zubný_kaz
+mor
 angína
 
 zlomenina

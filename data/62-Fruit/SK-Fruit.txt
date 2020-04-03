@@ -1,6 +1,6 @@
 pomaranč
-maliny
-čučoriedky
+malina
+čučoriedka
 ananás
 hrozno
 marhuľa
@@ -8,7 +8,7 @@ mango
 kiwi
 
 vajce
-tenisák
+tenisová_loptička
 uhorka
 tekvica
 Eva

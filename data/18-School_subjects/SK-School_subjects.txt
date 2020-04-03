@@ -13,5 +13,5 @@ prestávka
 obed
 doučovanie
 studená_vojna
-vareška
+varecha
 teplovzdušný_balón

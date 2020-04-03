@@ -1,8 +1,8 @@
-televízia
+televízor
 reproduktor
 notebook
 tablet
-mp3_prehrávač
+počítač
 mobil
 rádio
 playstation

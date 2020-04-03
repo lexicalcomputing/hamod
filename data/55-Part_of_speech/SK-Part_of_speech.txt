@@ -1,15 +1,15 @@
-podstatné_mená
-prídavné_mená
-zámená
-číslovky
-slovesá
-spojky
-príslovky
-citoslovcia
+podstatné_meno
+prídavné_meno
+zámeno
+číslovka
+sloveso
+spojka
+príslovka
+citoslovce
 
-zvuky
-osoby
-ohebnosť
+zvuk
+ľudia
+ohybnosť
 časovanie
 jednotné_číslo
 čas

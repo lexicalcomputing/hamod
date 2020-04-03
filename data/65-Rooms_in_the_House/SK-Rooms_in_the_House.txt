@@ -10,7 +10,7 @@ pivnica
 vagón
 pilotná_kabína
 koncertná_sála
-recepcie
+recepcia
 pohovka
 sporák
 nos
