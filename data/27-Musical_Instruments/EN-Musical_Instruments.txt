@@ -2,10 +2,10 @@ harp
 violin
 guitar
 piano
-fluete
+flute
 saxophone
 drums
-doublebass
+double_bass
 
 headphones
 speakers

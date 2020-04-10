@@ -1,5 +1,5 @@
 maths
-physic
+physics
 chemistry
 biology
 physical_education

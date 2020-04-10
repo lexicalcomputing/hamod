@@ -1,5 +1,5 @@
 high_heel_shoes
-rainboots
+rain_boots
 sandals
 boots
 sneakers
