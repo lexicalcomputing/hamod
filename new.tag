@@ -30,6 +30,7 @@
                 <option value="CS">Czech</option>
                 <option value="EN">English</option>
                 <option value="ET">Estonian</option>
+                <option value="SK">Slovak</option>
               </select>
               <label>Select your language</label>
               Is your language not listed? <a href="mailto:inquiries@sketchengine.eu">Let us know</a> if you would volunteer to translate a small dataset of 800 words.
