@@ -21,6 +21,7 @@ def eval_exercise(c, gold_data, langs, ex_id = None):
         correct = 0
         skipped = 0
         total = len(ex_sets)
+        mistakes = []
         for s in ex_sets:
             if s not in file_results:
                 file_results[s] = {"correct": 0, "total": 0, "skipped": 0, "words": {}}
@@ -43,13 +44,15 @@ def eval_exercise(c, gold_data, langs, ex_id = None):
                 file_results[s]["skipped"] += 1
                 status = "skipped"
             if outlier not in file_results[s]["words"]:
-                file_results[s]["words"][outlier] = {"correct": 0, "total": 0, "skipped": 0, "mistakes": defaultdict(int)}
+                file_results[s]["words"][outlier] = {"correct": 0, "total": 0, "skipped": 0, "mistakes": defaultdict(int), "ids": []}
             file_results[s]["words"][outlier]["correct"] += int(status == "correct")
             file_results[s]["words"][outlier]["total"] += 1
             if status == "wrong":
                 file_results[s]["words"][outlier]["mistakes"][results[s]["outlier"]] += 1
+                mistakes.append((s, results[s]["outlier"], outlier))
             file_results[s]["words"][outlier]["skipped"] += int(status == "skipped")
-        all_results.append({"id": e["id"], "name": e["name"], "lang": e["lang"], "correct": correct, "total": total, "skipped": skipped})
+            file_results[s]["words"][outlier]["ids"].append(e["id"])
+        all_results.append({"id": e["id"], "name": e["name"], "lang": e["lang"], "mistakes": mistakes, "correct": correct, "total": total, "skipped": skipped})
     return all_results, file_results
 
 def load_exercise_data(datadir):
@@ -68,7 +71,7 @@ def load_exercise_file(filename):
 
 if __name__ == '__main__':
     if len(sys.argv) < 4 or len(sys.argv) > 5:
-        print("Usage: %s SQLITE.db DATADIR LANG=ALL|CS,EN,.. [ VERBOSITY_LEVEL={default=0,1,2} | EXERCISE_ID ]", file=sys.stderr)
+        print("Usage: %s SQLITE.db DATADIR LANG=ALL|CS,EN,.. [ VERBOSITY_LEVEL={default=0,1,2,3} | EXERCISE_ID ]", file=sys.stderr)
         sys.exit(1)
 
     conn = sqlite3.connect(sys.argv[1])
@@ -78,9 +81,13 @@ if __name__ == '__main__':
     langs = sys.argv[3].split(",")
 
     if len(sys.argv) == 5 and len(sys.argv[4]) > 1:
-        r, fr = eval_exercise (c, load_exercise_data(sys.argv[2]), ["ALL"], sys.argv[4])[0]
+        r = eval_exercise (c, load_exercise_data(sys.argv[2]), ["ALL"], sys.argv[4])[0][0]
         print("exercise id: %s, name: %s, lang: %s" % (r["id"], r["name"], r["lang"]))
         print("correct = %d, total = %d, precision = %.2f, skipped = %d" % (r["correct"], r["total"], r["correct"]/r["total"], r["skipped"]))
+        print("mistakes:")
+        for m in r["mistakes"]:
+            exset, mistaken_outlier, correct_outlier = m
+            print("%s instead of %s for %s" % (exset, mistaken_outlier, correct_outlier))
     else:
         if len(sys.argv) == 5:
             verbosity = int(sys.argv[4])
@@ -114,4 +121,4 @@ if __name__ == '__main__':
         for f, k in fr.items():
             vp("\nFilename %s: correct = %d, total = %d, precision = %.2f, skipped = %d" % (f, k["correct"], k["total"], k["correct"]/k["total"], k["skipped"]), 1)
             for w, kk in k["words"].items():
-                vp("Outlier %s: correct = %d, total = %d, precision = %.2f, skipped = %d, mistakes = %s" % (w, kk["correct"], kk["total"], kk["correct"]/kk["total"], kk["skipped"], dict(kk["mistakes"])), 1)
+                vp("Outlier %s: correct = %d, total = %d, precision = %.2f, skipped = %d, mistakes = %s, ids = %s" % (w, kk["correct"], kk["total"], kk["correct"]/kk["total"], kk["skipped"], dict(kk["mistakes"]), verbosity > 2 and kk["ids"] or "[VERBOSITY3]"), 1)
