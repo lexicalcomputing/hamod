@@ -32,6 +32,8 @@ def eval_exercise(c, gold_data, ex_id = None):
                 outlier = set(results[s]["words"]) & set(gold_data[s]["outliers"])
                 if len(outlier) > 1:
                     raise RuntimeError("More than one outlier in the set!")
+                elif not outlier:
+                    continue
                 outlier = outlier.pop()
             if results[s]["outlier"] == "=SKIP=":
                 skipped += 1
@@ -78,6 +80,9 @@ if __name__ == '__main__':
         per_lang = {}
         for r in rr:
             print("exercise id: %s, name: %s, lang: %s" % (r["id"], r["name"], r["lang"]))
+            if not r["total"]:
+                print("skipping (total=0)")
+                continue
             print("correct = %d, total = %d, precision = %.2f, skipped = %d" % (r["correct"], r["total"], r["correct"]/r["total"], r["skipped"]))
             if r["lang"] not in per_lang:
                 per_lang[r["lang"]] = {"correct": 0, "total": 0, "skipped": 0}
