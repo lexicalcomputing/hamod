@@ -2,7 +2,7 @@
 
 import sys, cgi, cgitb, random, sqlite3, json, glob
 from exercise import load_exercise_file, load_exercise_data, eval_exercise
-#cgitb.enable()
+cgitb.enable()
 conn = sqlite3.connect('exercise.db')
 conn.row_factory = sqlite3.Row
 form = cgi.FieldStorage()
@@ -57,10 +57,8 @@ def get_rarest_outlier(c, target_set_name):
     lang = target_set_name.split('/')[-1][:2]
     for row in c.execute('SELECT * FROM exercises WHERE lang=?', (lang,)):
         results = json.loads(row['results'])
-        for set_name, data in results.items():
-            if set_name != target_set_name:
-                continue
-            for word in data['words']:
+        if target_set_name in results:
+            for word in results[target_set_name]['words']:
                 if word in stat:
                     stat[word] += 1
     return sorted([(y, x) for x, y in stat.items()])[0][1]
