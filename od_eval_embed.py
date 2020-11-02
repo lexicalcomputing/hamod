@@ -11,7 +11,15 @@ verbose = 3
 
 
 def read_embeddings(filename, vocab_file='vocab.txt'):
-    if filename.endswith('.bin'):
+    if filename.endswith('.bvec') or filename.endswith('.bvec32'):
+        # bvec: format at embeddings.sketchengine.co.uk
+        f = open(filename + '.dic', encoding='utf-8')
+        f.readline() # skip dictionary size
+        dim = int(f.readline())
+        id2str = [w.strip() for w in f]
+        vec = np.fromfile(filename, 'f4' if filename.endswith('32') else 'f2')
+        vec.resize(len(id2str), dim)
+    elif filename.endswith('.bin'):
         # bin file  --> words from vocab_file
         id2str = [line.split(None, 1)[0] for line in open(vocab_file, encoding='utf-8')]
         vec = np.fromfile(filename, 'f8')
@@ -37,7 +45,10 @@ def read_embeddings(filename, vocab_file='vocab.txt'):
     # normalize each word vector to unit variance
     d = np.linalg.norm(vec, axis=1)
     vec /= np.expand_dims(d, 1)
- 
+
+    if verbose > 2:
+        print('read_embeddings: dim=%d shape=%s' % (dim, vec.shape))
+
     return vec, id2str, str2id
 
 
@@ -171,13 +182,13 @@ def eval_topic(model, words, outliers, ignore_unknown=False):
         if verbose > 1:
             print('\tOutlier:', out, '\tPosition:', pos)
         if verbose > 2 and pos <= len(iwords):
-            print('\t   outlier score: %.2f' % sim[0])
+            print('\t   outlier score: %.3f' % sim[0])
             scored = sorted(zip(sim[1:], [w for w in words if w not in skipped]))
             print('\t   more out:', ', '.join(
-                ['%s/%.2f' % (w,s) for s,w in scored if s <= sim[0]]))
+                ['%s/%.3f' % (w,s) for s,w in scored if s <= sim[0]]))
     if verbose > 1:
         if cnt > 0:
-            print('   Acuracy %.2f   OPP %.2f' % (hits/cnt, opp/cnt))
+            print('   Accuracy %.3f   OPP %.3f' % (hits/cnt, opp/cnt))
     return cnt, hits, opp
 
 
@@ -191,11 +202,11 @@ def walk_dataset(dirpath, prefix):
                 clt, outt = text.split('\n\n')
                 yield fname, clt.split('\n'), outt.split('\n')
 
-                
+
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('-vectors', default='vectors.txt', type=str)
+    parser.add_argument('-vectors', type=str, help='evaluate word2vec vectors')
     parser.add_argument('-vocab', default='vocab.txt', type=str,
                         help='vocabulary file for binary vectors')
     parser.add_argument('-corpus', type=str, help='evaluate SkE theasaurs on CORPUS')
@@ -208,6 +219,10 @@ if __name__ == '__main__':
     parser.add_argument('-v', default=1, type=int,
                         help='verbosity level')
     args = parser.parse_args()
+
+    if not args.corpus and not args.vectors:
+        parser.print_help()
+        parser.exit(1)
 
     verbose = args.v
     if args.corpus:
@@ -225,11 +240,11 @@ if __name__ == '__main__':
         opp += o
         clust += 1
         if verbose == 1 and c > 0:
-            print('%.2f\t%.2f\t%s' % (h/c, o/c, name))
+            print('%.3f\t%.3f\t%s' % (h/c, o/c, name))
         if verbose > 1:
             print()
     if quest > 0:
-        print('Totals: Clusters %d   Questions %d   Accuracy %.2f   OPP %.2f'
+        print('Totals: Clusters %d   Questions %d   Accuracy %.3f   OPP %.3f'
               % (clust, quest, hits/quest, opp/quest))
     else:
         print('Nothing to evaluate!')
