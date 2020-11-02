@@ -1,7 +1,7 @@
 käärid
 joonlaud
 pastakas
-harilik pliiats
+harilik_pliiats
 kustukumm
 pliiatsiteritaja
 marker
