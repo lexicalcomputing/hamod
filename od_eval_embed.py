@@ -17,12 +17,13 @@ def read_embeddings(filename, vocab_file='vocab.txt'):
         f.readline() # skip dictionary size
         dim = int(f.readline())
         id2str = [w.strip() for w in f]
-        vec = np.fromfile(filename, 'f4' if filename.endswith('32') else 'f2')
+        dtype = np.float32 if filename.endswith('32') else np.float16
+        vec = np.memmap(filename, dtype=dtype, mode='r')
         vec.resize(len(id2str), dim)
     elif filename.endswith('.bin'):
         # bin file  --> words from vocab_file
         id2str = [line.split(None, 1)[0] for line in open(vocab_file, encoding='utf-8')]
-        vec = np.fromfile(filename, 'f8')
+        vec = np.memmap(filename, dtype=np.float64, mode='r')
         dim = vec.shape[0] // len(id2str)
         vec.resize(len(id2str), dim)
     else:
@@ -42,9 +43,6 @@ def read_embeddings(filename, vocab_file='vocab.txt'):
             id2str = id2str[1:]
         
     str2id = {w: idx for idx, w in enumerate(id2str)}
-    # normalize each word vector to unit variance
-    d = np.linalg.norm(vec, axis=1)
-    vec /= np.expand_dims(d, 1)
 
     if verbose > 2:
         print('read_embeddings: dim=%d shape=%s' % (dim, vec.shape))
@@ -61,13 +59,15 @@ class Embeddings:
     def outlier_position(self, iwords, iout):
         clv = [self.compose_vectors(mw) for mw in [iout] + iwords]
         cluster = np.vstack(clv)
+        d = np.linalg.norm(cluster, axis=1)
+        cluster /= np.expand_dims(d, 1)
         sim = np.sum(np.matmul(cluster, cluster.T), axis=0)
         sim -= 1   # similarity to self
         sim /= len(iwords)    # normalize to the size of cluster
         return sum(sim >= sim[0]), sim
 
     def compose_vectors(self, multiword_ids):
-        v = self.vec[multiword_ids[0]]
+        v = np.copy(self.vec[multiword_ids[0]])
         for i in multiword_ids[1:]:
             v += self.vec[i]
         v /= len(multiword_ids)
