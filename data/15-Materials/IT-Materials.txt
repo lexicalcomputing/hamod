@@ -1,0 +1,17 @@
+di_metallo
+di_vetro
+di_legno
+di_stoffa
+di_carta
+di_pelle
+di_alluminio
+d'oro
+
+computerizzato
+animato
+pesante
+piccolo
+albero
+taccuino
+sciocco
+semplice
