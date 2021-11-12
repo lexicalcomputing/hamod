@@ -1,0 +1,17 @@
+sterno
+mascella
+femore
+osso_del_gomito
+scapola
+osso_pelvico
+perone
+tibia
+
+padella
+cestino
+articolazione
+cartilagine
+sangue
+muscolo
+colorato
+piccolo
