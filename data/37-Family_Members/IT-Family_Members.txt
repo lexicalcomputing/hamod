@@ -1,0 +1,17 @@
+nonna
+nonno
+sorella
+madre
+zia
+zio
+fratello
+padre
+
+essere_umano
+persona
+Maria
+Giuseppe
+anziano
+adolescente
+candela
+tatuaggio
