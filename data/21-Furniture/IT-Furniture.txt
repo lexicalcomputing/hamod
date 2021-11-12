@@ -1,0 +1,17 @@
+poltrona
+divano
+sgabello
+armadio
+scaffale
+tavolo
+comodino
+letto
+
+frigorifero
+lavastoviglie
+bidone_dell'immondizia
+tappeto
+legno
+vetro
+Maria
+cannone
