@@ -1,0 +1,17 @@
+quercia
+betulla
+faggio
+tiglio
+acero
+abete_rosso
+pino
+abete
+
+albero_genealogico
+frattale
+tronco
+erbaccia
+argilla
+fiore
+pranzo
+crematorio
