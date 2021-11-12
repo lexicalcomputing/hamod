@@ -1,0 +1,17 @@
+tedesco
+polacco
+inglese
+italiano
+russo
+ceco
+francese
+olandese
+
+script_in_Java
+Python
+alfabeto_russo
+alfabeto_latino
+Francia
+USA
+computer_portatile
+orecchino
