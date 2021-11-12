@@ -1,0 +1,17 @@
+nome
+aggettivo
+pronome
+numerale
+verbo
+congiunzione
+avverbio
+interiezione
+
+suono
+persone
+flessibilità
+coniugazione
+singolare
+tempo
+carpa
+niente
