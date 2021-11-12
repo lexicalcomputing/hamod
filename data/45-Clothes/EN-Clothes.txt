@@ -9,7 +9,7 @@ coat
 
 sheet
 blanket
-glassess
+glasses
 hair_clip
 cotton
 polyester
