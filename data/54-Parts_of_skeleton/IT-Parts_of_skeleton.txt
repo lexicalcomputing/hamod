@@ -3,7 +3,7 @@ mascella
 femore
 osso_del_gomito
 scapola
-bacino
+osso_pelvico
 perone
 tibia
 
