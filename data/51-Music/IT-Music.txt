@@ -1,0 +1,17 @@
+nota
+compositore
+chitarra
+rock
+flauto
+suono
+microfono
+cantante
+
+lettera
+colore
+immagine
+scultura
+scrittore
+uccello
+elicottero
+maiale
