@@ -1,0 +1,17 @@
+scorpione
+leone
+ariete
+gemelli
+toro
+acquario
+bilancia
+vergine
+
+puma
+rondine
+ratto
+tigre
+luna
+personaggio
+capelli
+asciugamano
