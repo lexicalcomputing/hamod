@@ -1,0 +1,17 @@
+mosca
+zanzara
+vespa
+ape
+formica
+farfalla
+coccinella
+ragno
+
+gabbiano
+vipera
+topo
+rana
+volpe
+scoiattolo
+portachiavi
+pietra
