@@ -1,0 +1,17 @@
+addome
+schiena
+braccio
+gamba
+fianco
+ginocchio
+spalla
+polpaccio
+
+rene
+scarpe
+appetito
+articolazioni
+crampo
+stivale
+gonfio
+deforme
