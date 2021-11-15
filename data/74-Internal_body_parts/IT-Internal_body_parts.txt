@@ -1,0 +1,17 @@
+cervello
+cuore
+vescica
+cistifellea
+polmoni
+reni
+fegato
+stomaco
+
+appetito
+infiammazione
+digestione
+psiche
+nervi
+metabolismo
+anima
+mente
