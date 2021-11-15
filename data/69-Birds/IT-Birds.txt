@@ -1,0 +1,17 @@
+cigno
+anatra
+gabbiano
+aquila
+colomba
+corvo
+cicogna
+oca
+
+scimmia
+salmone
+donna
+scogliera
+zanzara
+mosca
+uovo
+aeroplano
