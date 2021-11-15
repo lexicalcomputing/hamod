@@ -1,0 +1,17 @@
+scarpe_con_i_tacchi_alti
+stivali_da_pioggia
+sandali
+stivali
+sneakers
+scarpe_da_tennis
+infradito
+ciabatte
+
+pantaloni
+maglietta
+gonna
+marciapiede
+calzettoni
+calze
+vestiti
+tuta
