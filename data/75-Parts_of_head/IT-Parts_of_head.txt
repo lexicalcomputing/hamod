@@ -1,0 +1,17 @@
+fronte
+mento
+naso
+guancia
+orecchie
+occhi
+labbra
+bocca
+
+fondoschiena
+cappello
+baffi
+cappotto
+orecchino
+rigonfiamento
+unghie
+rossetto
