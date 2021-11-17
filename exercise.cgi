@@ -98,6 +98,6 @@ elif action == "next":
 elif action == "eval":
     c = conn.cursor()
     ex_id = form["id"].value.lower()
-    r = eval_exercise (c, load_exercise_data(datapath), ex_id)[0]
+    r = eval_exercise (c, load_exercise_data(datapath), "ALL", ex_id)[0]
     print(json.dumps(r))
 
