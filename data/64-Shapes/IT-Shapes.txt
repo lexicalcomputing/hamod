@@ -1,0 +1,17 @@
+cubo
+triangolo
+rettangolo
+sfera
+rombo
+piramide
+cono
+cilindro
+
+piscina
+sole
+righello
+gomma
+matematica
+angolo
+foglio
+deltaplano
