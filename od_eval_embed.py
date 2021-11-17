@@ -209,7 +209,7 @@ if __name__ == '__main__':
     parser.add_argument('-vectors', type=str, help='evaluate word2vec vectors')
     parser.add_argument('-vocab', default='vocab.txt', type=str,
                         help='vocabulary file for binary vectors')
-    parser.add_argument('-corpus', type=str, help='evaluate SkE theasaurs on CORPUS')
+    parser.add_argument('-corpus', type=str, help='evaluate SkE thesaurus on CORPUS')
     parser.add_argument('-data', default='data', type=str,
                         help='data directory with cluster files')
     parser.add_argument('-prefix', default='', type=str,
