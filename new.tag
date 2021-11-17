@@ -30,6 +30,9 @@
                 <option value="CS">Czech</option>
                 <option value="EN">English</option>
                 <option value="ET">Estonian</option>
+                <option value="FR">French</option>
+                <option value="DE">German</option>
+                <option value="IT">Italian</option>
                 <option value="SK">Slovak</option>
               </select>
               <label>Select your language</label>
