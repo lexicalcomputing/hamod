@@ -9,7 +9,7 @@ bocca
 
 fondoschiena
 cappello
-baffi
+dito
 cappotto
 orecchino
 rigonfiamento
