@@ -7,7 +7,7 @@ river
 dune
 lagoon
 
-città
+city
 road
 tree
 puddle
@@ -15,4 +15,3 @@ hiking
 holiday
 tomato
 list
-
