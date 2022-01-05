@@ -1,0 +1,17 @@
+sunny
+cloudy
+rainy
+windy
+foggy
+stormy
+snowy
+changeable
+
+sun
+cloud
+hail_storm
+heat
+happy
+angry
+kettle
+disk
