@@ -1,0 +1,17 @@
+lion
+elephant
+gazelle
+leopard
+hippo
+zebra
+hyena
+giraffe
+
+bear
+wild_boar
+cow
+hen
+baobab
+cactus
+mirror
+chocolate
