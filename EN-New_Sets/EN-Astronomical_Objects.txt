@@ -1,0 +1,17 @@
+star
+planet
+black_hole
+nebula
+galaxy
+asteroid
+meteorite
+comet
+
+orbit
+universe
+spacecraft
+telescope
+gravity
+light_year
+biscuit
+journey
