@@ -15,4 +15,3 @@ jewelry_store
 goldsmith
 snow
 rain
-
