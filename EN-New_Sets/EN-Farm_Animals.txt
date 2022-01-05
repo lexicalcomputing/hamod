@@ -1,0 +1,17 @@
+cow
+pig
+horse
+rabbit
+goose
+chicken
+sheep
+donkey
+
+fox
+wolf
+ham
+roast_chicken
+milking
+livestock
+garlic
+pan
