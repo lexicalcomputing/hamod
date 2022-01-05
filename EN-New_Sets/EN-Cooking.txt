@@ -8,10 +8,10 @@ fry
 garlic
 
 butcher
-tavolo
+table
 dining_room
+kitchen
 set_the_table
 tidy
 cloth
 carpet
-
