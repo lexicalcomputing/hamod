@@ -1,0 +1,17 @@
+anxiety
+depression
+OCD
+apathy
+anorexia
+schizophrenia
+bipolarism
+addiction
+
+diabetes
+asthma
+treatment
+recovery
+psychiatric_drug
+sedative
+candle
+tree
