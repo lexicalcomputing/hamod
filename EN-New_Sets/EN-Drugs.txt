@@ -1,0 +1,17 @@
+cocaine
+heroin
+LSD
+marijuana
+opium
+methamphetamine
+morphine
+hashish
+
+tablet
+syringe
+injection
+inhalation
+drug_dealer
+drug_addict
+biscuit
+spoon
