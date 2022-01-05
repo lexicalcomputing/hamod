@@ -15,7 +15,3 @@ volcano
 river
 pan
 bed
-
-
-
-
