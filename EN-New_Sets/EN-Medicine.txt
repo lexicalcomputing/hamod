@@ -15,7 +15,3 @@ personal_trainer
 training
 chocolate
 email
-
-
-
-
