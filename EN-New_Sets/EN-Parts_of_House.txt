@@ -15,5 +15,3 @@ kitchen
 living_room
 secret
 pizza
-
-
