@@ -1,0 +1,17 @@
+bomb
+sword
+nuclear_weapon
+machine_gun
+grenade
+cannon
+dagger
+rifle
+
+rolling_pin
+baseball_bat
+explode
+kill
+war
+withdrawal
+cake
+glass
