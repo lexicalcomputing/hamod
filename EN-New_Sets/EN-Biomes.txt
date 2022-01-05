@@ -1,0 +1,17 @@
+rainforest
+savanna
+jungle
+steppe
+desert
+mediterranean_scrub
+tundra
+boreal_forest
+
+ecosystem
+habitat
+sea
+flatland
+latitude
+longitude
+sweet
+coat
