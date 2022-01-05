@@ -1,0 +1,17 @@
+elections
+government
+party
+propaganda
+parliament
+ballot
+republic
+prime_minister
+
+prison
+credit_card
+accountant
+contest
+team
+soldier
+beach_chair
+umbrella
