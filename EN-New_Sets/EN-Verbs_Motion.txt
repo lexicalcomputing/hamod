@@ -1,0 +1,17 @@
+walk
+run
+enter
+exit
+arrive
+leave
+go_down
+come_up
+
+sleep
+call
+love
+know
+car
+road
+ice_cream
+drawer
