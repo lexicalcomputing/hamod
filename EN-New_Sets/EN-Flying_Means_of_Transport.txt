@@ -15,5 +15,3 @@ pilot
 flight_attendant
 demolition
 hunting
-
-
