@@ -1,0 +1,17 @@
+pan
+flour
+ladle
+chef
+slice
+oil
+fry
+garlic
+
+butcher
+tavolo
+dining_room
+set_the_table
+tidy
+cloth
+carpet
+
