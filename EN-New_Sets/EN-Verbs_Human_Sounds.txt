@@ -1,0 +1,17 @@
+whistle
+grumble
+hiccup
+whisper
+sing
+burp
+yawn
+chuckle
+
+moo
+neigh
+dance
+sleep
+voice
+tear
+sofa
+kitchen
