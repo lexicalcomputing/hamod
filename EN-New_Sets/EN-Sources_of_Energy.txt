@@ -1,0 +1,17 @@
+oil
+nuclear_power
+coal
+gas
+biomass
+wind_power
+solar_energy
+hydropower
+
+heat
+electricity
+petrol_station
+power_plant
+extraction
+nuclear_fission
+towel
+mouse
