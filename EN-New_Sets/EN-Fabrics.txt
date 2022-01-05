@@ -1,0 +1,17 @@
+velvet
+tartan
+flannel
+satin
+tulle
+tweed
+canvas
+polar_fleece
+
+thread
+embroidery
+t-shirt
+tablecloth
+weave
+sew
+ladle
+chair
