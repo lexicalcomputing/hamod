@@ -1,0 +1,17 @@
+lemonade
+smoothie
+juice
+milkshake
+iced_tea
+milk
+coffee
+tea
+
+birra
+vino
+ice
+lemon
+glass
+bottle
+table
+candle
