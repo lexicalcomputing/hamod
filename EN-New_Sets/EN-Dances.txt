@@ -1,0 +1,17 @@
+tango
+breakdance
+tap_dance
+salsa
+waltz
+samba
+classical_dance
+ballroom_dance
+
+rock
+soul
+yoga
+artistic_gymnastics
+theatre
+stage
+oil
+chili_pepper
