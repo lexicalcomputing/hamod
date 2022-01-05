@@ -1,0 +1,17 @@
+semantics
+pronoun
+language
+prefix
+conjugate
+adjective
+morphology
+decline
+
+book
+teacher
+school
+subtract
+prime_number
+property
+guitar
+yogurt
