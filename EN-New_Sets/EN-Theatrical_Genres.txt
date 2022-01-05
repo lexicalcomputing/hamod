@@ -1,0 +1,17 @@
+comedy
+tragedy
+musical
+cabaret
+opera
+pantomime
+tableau vivant
+ballet
+
+detective_story
+fantasy
+stage
+curtain
+acting
+scenic_design
+chair
+bottle
