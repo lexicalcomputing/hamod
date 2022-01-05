@@ -15,4 +15,3 @@ gardening
 watering_can
 nose
 sniff
-
