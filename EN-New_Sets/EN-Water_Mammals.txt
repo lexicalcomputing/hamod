@@ -1,0 +1,17 @@
+whale
+dolphin
+orca
+seal
+walrus
+sperm_whale
+narwhal
+beluga
+
+shark
+catfish
+frog
+crocodile
+hunting
+fishing
+spoon
+bed
