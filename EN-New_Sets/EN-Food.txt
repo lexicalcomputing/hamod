@@ -1,0 +1,17 @@
+vegetables
+fruit
+bread
+diary_products
+meat
+eggs
+legumes
+grains
+
+spoon
+dish
+meal
+dinner
+cook
+freeze
+rainbow
+sofa
