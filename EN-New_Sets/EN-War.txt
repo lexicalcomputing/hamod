@@ -1,0 +1,17 @@
+soldier
+trench
+invasion
+recruit
+projectile
+peace_treaty
+land_mine
+veteran
+
+athlete
+flood
+quarrel
+baseball_bat
+competition
+referee
+star
+computer
