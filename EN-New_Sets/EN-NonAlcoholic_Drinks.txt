@@ -7,8 +7,8 @@ milk
 coffee
 tea
 
-birra
-vino
+beer
+wine
 ice
 lemon
 glass
