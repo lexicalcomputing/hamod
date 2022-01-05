@@ -1,0 +1,17 @@
+hip hop
+jazz
+reggae
+country
+rock
+soul
+folk
+heavy_metal
+
+tap_dance
+breakdance
+piano
+guitar
+band
+songwriter
+ice_cream
+wardrobe
