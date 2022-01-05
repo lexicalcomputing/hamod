@@ -4,7 +4,7 @@ musical
 cabaret
 opera
 pantomime
-tableau vivant
+tableau_vivant
 ballet
 
 detective_story
