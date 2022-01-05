@@ -1,0 +1,17 @@
+vampire
+witch
+gnome
+dragon
+unicorn
+mermaid
+zombie
+werewolf
+
+snake
+human_being
+wand
+broom
+evil_eye
+magic_spell
+pizza
+beer
