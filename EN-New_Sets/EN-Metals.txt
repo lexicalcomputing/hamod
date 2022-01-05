@@ -1,0 +1,17 @@
+lead
+iron
+gold
+zinc
+platinum
+copper
+aluminium
+nickel
+
+oxigen
+hydrogen
+nail
+knife
+melting
+corrosion
+parsley
+mixer
