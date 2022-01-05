@@ -15,6 +15,3 @@ combine_harvester
 crop
 bottle
 bag
-
-
-
