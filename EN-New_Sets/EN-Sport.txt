@@ -1,0 +1,17 @@
+racket
+handball
+athlete
+referee
+tennis
+shin_guard
+skate
+ski
+
+gardening
+carpentry
+cook
+sleep
+chef
+gardener
+spade
+broom
