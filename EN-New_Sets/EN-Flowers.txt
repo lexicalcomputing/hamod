@@ -13,5 +13,5 @@ cherry_tree
 cactus
 gardening
 watering_can
-nose
-sniff
+computer
+bark
