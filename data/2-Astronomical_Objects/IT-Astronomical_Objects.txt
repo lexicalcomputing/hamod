@@ -1,0 +1,17 @@
+stella
+pianeta
+buco_nero
+satellite
+galassia
+asteroide
+meteorite
+cometa
+
+orbita
+eclissi
+astronauta
+telescopio
+gravità
+anno_luce
+fontana
+pace

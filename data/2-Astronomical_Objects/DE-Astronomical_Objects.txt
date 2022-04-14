@@ -1,0 +1,17 @@
+Stern
+Planet
+schwarzes_Loch
+Satellit
+Galaxie
+Asteroid
+Meteorit
+Komet
+
+Orbit
+Mondfinsternis
+Astronaut
+Teleskop
+Schwerkraft
+Lichtjahr
+Brunnen
+Frieden

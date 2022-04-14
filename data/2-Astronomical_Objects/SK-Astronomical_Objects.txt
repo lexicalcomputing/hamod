@@ -1,0 +1,17 @@
+hviezda
+planéta
+čierna_diera
+satelit
+galaxia
+asteroid
+meteorit
+kométa
+
+orbita
+zatmenie
+astronaut
+teleskop
+gravitácia
+svetelný_rok
+fontána
+mier

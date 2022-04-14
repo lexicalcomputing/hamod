@@ -1,0 +1,17 @@
+star
+planet
+black_hole
+satellite
+galaxy
+asteroid
+meteorite
+comet
+
+orbit
+eclipse
+astronaut
+telescope
+gravity
+light_year
+fountain
+peace

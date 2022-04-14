@@ -1,0 +1,17 @@
+étoile
+planète
+trou_noir
+satellite
+galaxie
+astéroïde
+météorite
+comète
+
+orbite
+éclipse
+astronaute
+télescope
+gravitation
+année-lumière
+fontaine
+paix

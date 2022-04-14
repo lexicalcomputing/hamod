@@ -1,0 +1,17 @@
+täht
+planeet
+must_auk
+satelliit
+galaktika
+asteroid
+meteoriit
+komeet
+
+orbiit
+varjutus
+astronaut
+teleskoop
+gravitatsioon
+valgusaasta
+purskkaev
+rahu
