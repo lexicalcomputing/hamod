@@ -1,0 +1,17 @@
+exhibition
+painting
+crayon
+fresco
+artist
+watercolours
+portrait
+marble
+
+house_painter
+spoon
+musician
+embroidery
+tale
+writing
+heater
+ceiling

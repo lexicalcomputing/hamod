@@ -1,0 +1,17 @@
+mostra
+quadro
+pastello
+affresco
+artista
+acquerello
+ritratto
+marmo
+
+imbianchino
+cucchiaio
+musicista
+ricamo
+favola
+scrittura
+calorifero
+soffitto
