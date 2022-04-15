@@ -1,0 +1,17 @@
+Tag
+Monat
+Jahr
+Woche
+Sekunde
+Minute
+Jahrtausend
+Jahrhundert
+
+Liter
+Meter
+Vormittag
+Nachmittag
+Rhythmus
+Geschwindigkeit
+Witwe
+Seil

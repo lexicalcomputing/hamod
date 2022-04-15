@@ -1,0 +1,17 @@
+mur
+toit
+porte
+façade
+plancher
+escaliers
+pilastre
+fenêtre
+
+linoléum
+carreau
+appartement
+villa
+cuisine
+garage
+secret
+religion

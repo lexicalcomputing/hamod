@@ -1,0 +1,17 @@
+ruffle
+trim
+braid
+dye
+straighten
+shave
+comb
+curl
+
+iron
+rub_on
+paint
+prune
+blush
+pale
+inform
+fly

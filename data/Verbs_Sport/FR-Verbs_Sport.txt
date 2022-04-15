@@ -1,0 +1,17 @@
+patiner
+courir
+skier
+sauter
+nager
+plonger
+gravir
+danser
+
+coucher
+prendre_le_soleil
+cuisinier
+nettoyer
+suer
+maigrir
+représenter
+ouvrir

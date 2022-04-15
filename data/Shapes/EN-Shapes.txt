@@ -1,0 +1,17 @@
+cube
+triangle
+sphere
+rectangle
+rhombus
+pyramid
+cone
+cylinder
+
+perimeter
+angle
+geometry
+maths
+volume
+compass
+shell
+flag

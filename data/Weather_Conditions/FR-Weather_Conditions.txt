@@ -1,0 +1,17 @@
+ensoleillé
+nuageux
+pluvieux
+venteux
+brumeux
+orageux
+neigeux
+étouffant
+
+sombre
+clair
+brillant
+noir
+heureux
+fâché
+inégal
+oriental

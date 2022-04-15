@@ -1,0 +1,17 @@
+lion
+elephant
+gazelle
+leopard
+hippo
+zebra
+hyena
+giraffe
+
+bear
+hare
+hamster
+cat
+poacher
+safari
+balance
+antenna

@@ -1,0 +1,17 @@
+sunny
+cloudy
+rainy
+windy
+foggy
+stormy
+snowy
+muggy
+
+dark
+bright
+shiny
+black
+happy
+angry
+unequal
+eastern

@@ -1,0 +1,17 @@
+géographie
+physique
+chimie
+biologie
+éducation_physique
+langue_étrangère
+éducation_artistique
+histoire
+
+scout
+céramique
+pause
+déjeuner
+cours_particuliers
+enseignant
+cuillère_en_bois
+pont

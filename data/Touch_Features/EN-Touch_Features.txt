@@ -1,0 +1,17 @@
+sticky
+soft
+coarse
+sharp
+stiff
+slimy
+smooth
+wavy
+
+massive
+mild
+strong
+weak
+somber
+limpid
+southern
+distant

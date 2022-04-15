@@ -1,0 +1,17 @@
+hasič
+doktor
+kovář
+prodavač
+kuchař
+švadlena
+právník
+policista
+
+dospělý
+puberťák
+dobrovolník
+tchyně
+práce
+kancelář
+deník
+místo

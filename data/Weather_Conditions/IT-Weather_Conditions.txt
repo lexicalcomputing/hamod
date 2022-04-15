@@ -1,0 +1,17 @@
+soleggiato
+nuvoloso
+piovoso
+ventilato
+nebbioso
+temporalesco
+nevoso
+afoso
+
+scuro
+chiaro
+brillante
+nero
+felice
+arrabbiato
+disuguale
+orientale

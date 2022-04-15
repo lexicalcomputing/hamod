@@ -1,0 +1,17 @@
+canoë
+barque
+navire
+bateau_à_vapeur
+ferry
+yacht
+bateau_de_croisière
+vedette
+
+voiture
+montgolfière
+phoque
+bouée
+port
+navigation
+médaille
+perruque

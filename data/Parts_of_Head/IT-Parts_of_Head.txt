@@ -1,0 +1,17 @@
+fronte
+mento
+naso
+guancia
+orecchio
+occhio
+labbro
+bocca
+
+sedere
+dito
+cappello
+orecchino
+rossetto
+ombretto
+pallina_da_tennis
+pedigree

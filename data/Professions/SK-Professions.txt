@@ -1,0 +1,17 @@
+hasič
+doktor
+kováč
+predavač
+kuchár
+krajčírka
+právnik
+policajt
+
+dospelý
+adolescent
+dobrovoľník
+svokra
+práca
+kancelária
+denník
+miesto

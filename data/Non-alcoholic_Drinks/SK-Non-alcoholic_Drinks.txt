@@ -1,0 +1,17 @@
+limonáda
+odvar
+džús
+nealko
+bylinkový_čaj
+mlieko
+káva
+čaj
+
+pivo
+víno
+ľad
+citrón
+sklo
+slamka
+žiarlivosť
+popis

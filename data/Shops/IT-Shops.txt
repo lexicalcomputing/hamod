@@ -1,0 +1,17 @@
+farmacia
+libreria
+tabaccheria
+negozio_di_vestiti
+supermercato
+macelleria
+ortofrutta
+panificio
+
+cinema
+stazione
+sigaretta
+spesa
+scontrino
+sconto
+punto
+segretario

@@ -1,0 +1,17 @@
+Auto
+Bus
+Taxi
+Fahrrad
+Motorrad
+Obus
+Lieferwagen
+Motorroller
+
+Schlittschuh
+Flugzeug
+Straße
+Kreisverkehr
+Verkehr
+Verkehrsunfall
+Rugby
+Toaster

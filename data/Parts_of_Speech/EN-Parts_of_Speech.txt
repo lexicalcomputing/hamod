@@ -1,0 +1,17 @@
+noun
+adjective
+pronoun
+numeral
+verb
+conjunction
+adverb
+interjection
+
+singular
+tense
+conjugation
+inflection
+grammar
+consonant
+nerve
+hot_dog

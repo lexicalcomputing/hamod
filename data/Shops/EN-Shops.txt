@@ -1,0 +1,17 @@
+pharmacy
+book_shop
+tobacco_shop
+clothes_store
+supermarket
+butcher_shop
+grocery
+bakery
+
+cinema
+station
+cigarette
+shopping
+receipt
+discount
+point
+clerk

@@ -1,0 +1,17 @@
+podstatné_jméno
+přídavné_jméno
+zájmeno
+číslovka
+sloveso
+spojka
+příslovce
+citoslovce
+
+jednotné_číslo
+čas
+časování
+skloňování
+gramatika
+souhláska
+nerv
+párek

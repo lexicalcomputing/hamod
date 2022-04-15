@@ -1,0 +1,17 @@
+Eiche
+Birke
+Buche
+Linde
+Ahorn
+Fichte
+Kiefer
+Tanne
+
+Rinde
+Stamm
+Unkraut
+Blüte
+Stammbaum
+Photosynthese
+Körper
+Krematorium

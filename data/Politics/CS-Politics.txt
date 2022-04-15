@@ -1,0 +1,17 @@
+volby
+vláda
+strana
+hlasování
+parlament
+hlasovací_lístek
+republika
+premiér
+
+vězení
+kreditní_karta
+vedoucí
+soutěž
+tým
+voják
+lehátko
+čára

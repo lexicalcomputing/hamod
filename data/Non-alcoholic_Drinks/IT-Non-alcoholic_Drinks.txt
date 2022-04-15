@@ -1,0 +1,17 @@
+limonata
+aranciata
+succo
+frappè
+tè_freddo
+latte
+caffè
+tisana
+
+birra
+vino
+ghiaccio
+limone
+bicchiere
+cannuccia
+gelosia
+descrizione

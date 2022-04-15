@@ -1,0 +1,17 @@
+Wand
+Dach
+Tür
+Vorderfront
+Fußboden
+Treppe
+Säule
+Fenster
+
+Linoleum
+Fliese
+Wohnung
+Stadthaus
+Küche
+Garage
+Geheimnis
+Religion

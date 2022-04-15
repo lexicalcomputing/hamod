@@ -1,0 +1,17 @@
+podstatné_meno
+prídavné_meno
+zámeno
+číslovka
+sloveso
+spojka
+príslovka
+citoslovce
+
+jednotné_číslo
+čas
+časovanie
+skloňovanie
+gramatika
+spoluhláska
+nerv
+párok

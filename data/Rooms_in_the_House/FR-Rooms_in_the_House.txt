@@ -1,0 +1,17 @@
+cuisine
+toilettes
+salon
+salle_de_bain
+salle_à_manger
+buanderie
+chambre_à_coucher
+cave
+
+wagon
+cockpit
+salle_de_concert
+réception
+canapé
+cuisinière
+remarque
+étudiant

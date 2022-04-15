@@ -1,0 +1,17 @@
+fry
+cook
+slice
+roast
+bake
+grate
+knead
+pan_fry
+
+set_the_table
+serve
+feed
+starve
+explode
+rot
+copy
+develop

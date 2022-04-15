@@ -1,0 +1,17 @@
+čelo
+brada
+nos
+tvář
+ucho
+oko
+ret
+ústa
+
+zadek
+prst
+klobouk
+náušnice
+rtěnka
+oční_stíny
+tenisák
+rodokmen

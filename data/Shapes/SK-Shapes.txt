@@ -1,0 +1,17 @@
+kocka
+trojuholník
+guľa
+obdĺžnik
+kosoštvorec
+ihlan
+kužeľ
+valec
+
+obvod
+uhol
+geometria
+matematika
+objem
+kružidlo
+mušľa
+vlajka

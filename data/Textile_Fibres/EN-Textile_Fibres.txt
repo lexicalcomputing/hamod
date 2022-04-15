@@ -1,0 +1,17 @@
+wool
+silk
+cotton
+nylon
+viscose
+linen
+cashmere
+fleece
+
+thread
+embroidery
+trousers
+sweater
+sewing_machine
+needlework
+tooth
+friendship

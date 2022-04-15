@@ -1,0 +1,17 @@
+anacardi
+arachidi
+mandorla
+nocciola
+noci
+pinoli
+pistacchio
+castagna
+
+lenticchia
+uvetta
+banana
+anguria
+burro_di_arachidi
+torrone
+bagaglio
+vittima

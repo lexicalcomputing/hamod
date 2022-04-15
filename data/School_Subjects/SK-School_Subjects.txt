@@ -1,0 +1,17 @@
+geografia
+fyzika
+chémia
+biológia
+telesná_výchova
+cudzí_jazyk
+výtvarná_výchova
+dejepis
+
+skaut
+keramika
+prestávka
+obed
+doučovanie
+učiteľ
+varecha
+most

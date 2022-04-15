@@ -1,0 +1,17 @@
+õli
+tuumaenergia
+kivisüsi
+gaas
+metaan
+tuuleenergia
+päikeseenergia
+hüdroenergia
+
+soojus
+elekter
+bensiinijaam
+elektrijaam
+kaevandamine
+tuumalõhustumine
+suudlus
+seljakott

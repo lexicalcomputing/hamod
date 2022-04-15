@@ -1,0 +1,17 @@
+canoe
+boat
+ship
+steamship
+ferry
+yacht
+cruise_ship
+motorboat
+
+car
+hot_air_balloon
+seal
+buoy
+harbour
+sailing
+medal
+wig

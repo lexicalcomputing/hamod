@@ -1,0 +1,17 @@
+soldato
+trincea
+invasione
+battaglia
+pallottola
+trattato_di_pace
+mina_antiuomo
+veterano
+
+atleta
+inondazione
+litigio
+bastone
+gara
+arbitro
+filosofia
+portafoglio

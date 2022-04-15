@@ -1,0 +1,17 @@
+car
+bus
+taxi
+bike
+motorbike
+trolleybus
+van
+scooter
+
+skates
+airplane
+road
+roundabout
+traffic
+car_crash
+rugby
+toaster

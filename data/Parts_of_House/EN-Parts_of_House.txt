@@ -1,0 +1,17 @@
+wall
+roof
+door
+facade
+floor
+stairs
+pillar
+window
+
+linoleum
+tile
+apartment
+townhouse
+kitchen
+garage
+secret
+religion

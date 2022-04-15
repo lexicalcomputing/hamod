@@ -1,0 +1,17 @@
+Gin
+Whiskey
+Wodka
+Rum
+Wein
+Bier
+Tequila
+Cognac
+
+Wasser
+Saft
+Tee
+Kaffee
+Kartoffel
+Gerste
+Prinzessin
+Park

@@ -1,0 +1,17 @@
+essen
+kauen
+schlucken
+schlingen
+beißen
+knabbern
+verdauen
+schlemmen
+
+erbrechen
+fasten
+zu_Mittag_essen
+zu_Abend_essen
+zunehmen
+erkranken
+zeigen
+schlagen

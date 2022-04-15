@@ -1,0 +1,17 @@
+jour
+mois
+an
+semaine
+seconde
+minute
+millénaire
+siècle
+
+litre
+mètre
+matin
+après-midi
+rythme
+vitesse
+veuve
+corde

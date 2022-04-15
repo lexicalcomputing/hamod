@@ -1,0 +1,17 @@
+stěna
+střecha
+dveře
+fasáda
+podlaha
+schodiště
+pilíř
+okno
+
+linoleum
+dlaždice
+byt
+vila
+kuchyně
+garáž
+tajemství
+náboženství

@@ -1,0 +1,17 @@
+storm
+thunderstorm
+cloud
+rainfall
+snow
+fog
+hail
+wind
+
+ice
+steam
+umbrella
+stream
+climate_change
+weather_forecast
+decision
+matchstick

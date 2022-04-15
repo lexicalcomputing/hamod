@@ -1,0 +1,17 @@
+scarpe_col_tacco
+stivali_da_pioggia
+sandali
+stivali
+sneakers
+scarpe_da_tennis
+infradito
+ciabatte
+
+collant
+calza
+pantaloni
+jeans
+camminata
+corsa
+gabbia
+bellezza

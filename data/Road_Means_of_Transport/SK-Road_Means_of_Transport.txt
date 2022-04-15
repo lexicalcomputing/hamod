@@ -1,0 +1,17 @@
+auto
+autobus
+taxi
+bicykel
+motocykel
+trolejbus
+van
+skúter
+
+korčule
+lietadlo
+cesta
+kruhový_objazd
+premávka
+dopravná_nehoda
+rugby
+hriankovač

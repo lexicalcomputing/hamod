@@ -1,0 +1,17 @@
+accelerare
+frenare
+parcheggiare
+guidare
+svoltare
+rallentare
+sterzare
+sbandare
+
+navigare
+deragliare
+pedalare
+passeggiare
+gareggiare
+vincere
+salutare
+scavare

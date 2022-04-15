@@ -1,0 +1,17 @@
+firefighter
+doctor
+smith
+seller
+cook
+dressmaker
+lawyer
+police_officer
+
+adult
+teenager
+volunteer
+mother_in_law
+job
+office
+diary
+place

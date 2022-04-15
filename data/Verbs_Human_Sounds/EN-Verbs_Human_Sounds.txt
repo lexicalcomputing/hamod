@@ -1,0 +1,17 @@
+whistle
+grumble
+hiccup
+whisper
+sing
+burp
+yawn
+chuckle
+
+bray
+hiss
+wake
+sleep
+love
+listen
+clear_the_table
+work

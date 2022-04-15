@@ -1,0 +1,17 @@
+election
+government
+party
+poll
+parliament
+ballot
+republic
+prime_minister
+
+prison
+credit_card
+boss
+contest
+team
+soldier
+deckchair
+line

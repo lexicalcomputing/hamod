@@ -1,0 +1,17 @@
+sonnig
+bewölkt
+regnerisch
+windig
+neblig
+stürmisch
+verschneit
+schwül
+
+dunkel
+hell
+funkelnd
+schwarz
+glücklich
+wütend
+ungleich
+östlich

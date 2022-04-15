@@ -1,0 +1,17 @@
+nome
+aggettivo
+pronome
+numerale
+verbo
+congiunzione
+avverbio
+interiezione
+
+singolare
+tempo
+coniugazione
+declinazione
+grammatica
+consonante
+nervo
+salsiccia

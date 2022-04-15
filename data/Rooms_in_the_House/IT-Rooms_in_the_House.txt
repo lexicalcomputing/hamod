@@ -1,0 +1,17 @@
+cucina
+gabinetto
+salotto
+bagno
+sala_da_pranzo
+ripostiglio
+camera_da_letto
+cantina
+
+vagone
+cabina_di_pilotaggio
+sala_concerti
+reception
+divano
+fornello
+commento
+studente

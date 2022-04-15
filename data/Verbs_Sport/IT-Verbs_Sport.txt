@@ -1,0 +1,17 @@
+pattinare
+correre
+sciare
+saltare
+nuotare
+tuffare
+arrampicare
+ballare
+
+giacere
+prendere_il_sole
+cucinare
+riordinare
+sudare
+dimagrire
+rappresentare
+aprire

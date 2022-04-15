@@ -1,0 +1,17 @@
+dub
+breza
+buk
+lipa
+javor
+smrek
+borovica
+jedľa
+
+kôra
+kmeň
+burina
+kvet
+rodokmeň
+fotosyntéza
+telo
+krematórium

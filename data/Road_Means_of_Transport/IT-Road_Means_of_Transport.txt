@@ -1,0 +1,17 @@
+automobile
+autobus
+taxi
+bicicletta
+moto
+filobus
+furgone
+scooter
+
+pattini
+aeroplano
+strada
+rotonda
+traffico
+incidente_stradale
+rugby
+tostapane

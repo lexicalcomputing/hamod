@@ -1,0 +1,17 @@
+high_heels
+rain_boots
+sandals
+boots
+sneakers
+trainers
+flip-flops
+slippers
+
+stockings
+sock
+trousers
+jeans
+walk
+run
+cage
+beauty

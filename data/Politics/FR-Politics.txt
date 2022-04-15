@@ -1,0 +1,17 @@
+élection
+gouvernement
+parti
+vote
+parlement
+bulletin_de_vote
+république
+premier_ministre
+
+prison
+carte_de_crédit
+directeur
+compétition
+équipe
+soldat
+transat
+ligne

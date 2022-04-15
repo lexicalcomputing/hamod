@@ -1,0 +1,17 @@
+Apotheke
+Buchhandlung
+Kiosk
+Bekleidungsgeschäft
+Supermarkt
+Fleischerei
+Lebensmittelgeschäft
+Bäckerei
+
+Kino
+Bahnhof
+Zigarette
+Einkaufen
+Quittung
+Rabatt
+Punkt
+Sekretär

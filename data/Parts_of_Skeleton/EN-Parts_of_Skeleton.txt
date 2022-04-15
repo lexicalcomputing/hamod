@@ -1,0 +1,17 @@
+breastbone
+jawbone
+femur
+coccyx
+shoulder_blade
+collarbone
+fibula
+tibia
+
+joint
+cartilage
+blood
+muscle
+fracture
+dislocation
+mould
+bin

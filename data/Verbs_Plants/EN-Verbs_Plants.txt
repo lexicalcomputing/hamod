@@ -1,0 +1,17 @@
+bloom
+grow
+germinate
+sprout
+breed
+spring
+blossom
+photosynthesize
+
+sleep
+laugh
+have_to
+know
+want
+understand
+move_away
+find

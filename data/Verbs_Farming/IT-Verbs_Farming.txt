@@ -1,0 +1,17 @@
+coltivare
+arare
+seminare
+irrigare
+piantare
+concimare
+zappare
+raccogliere
+
+allevare
+mungere
+macinare
+infarinare
+spazzare
+pulire
+agitare
+ospitare

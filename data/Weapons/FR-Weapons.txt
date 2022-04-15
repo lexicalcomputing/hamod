@@ -1,0 +1,17 @@
+bombe
+épée
+arme_nucléaire
+mitrailleuse
+grenade
+canon
+poignard
+fusil
+
+rouleau_à_pâtisserie
+batte_de_baseball
+explosion
+massacre
+guerre
+coup_de_feu
+calendrier
+croix

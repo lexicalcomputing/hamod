@@ -1,0 +1,17 @@
+kiirendama
+pidurdama
+parkima
+sõitma
+rooli_keerama
+aeglustama
+juhtima
+libisema
+
+purjetama
+maabuma
+pedaalima
+jalutama
+võistlema
+võitma
+tervitama
+kaevama

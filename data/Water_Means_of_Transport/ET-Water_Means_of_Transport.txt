@@ -1,0 +1,17 @@
+kanuu
+paat
+laev
+aurulaev
+parvlaev
+jaht
+kruiisilaev
+mootorpaat
+
+auto
+kuumaõhupall
+hüljes
+poi
+sadam
+purjetamine
+medal
+parukas

@@ -1,0 +1,17 @@
+day
+month
+year
+week
+second
+minute
+millennium
+century
+
+litre
+metre
+morning
+afternoon
+rhythm
+speed
+widow
+rope

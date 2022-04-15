@@ -1,0 +1,17 @@
+Bombe
+Schwert
+Atombombe
+Maschinengewehr
+Granate
+Kanone
+Dolch
+Gewehr
+
+Nudelholz
+Baseballschläger
+Explosion
+Gemetzel
+Krieg
+Schuss
+Kalender
+Kreuz

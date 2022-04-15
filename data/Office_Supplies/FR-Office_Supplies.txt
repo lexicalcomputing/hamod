@@ -1,0 +1,17 @@
+ciseaux
+règle
+stylo
+crayon
+gomme
+taille-crayon
+feutre
+trousse
+
+bureau
+chaise
+machine_à_café
+mug
+pinceau
+toile
+bouton
+ruban

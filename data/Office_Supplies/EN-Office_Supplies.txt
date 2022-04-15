@@ -1,0 +1,17 @@
+scissors
+ruler
+ball_pen
+pencil
+eraser
+pencil_sharpener
+marker
+pencil_case
+
+desk
+chair
+coffee_machine
+mug
+paint_brush
+canvas
+button
+ribbon

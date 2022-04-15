@@ -1,0 +1,17 @@
+geografia
+fisica
+chimica
+biologia
+educazione_fisica
+lingua_straniera
+educazione_artistica
+storia
+
+scout
+ceramica
+intervallo
+pranzo
+ripetizioni
+insegnante
+cucchiaio_di_legno
+ponte

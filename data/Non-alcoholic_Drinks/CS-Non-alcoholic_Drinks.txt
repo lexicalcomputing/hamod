@@ -1,0 +1,17 @@
+limonáda
+sodovka
+džus
+mléčný_koktejl
+ledový_čaj
+mléko
+káva
+čaj
+
+pivo
+víno
+led
+citron
+sklenice
+brčko
+žárlivost
+popis

@@ -1,0 +1,17 @@
+kitchen
+toilet
+living_room
+bathroom
+dining_room
+utility_room
+bedroom
+cellar
+
+wagon
+cockpit
+concert_hall
+reception
+sofa
+cooker
+comment
+student

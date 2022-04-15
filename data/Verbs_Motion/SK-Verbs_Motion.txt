@@ -1,0 +1,17 @@
+ísť
+vrátiť_sa
+vstúpiť
+vyjsť
+prísť
+odísť
+zostúpiť
+vystúpiť
+
+hodiť
+vziať
+spať
+počúvať
+milovať
+vedieť
+oddeliť
+osoliť

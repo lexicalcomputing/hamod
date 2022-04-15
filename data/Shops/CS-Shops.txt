@@ -1,0 +1,17 @@
+lékárna
+knihkupectví
+trafika
+butik
+supermarket
+řeznictví
+cukrárna
+pekárna
+
+kino
+stanice
+cigareta
+nákup
+účtenka
+sleva
+bod
+tajemník

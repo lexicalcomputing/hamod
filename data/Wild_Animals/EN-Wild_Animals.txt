@@ -1,0 +1,17 @@
+wild_boar
+hedgehog
+wolf
+deer
+marmot
+hawk
+howl
+polecat
+
+panda
+seal
+fur
+horns
+hunting
+extinction
+treasure
+light_bulb

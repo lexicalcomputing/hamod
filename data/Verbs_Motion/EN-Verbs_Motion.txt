@@ -1,0 +1,17 @@
+go
+return
+enter
+exit
+arrive
+leave
+go_down
+go_up
+
+throw
+catch
+sleep
+listen
+love
+know
+separate
+salt

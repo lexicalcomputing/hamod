@@ -1,0 +1,17 @@
+Kanu
+Boot
+Schiff
+Dampfschiff
+Fähre
+Jacht
+Kreuzfahrtschiff
+Motorboot
+
+Auto
+Heißluftballon
+Seehund
+Boje
+Hafen
+Schifffahrt
+Medaille
+Perücke

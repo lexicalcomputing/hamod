@@ -1,0 +1,17 @@
+cultiver
+labourer
+semer
+irriguer
+planter
+fertiliser
+biner
+récolter
+
+élever
+traire
+moudre
+fariner
+balayer
+nettoyer
+secouer
+régaler

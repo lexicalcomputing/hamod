@@ -1,0 +1,17 @@
+call
+answer
+hang_up
+text
+ring
+chat
+phone
+call_back
+
+sing
+yell
+program
+interview
+film
+subscribe
+stop
+push

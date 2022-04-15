@@ -1,0 +1,17 @@
+petrolio
+energia_nucleare
+carbone
+gas_naturale
+metano
+energia_eolica
+energia_solare
+energia_idroelettrica
+
+calore
+elettricità
+benzinaio
+centrale_elettrica
+estrazione
+fissione_nucleare
+bacio
+zaino

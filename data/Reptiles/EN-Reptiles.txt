@@ -1,0 +1,17 @@
+crocodile
+snake
+lizard
+turtle
+gecko
+chameleon
+iguana
+alligator
+
+frog
+hippo
+worm
+spider
+hiss
+molt
+scratch
+sleeve

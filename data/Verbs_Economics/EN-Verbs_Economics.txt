@@ -1,0 +1,17 @@
+sell
+buy
+pay
+charge
+get_into_debt
+tax
+invest
+finance
+
+rob
+cozen
+mediate
+sign
+measure
+weigh
+wait
+stutter

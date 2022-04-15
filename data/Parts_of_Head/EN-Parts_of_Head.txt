@@ -1,0 +1,17 @@
+forehead
+chin
+nose
+cheek
+ear
+eye
+lip
+mouth
+
+butt
+finger
+hat
+earring
+lipstick
+eye_shadow
+tennis_ball
+pedigree

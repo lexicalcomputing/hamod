@@ -1,0 +1,17 @@
+ropa
+jaderná_energie
+uhlí
+plyn
+metan
+větrná_energie
+sluneční_energie
+vodní_energie
+
+teplo
+elektřina
+čerpací_stanice
+elektrárna
+těžba
+atomová_bomba
+polibek
+batoh

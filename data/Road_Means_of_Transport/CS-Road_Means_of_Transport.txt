@@ -1,0 +1,17 @@
+auto
+autobus
+taxi
+jízdní_kolo
+motocykl
+trolejbus
+dodávka
+skútr
+
+brusle
+letadlo
+cesta
+kruhový_objezd
+provoz
+dopravní_nehoda
+ragby
+topinkovač

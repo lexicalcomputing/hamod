@@ -1,0 +1,17 @@
+Würfel
+Dreieck
+Kugel
+Rechteck
+Rhombus
+Pyramide
+Kegel
+Zylinder
+
+Umfang
+Winkel
+Geometrie
+Mathematik
+Volumen
+Zirkel
+Muschel
+Flagge

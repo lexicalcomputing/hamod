@@ -1,0 +1,17 @@
+say
+claim
+ask
+reply
+call
+announce
+repeat
+mention
+
+listen
+hear
+cough
+sneeze
+sleep
+eat
+reduce
+sabotage

@@ -1,0 +1,17 @@
+krychle
+trojúhelník
+koule
+obdélník
+kosočtverec
+jehlan
+kužel
+válec
+
+obvod
+úhel
+geometrie
+matematika
+objem
+kružítko
+mušle
+vlajka

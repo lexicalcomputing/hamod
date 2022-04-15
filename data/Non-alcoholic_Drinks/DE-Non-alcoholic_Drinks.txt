@@ -1,0 +1,17 @@
+Limonade
+Smoothie
+Saft
+Apfelsaft
+Eistee
+Milch
+Kaffee
+Tee
+
+Bier
+Wein
+Eis
+Zitrone
+Glas
+Strohhalm
+Eifersucht
+Beschreibung

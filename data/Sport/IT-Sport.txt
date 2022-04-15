@@ -1,0 +1,17 @@
+racchetta
+pallamano
+atleta
+arbitro
+tennis
+pallone
+partita
+sci
+
+nascondino
+gioco_da_tavolo
+retino
+mestolo
+cameriere
+giardiniere
+vanga
+pisello

@@ -1,0 +1,17 @@
+nuusutama
+haistma
+lehkama
+haisema
+kiirgama
+välja_hingama
+lõhnama
+sisse_hingama
+
+maitsma
+puudutama
+kuulama
+nägema
+veritsema
+minestama
+kandma
+päästma

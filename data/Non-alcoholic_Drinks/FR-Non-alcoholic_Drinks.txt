@@ -1,0 +1,17 @@
+limonade
+smoothie
+jus
+frappé
+thé_glacé
+lait
+café
+thé
+
+bière
+vin
+glace
+citron
+verre
+paille
+jalousie
+description

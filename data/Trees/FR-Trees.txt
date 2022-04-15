@@ -1,0 +1,17 @@
+chêne
+bouleau
+hêtre
+tilleul
+érable
+épicéa
+pin
+sapin
+
+écorce
+tronc
+mauvaise_herbe
+fleur
+arbre_généalogique 
+photosynthèse
+corps
+crématorium

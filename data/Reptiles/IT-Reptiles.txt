@@ -1,0 +1,17 @@
+coccodrillo
+serpente
+lucertola
+tartaruga
+geco
+camaleonte
+iguana
+alligatore
+
+rana
+ippopotamo
+verme
+ragno
+sibilo
+muta
+graffio
+manica

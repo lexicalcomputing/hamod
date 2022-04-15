@@ -1,0 +1,17 @@
+atletika
+gymnastika
+plavání
+běh_na_lyžích
+cyklistika
+bruslení
+volejbal
+windsurfing
+
+jogging
+turistika
+uniforma
+míč
+sportovec
+tým
+šíp
+lupič

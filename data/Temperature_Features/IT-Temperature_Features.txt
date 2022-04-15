@@ -1,0 +1,17 @@
+caldo
+freddo
+tiepido
+bollente
+fresco
+ghiacciato
+gelido
+rovente
+
+liquido
+gassoso
+asciutto
+bagnato
+pallido
+opaco
+distrutto
+occidentale

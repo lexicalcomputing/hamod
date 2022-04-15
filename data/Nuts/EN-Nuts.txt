@@ -1,0 +1,17 @@
+cashew
+peanut
+almond
+hazelnut
+walnut
+pine_nut
+pistachio
+chestnut
+
+lentil
+raisin
+banana
+watermelon
+peanut_butter
+nougat
+luggage
+victim

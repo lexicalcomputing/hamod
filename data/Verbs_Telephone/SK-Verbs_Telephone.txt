@@ -1,0 +1,17 @@
+zavolať
+odpovedať
+zavesiť
+poslať_správu
+rinčať
+konverzovať
+telefonovať
+zložiť
+
+spievať
+kričať
+programovať
+robiť_rozhovor
+filmovať
+odoberať
+zastaviť
+zatlačiť

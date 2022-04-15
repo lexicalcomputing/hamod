@@ -1,0 +1,17 @@
+athletics
+artistic_gymnastics
+swimming
+cross-country_skiing
+cycling
+skating
+volleyball
+windsurf
+
+jogging
+hiking
+uniform
+ball
+athlete
+team
+arrow
+thief

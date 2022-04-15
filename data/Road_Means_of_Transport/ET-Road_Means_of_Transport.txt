@@ -1,0 +1,17 @@
+auto
+buss
+takso
+jalgratas
+mootorratas
+trollibuss
+kaubik
+roller
+
+rulluisud
+lennuk
+maantee
+ringristmik
+liiklus
+autoõnnetus
+ragbi
+röster

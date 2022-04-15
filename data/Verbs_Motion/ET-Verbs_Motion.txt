@@ -1,0 +1,17 @@
+minema
+tagasi_minema
+sisenema
+väljuma
+jõudma
+lahkuma
+alla_minema
+üles_tulema
+
+viskama
+püüdma
+magama
+kuulama
+armastama
+teadma
+eraldama
+soolama

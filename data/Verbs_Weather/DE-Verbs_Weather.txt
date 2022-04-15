@@ -1,0 +1,17 @@
+regnen
+schneien
+hageln
+gießen
+donnern
+bewölken
+nieseln
+gefrieren
+
+verdampfen
+kochen
+weinen
+zerstören
+heulen
+beruhigen
+legen
+heben

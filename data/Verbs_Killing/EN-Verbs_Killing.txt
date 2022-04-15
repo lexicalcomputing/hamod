@@ -1,0 +1,17 @@
+kill
+assassinate
+batter
+murder
+suffocate
+drown
+strangle
+poison
+
+commit_suicide
+die
+imprison
+accuse
+acquit
+bury
+connect
+visit

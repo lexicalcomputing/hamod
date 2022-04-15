@@ -1,0 +1,17 @@
+giorno
+mese
+anno
+settimana
+biennio
+minuto
+millennio
+secolo
+
+litro
+metro
+mattina
+pomeriggio
+ritmo
+velocità
+vedova
+corda

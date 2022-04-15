@@ -1,0 +1,17 @@
+pharmacie
+librairie
+kiosque
+magasin_de_vêtements
+supermarché
+boucherie
+épicerie
+boulangerie
+
+cinéma
+gare
+cigarette
+achat
+reçu
+rabais
+point
+secrétaire

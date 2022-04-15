@@ -1,0 +1,17 @@
+bomba
+spada
+arma_nucleare
+mitragliatrice
+granata
+cannone
+pugnale
+fucile
+
+mattarello
+mazza_da_baseball
+esplosione
+strage
+guerra
+sparo
+calendario
+croce

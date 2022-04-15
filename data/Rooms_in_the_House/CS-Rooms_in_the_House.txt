@@ -1,0 +1,17 @@
+kuchyně
+toaleta
+obývací_pokoj
+koupelna
+jídelna
+dětský_pokoj
+ložnice
+sklep
+
+vagón
+pilotní_kabina
+koncertní_sál
+recepce
+pohovka
+sporák
+poznámka
+student

@@ -1,0 +1,17 @@
+trucider
+assassiner
+massacrer
+tuer
+étouffer
+noyer
+étrangler
+empoisonner
+
+se_suicider
+mourir
+emprisonner
+accuser
+acquitter
+enterrer
+connecter
+visiter

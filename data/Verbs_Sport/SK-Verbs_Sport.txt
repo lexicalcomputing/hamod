@@ -1,0 +1,17 @@
+korčuľovať
+behať
+lyžovať
+skákať
+plávať
+potápať_sa
+liezť
+tancovať
+
+ležať
+opaľovať_sa
+variť
+upratovať
+potiť_sa
+schudnúť
+predstavovať
+otvoriť

@@ -1,0 +1,17 @@
+eat
+chew
+swallow
+ingest
+bite
+nibble
+digest
+gorge
+
+vomit
+fast
+have_lunch
+dine
+gain_weight
+sicken
+show
+beat

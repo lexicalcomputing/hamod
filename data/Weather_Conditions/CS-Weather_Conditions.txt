@@ -1,0 +1,17 @@
+slunný
+oblačný
+deštivý
+větrný
+mlhavý
+bouřkový
+sněžný
+dusný
+
+temný
+jasný
+lesklý
+černý
+šťastný
+rozzlobený
+nerovný
+východní

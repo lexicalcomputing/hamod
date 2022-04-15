@@ -1,0 +1,17 @@
+pompier
+médecin
+forgeron
+vendeur
+cuisinier
+couturier
+avocat
+policier
+
+adulte
+adolescent
+volontaire
+belle-mère
+travail
+bureau
+journal
+place

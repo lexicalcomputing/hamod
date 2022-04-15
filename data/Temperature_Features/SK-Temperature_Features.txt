@@ -1,0 +1,17 @@
+teplý
+studený
+vlažný
+vrelý
+chladný
+ľadový
+mrazivý
+žeravý
+
+kvapalný
+plynný
+suchý
+mokrý
+bledý
+nepriehľadný
+zničený
+západný

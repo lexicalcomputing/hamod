@@ -1,0 +1,17 @@
+bark
+maul
+sniff
+wag
+growl
+howl
+yelp
+bite
+
+roar
+squeak
+die
+wound
+speak
+shout
+keep
+echo

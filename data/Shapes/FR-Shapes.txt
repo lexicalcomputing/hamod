@@ -1,0 +1,17 @@
+cube
+triangle
+sphère
+rectangle
+losange
+pyramide
+cône
+cylindre
+
+périmètre
+angle
+géométrie
+mathématiques
+volume
+compas
+coquille
+drapeau

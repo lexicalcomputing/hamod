@@ -1,0 +1,17 @@
+cultivate
+plough
+sow
+water
+plant
+fertilise
+hoe
+harvest
+
+breed
+milk
+grind
+flour
+sweep
+clean
+shake
+host

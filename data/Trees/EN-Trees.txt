@@ -1,0 +1,17 @@
+oak
+birch
+beech
+linden
+maple
+spruce
+pine
+fir
+
+bark
+trunk
+weed
+flower
+family_tree
+photosynthesis
+body
+crematorium

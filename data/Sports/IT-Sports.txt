@@ -1,0 +1,17 @@
+atletica_leggera
+ginnastica_artistica
+nuoto
+sci_di_fondo
+ciclismo
+pattinaggio
+pallavolo
+windsurf
+
+jogging
+escursionismo
+divisa
+palla
+atleta
+squadra
+freccia
+ladro

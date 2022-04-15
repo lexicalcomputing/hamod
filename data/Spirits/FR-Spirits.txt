@@ -1,0 +1,17 @@
+gin
+whisky
+vodka
+rhum
+vin
+bière
+tequila
+cognac
+
+eau
+jus
+thé
+café
+pomme_de_terre
+orge
+princesse
+parc

@@ -1,0 +1,17 @@
+temporale
+acquazzone
+nuvola
+pioggia
+neve
+nebbia
+grandine
+vento
+
+ghiaccio
+vapore
+ombrello
+torrente
+cambiamento_climatico
+previsioni_meteo
+decisione
+fiammifero

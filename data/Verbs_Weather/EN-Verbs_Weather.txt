@@ -1,0 +1,17 @@
+rain
+snow
+hail
+pour
+thunder
+cloud_over
+drizzle
+freeze
+
+evaporate
+boil
+cry
+destroy
+howl
+calm_down
+lay
+lift

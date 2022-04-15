@@ -1,0 +1,17 @@
+nom
+adjectif
+pronom
+numéral
+verbe
+conjonction
+adverbe
+interjection
+
+singulier
+temps
+conjugaison
+déclinaison
+grammaire
+consonne
+nerf
+saucisse

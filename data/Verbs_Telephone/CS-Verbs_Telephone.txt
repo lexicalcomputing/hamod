@@ -1,0 +1,17 @@
+zavolat
+odpovědět
+zavěsit
+textovat
+řinčet
+konverzovat
+telefonovat
+zavolat_zpátky
+
+zpívat
+vřískat
+programovat
+dělat_rozhovor
+filmovat
+odebírat
+přestat
+zatlačit

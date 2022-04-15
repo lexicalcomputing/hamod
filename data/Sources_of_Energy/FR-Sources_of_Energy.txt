@@ -1,0 +1,17 @@
+pétrole
+énergie_nucléaire
+charbon
+gaz
+méthane
+énergie_éolienne
+énergie_solaire
+hydroélectricité
+
+chaleur
+électricité
+station-service
+centrale_électrique
+extraction
+fission_nucléaire
+bise
+sac_à_dos

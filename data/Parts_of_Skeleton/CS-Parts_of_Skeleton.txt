@@ -1,0 +1,17 @@
+hrudní_kost
+čelist
+stehenní_kost
+kostrč
+lopatka
+pánevní_kost
+klíční_kost
+holenní_kost
+
+kloub
+chrupavka
+krev
+sval
+zlomenina
+vykloubení
+plíseň
+koš_na_odpadky

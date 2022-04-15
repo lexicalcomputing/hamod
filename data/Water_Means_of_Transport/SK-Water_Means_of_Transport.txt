@@ -1,0 +1,17 @@
+kanoe
+čln
+loď
+parník
+trajekt
+jachta
+výletná_loď
+motorový_čln
+
+auto
+teplovzdušný_balón
+tuleň
+plavák
+prístav
+plavba
+medaila
+parochňa

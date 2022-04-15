@@ -1,0 +1,17 @@
+pompiere
+medico
+fabbro
+venditore
+cuoco
+sarto
+avvocato
+poliziotto
+
+adulto
+adolescente
+volontario
+suocera
+lavoro
+ufficio
+diario
+luogo

@@ -1,0 +1,17 @@
+talons_hauts
+bottes_de_pluie
+sandales
+bottes
+sneakers
+baskets
+tongs
+chaussons
+
+bas
+chaussette
+pantalon
+jeans
+randonnée
+course
+cage
+beauté

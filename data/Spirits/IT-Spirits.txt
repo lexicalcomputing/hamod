@@ -1,0 +1,17 @@
+gin
+whisky
+vodka
+rum
+vino
+birra
+tequila
+cognac
+
+acqua
+succo
+tè
+caffè
+patata
+orzo
+principessa
+parco

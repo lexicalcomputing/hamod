@@ -1,0 +1,17 @@
+raketa
+hádzaná
+športovec
+rozhodca
+tenis
+lopta
+zápas
+lyžovanie
+
+schovávačka
+stolová_hra
+palice
+naberačka
+čašník
+záhradník
+rýľ
+hrášok

@@ -1,0 +1,17 @@
+front
+menton
+nez
+joue
+oreille
+œil
+lèvre
+bouche
+
+derrière
+doigt
+chapeau
+boucle_d'_oreille
+rouge_à_lèvres 
+fard_à_paupières
+balle_de_tennis
+pedigree

@@ -1,0 +1,17 @@
+heiß
+kalt
+lau
+kochend
+kühl
+gefroren
+eiskalt
+glühend
+
+flüssig
+gasförmig
+trocken
+nass
+blass
+undurchsichtig
+zerstört
+westlich

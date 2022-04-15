@@ -1,0 +1,17 @@
+hot
+cold
+warm
+boiling
+cool
+freezing
+gelid
+scorching
+
+liquid
+gaseous
+dry
+wet
+pale
+opaque
+destroyed
+western

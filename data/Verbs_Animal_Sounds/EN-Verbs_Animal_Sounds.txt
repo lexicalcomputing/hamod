@@ -1,0 +1,17 @@
+bark
+meow
+bleat
+moo
+croak
+cheep
+neigh
+purr
+
+chuckle
+hiccup
+gore
+stomp
+bang
+kick
+earn
+freeze

@@ -1,0 +1,17 @@
+crocodile
+serpent
+lézard
+tortue
+gecko
+caméléon
+iguane
+alligator
+
+grenouille
+hippopotame
+ver
+araignée
+sifflement
+mue
+égratignure
+manche

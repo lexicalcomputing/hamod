@@ -1,0 +1,17 @@
+pumpkin
+carrot
+celery
+cabbage
+salad
+beetroot
+cauliflower
+onion
+
+apple
+mango
+almond
+chocolate
+egg
+milk
+plastic
+tower

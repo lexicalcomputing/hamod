@@ -1,0 +1,17 @@
+chaud
+froid
+tiède
+bouillant
+frais
+gelé
+glacial
+brûlant
+
+liquide
+gazeux
+sec
+mouillé
+pâle
+opaque
+détruit
+occidental

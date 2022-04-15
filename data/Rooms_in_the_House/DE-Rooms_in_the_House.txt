@@ -1,0 +1,17 @@
+Küche
+Toilette
+Wohnzimmer
+Badezimmer
+Esszimmer
+Kinderzimmer
+Schlafzimmer
+Keller
+
+Wagen
+Cockpit
+Konzertsaal
+Rezeption
+Sofa
+Kocher
+Anmerkung
+Student

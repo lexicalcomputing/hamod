@@ -1,0 +1,17 @@
+voir
+entrevoir
+entendre
+sentir
+écouter
+regarder
+percevoir
+remarquer
+
+aveugler
+faire_taire
+comprendre
+ignorer
+approuver
+nier
+tomber
+garantir

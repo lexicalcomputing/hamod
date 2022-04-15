@@ -1,0 +1,17 @@
+päev
+kuu
+aasta
+nädal
+sekund
+minut
+millennium
+sajand
+
+liiter
+meeter
+hommik
+pärastlõuna
+rütm
+kiirus
+lesk
+köis

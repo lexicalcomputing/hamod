@@ -1,0 +1,17 @@
+lemonade
+smoothie
+juice
+milkshake
+iced_tea
+milk
+coffee
+tea
+
+beer
+wine
+ice
+lemon
+glass
+straw
+jealousy
+description

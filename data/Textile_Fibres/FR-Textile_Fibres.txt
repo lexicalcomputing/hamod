@@ -1,0 +1,17 @@
+laine
+soie
+coton
+nylon
+viscose
+lin
+cachemire
+molleton
+
+fil
+broderie
+pantalon
+pull
+machine_à_coudre
+couture
+dent
+amitié

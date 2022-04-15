@@ -1,0 +1,17 @@
+dub
+bříza
+buk
+lípa
+javor
+smrk
+borovice
+jedle
+
+kůra
+kmen
+plevel
+květina
+rodokmen
+fotosyntéza
+tělo
+krematorium

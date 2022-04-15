@@ -1,0 +1,17 @@
+muro
+tetto
+porta
+parete
+pavimento
+scale
+pilastro
+finestra
+
+linoleum
+piastrella
+appartamento
+villa
+cucina
+garage
+segreto
+religione

@@ -1,0 +1,17 @@
+päikeseline
+pilvine
+vihmane
+tuuline
+udune
+tormine
+lumine
+umbne
+
+tume
+ere
+läikiv
+must
+õnnelik
+vihane
+ebavõrdne
+idapoolne

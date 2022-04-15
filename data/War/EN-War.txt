@@ -1,0 +1,17 @@
+soldier
+trench
+invasion
+battle
+bullet
+peace_treaty
+land_mine
+veteran
+
+athlete
+flood
+quarrel
+stick
+competition
+referee
+philosophy
+wallet

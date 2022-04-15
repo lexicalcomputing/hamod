@@ -1,0 +1,17 @@
+Feuerwehrmann
+Arzt
+Schmied
+Verkäufer
+Koch
+Schneider
+Rechtsanwalt
+Polizist
+
+Erwachsene
+Teenager
+Freiwillige
+Schwiegermutter
+Arbeit
+Büro
+Tagebuch
+Platz

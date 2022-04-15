@@ -1,0 +1,17 @@
+den
+měsíc
+rok
+týden
+vteřina
+minuta
+tisíciletí
+století
+
+litr
+metr
+ráno
+odpoledne
+rytmus
+rychlost
+vdova
+lano

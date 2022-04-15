@@ -1,0 +1,17 @@
+andare
+tornare
+entrare
+uscire
+arrivare
+partire
+scendere
+salire
+
+lanciare
+prendere
+dormire
+ascoltare
+amare
+conoscere
+separare
+salare

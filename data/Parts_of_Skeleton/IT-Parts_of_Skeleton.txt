@@ -1,0 +1,17 @@
+sterno
+mascella
+femore
+coccige
+scapola
+clavicola
+perone
+tibia
+
+articolazione
+cartilagine
+sangue
+muscolo
+frattura
+lussazione
+muffa
+cestino

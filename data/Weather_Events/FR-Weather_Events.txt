@@ -1,0 +1,17 @@
+orage
+averse
+nuage
+pluie
+neige
+brouillard
+grêle
+vent
+
+glace
+vapeur
+parapluie
+torrent
+changement_climatique
+prévision_météo
+décision
+allumette

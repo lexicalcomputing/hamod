@@ -1,0 +1,17 @@
+leone
+elefante
+gazzella
+leopardo
+ippopotamo
+zebra
+iena
+giraffa
+
+orso
+lepre
+criceto
+gatto
+bracconiere
+safari
+equilibrio
+antenna

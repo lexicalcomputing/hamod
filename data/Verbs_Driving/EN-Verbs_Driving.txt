@@ -1,0 +1,17 @@
+hasten
+brake
+park
+drive
+turn
+slow_down
+steer
+swerve
+
+sail
+derail
+pedal
+stroll
+compete
+win
+greet
+dig

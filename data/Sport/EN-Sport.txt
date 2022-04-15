@@ -1,0 +1,17 @@
+racket
+handball
+athlete
+referee
+tennis
+ball
+match
+ski
+
+hide_and_seek
+board_game
+small_net
+ladle
+waiter
+gardener
+spade
+pea

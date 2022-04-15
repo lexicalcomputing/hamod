@@ -1,0 +1,17 @@
+cubo
+triangolo
+sfera
+rettangolo
+rombo
+piramide
+cono
+cilindro
+
+perimetro
+angolo
+geometria
+matematica
+volume
+compasso
+conchiglia
+bandiera

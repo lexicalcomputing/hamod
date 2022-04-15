@@ -1,0 +1,17 @@
+sternum
+mâchoire
+fémur
+coccyx
+omoplate
+clavicule
+péroné
+tibia
+
+articulation
+cartilage
+sang
+muscle
+fracture
+luxation
+moisissure
+bac_de_recyclage

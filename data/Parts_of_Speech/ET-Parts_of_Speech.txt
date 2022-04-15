@@ -1,0 +1,17 @@
+nimisõna
+omadussõna
+asesõna
+arvsõna
+tegusõna
+sidesõna
+määrsõna
+hüüdsõna
+
+ainsus
+aeg
+pööramine
+käänamine
+grammatika
+konsonant
+närv
+viiner

@@ -1,0 +1,17 @@
+canoa
+barca
+nave
+piroscafo
+traghetto
+gondola
+nave_da_crociera
+motoscafo
+
+automobile
+mongolfiera
+foca
+boa
+porto
+navigazione
+medaglia
+parrucca

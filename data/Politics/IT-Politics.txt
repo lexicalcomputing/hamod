@@ -1,0 +1,17 @@
+elezione
+governo
+partito
+votazione
+parlamento
+scheda_elettorale
+repubblica
+primo_ministro
+
+prigione
+carta_di_credito
+direttore
+competizione
+squadra
+soldato
+sdraio
+linea

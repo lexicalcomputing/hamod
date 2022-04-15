@@ -1,0 +1,17 @@
+voiture
+bus
+taxi
+vélo
+moto
+trolleybus
+camionnette
+scooter
+
+patins
+avion
+route
+rond-point
+trafic
+accident
+rugby
+grille-pain
