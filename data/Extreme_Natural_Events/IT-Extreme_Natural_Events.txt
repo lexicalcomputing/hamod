@@ -1,0 +1,17 @@
+incendio
+alluvione
+uragano
+tsunami
+tornado
+terremoto
+eruzione_vulcanica
+valanga
+
+pioggia
+vento
+bombardamento
+genocidio
+vulcano
+fiume
+animale
+schiavo

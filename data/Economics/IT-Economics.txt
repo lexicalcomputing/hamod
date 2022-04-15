@@ -1,0 +1,17 @@
+banca
+denaro
+bilancio
+paradiso_fiscale
+debito
+carta_di_credito
+inflazione
+bancarotta
+
+prigione
+magistrato
+epidemia
+pericolo
+paradiso_terrestre
+carta_da_forno
+bruco
+circo

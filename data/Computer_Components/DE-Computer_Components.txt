@@ -1,0 +1,17 @@
+Bildschirm
+Maus
+Modem
+Drucker
+Tastatur
+Festplatte
+Hauptplatine
+Soundkarte
+
+Telefon
+Fernbedienung
+Internet
+Datei
+Programm
+Gigabyte
+Staub
+Rehe

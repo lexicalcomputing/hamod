@@ -1,0 +1,17 @@
+vegetable
+fruit
+bread
+fish
+meat
+egg
+legume
+grain
+
+spoon
+dish
+meal
+dinner
+flavour
+frying
+rainbow
+ambulance

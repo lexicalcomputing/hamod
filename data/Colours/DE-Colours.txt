@@ -1,0 +1,17 @@
+rot
+blau
+grün
+gelb
+violett
+rosa
+orange
+braun
+
+dunkel
+hell
+hölzern
+gläsern
+gestreift
+gefleckt
+traurig
+niedrig

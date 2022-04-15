@@ -1,0 +1,17 @@
+maglietta
+vestito
+pantaloni
+pantaloncini
+maglione
+gonna
+camicia
+cappotto
+
+lenzuolo
+coperta
+occhiali
+fermacapelli
+cotone
+lana
+portachiavi
+confine

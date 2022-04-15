@@ -1,0 +1,17 @@
+vampire
+sorcière
+elfe
+dragon
+licorne
+sirène
+zombie
+loup-garou
+
+serpent
+humain
+baguette_magique
+potion
+magie
+sortilège
+nature
+midi

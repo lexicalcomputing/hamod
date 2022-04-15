@@ -1,0 +1,17 @@
+felice
+triste
+arrabbiato
+nervoso
+preoccupato
+allegro
+disperato
+ansioso
+
+ipocrita
+gentile
+malato
+vecchio
+snello
+grasso
+settentrionale
+sintetico

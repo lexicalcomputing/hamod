@@ -1,0 +1,17 @@
+vodík
+helium
+kyslík
+uhlík
+sodík
+vápník
+síra
+jód
+
+molekula
+atom
+chemická_reakce
+oxidace
+zkumavka
+chemik
+kostel
+zrcadlo

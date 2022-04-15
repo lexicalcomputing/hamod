@@ -1,0 +1,17 @@
+tango
+breakdance
+tap_dance
+salsa
+waltz
+samba
+classical_dance
+ballroom_dance
+
+rap
+soul
+step
+musical
+theatre
+dancer
+woodworker
+smile

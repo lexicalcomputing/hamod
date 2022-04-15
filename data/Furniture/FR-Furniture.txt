@@ -1,0 +1,17 @@
+fauteuil
+canapé
+tabouret
+armoire
+étagère
+table
+table_de_chevet
+lit
+
+réfrigérateur
+lave-vaisselle
+poubelle
+balai
+bois
+verre
+comédie
+plume

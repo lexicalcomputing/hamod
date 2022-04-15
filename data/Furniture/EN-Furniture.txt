@@ -1,0 +1,17 @@
+armchair
+sofa
+stool
+wardrobe
+shelf
+table
+bed_table
+bed
+
+fridge
+dishwasher
+trash_can
+broom
+wood
+glass
+comedy
+feather

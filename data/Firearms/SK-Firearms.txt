@@ -1,0 +1,17 @@
+puška
+pištoľ
+guľomet
+karabína
+brokovnica
+revolver
+samopal
+mušketa
+
+strela
+meč
+tank
+vojak
+vojna
+vrah
+slovník
+literatúra

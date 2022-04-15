@@ -1,0 +1,17 @@
+Gehirn
+Herz
+Blase
+Darm
+Lunge
+Niere
+Leber
+Magen
+
+Seele
+Geist
+Fuß
+Finger
+Appetit
+Entzündung
+Haus
+Holz

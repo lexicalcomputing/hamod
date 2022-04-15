@@ -1,0 +1,17 @@
+mais
+riso
+frumento
+orzo
+miglio
+avena
+segale
+grano_saraceno
+
+arachidi
+mandorla
+pane
+pasta
+contadino
+raccolto
+mummia
+tempio

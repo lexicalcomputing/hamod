@@ -1,0 +1,17 @@
+assiette
+bol
+verre
+mug
+tasse
+fourchette
+couteau
+cuillère
+
+marteau
+hache
+sandwich
+omelette
+gorgée
+beuverie
+trou
+ballon

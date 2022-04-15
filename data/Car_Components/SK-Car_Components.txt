@@ -1,0 +1,17 @@
+stierač
+čelné_sklo
+blatník
+airbag
+volant
+predné_svetlo
+klaksón
+výfuk
+
+auto
+nákladné_vozidlo
+vodičský_preukaz
+cestujúci
+premávka
+semafor
+budúcnosť
+papagáj

@@ -1,0 +1,17 @@
+televiisor
+kõlar
+sülearvuti
+tahvelarvuti
+arvuti
+mobiiltelefon
+raadio
+playstation
+
+märkmik
+vihik
+raamat
+film
+energia
+valgus
+pidu
+mull

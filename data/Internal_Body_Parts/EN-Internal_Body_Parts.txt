@@ -1,0 +1,17 @@
+brain
+heart
+bladder
+intestine
+lung
+kidney
+liver
+stomach
+
+soul
+mind
+foot
+finger
+appetite
+inflammation
+house
+wood

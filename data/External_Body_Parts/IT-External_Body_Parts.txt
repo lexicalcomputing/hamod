@@ -1,0 +1,17 @@
+addome
+schiena
+braccio
+gamba
+fianco
+ginocchio
+spalla
+polpaccio
+
+rene
+polmone
+articolazione
+cartilagine
+appetito
+sudore
+signora
+continente

@@ -1,0 +1,17 @@
+télévision
+haut-parleur
+ordinateur_portable
+tablette_tactile
+ordinateur
+téléphone_portable 
+radio
+playstation
+
+cahier
+classeur
+livre
+film
+puissance
+lumière
+fête
+bulle

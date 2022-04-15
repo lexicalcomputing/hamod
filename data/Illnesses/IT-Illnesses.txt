@@ -1,0 +1,17 @@
+raffreddore
+influenza
+allergia
+bronchite
+diabete
+febbre
+peste
+mal_di_denti
+
+frattura
+livido
+morte
+ospedale
+termometro
+pomata
+targa
+mondo

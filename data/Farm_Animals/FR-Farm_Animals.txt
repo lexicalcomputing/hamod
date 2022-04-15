@@ -1,0 +1,17 @@
+vache
+cochon
+cheval
+lapin
+chèvre
+poule
+brebis
+âne
+
+renard
+loup
+jambon
+poulet_rôti
+traite
+bétail
+automne
+couche

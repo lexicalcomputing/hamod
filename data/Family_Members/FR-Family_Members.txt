@@ -1,0 +1,17 @@
+grand-mère
+grand-père
+sœur
+mère 
+tante
+oncle
+frère
+père
+
+humain
+personne
+vieil_homme
+adolescent
+animal_de_compagnie
+nourrice
+bougie
+tatouage

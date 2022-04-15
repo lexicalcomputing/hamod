@@ -1,0 +1,17 @@
+cow
+pig
+horse
+rabbit
+goat
+hen
+sheep
+donkey
+
+fox
+wolf
+ham
+roast_chicken
+milking
+livestock
+autumn
+diaper

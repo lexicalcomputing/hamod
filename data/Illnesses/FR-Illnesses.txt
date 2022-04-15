@@ -1,0 +1,17 @@
+rhume
+grippe
+allergie
+bronchite
+diabète
+fièvre
+peste
+mal_de_dent
+
+fracture
+contusion
+mort
+hôpital
+thermomètre
+pommade
+plaque
+monde

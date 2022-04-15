@@ -1,0 +1,17 @@
+boîte
+sachet
+sac
+coffre
+vase
+tiroir
+pot
+panier
+
+armoire
+tasse
+carton
+paille
+cadeau
+livraison
+vie
+nappe

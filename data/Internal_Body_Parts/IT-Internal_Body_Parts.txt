@@ -1,0 +1,17 @@
+cervello
+cuore
+vescica
+intestino
+polmone
+rene
+fegato
+stomaco
+
+anima
+mente
+piede
+dito
+appetito
+infiammazione
+casa
+legno

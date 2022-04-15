@@ -1,0 +1,17 @@
+idrogeno
+elio
+ossigeno
+carbonio
+sodio
+calcio
+zolfo
+iodio
+
+molecola
+atomo
+reazione_chimica
+ossidazione
+provetta
+chimico
+chiesa
+specchio

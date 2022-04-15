@@ -1,0 +1,17 @@
+letadlo
+horkovzdušný_balón
+rogalo
+vrtulník
+kluzák
+stíhačka
+tryskáč
+vzducholoď
+
+auto
+vlak
+pták
+papírový_drak
+přistání
+letuška
+demolice
+mýdlo

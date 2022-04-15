@@ -1,0 +1,17 @@
+pommier
+poirier
+cerisier
+prunier
+pêcher 
+oranger
+abricotier
+bananier
+
+if
+hêtre
+lis
+marguerite
+branche
+racine
+chance
+dollar

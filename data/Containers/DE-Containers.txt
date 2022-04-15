@@ -1,0 +1,17 @@
+Schachtel
+Beutel
+Sack
+Truhe
+Vase
+Schublade
+Einmachglas
+Korb
+
+Kleiderschrank
+Tasse
+Karton
+Stroh
+Geschenk
+Lieferung
+Leben
+Tischtuch

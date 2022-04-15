@@ -1,0 +1,17 @@
+Bauch
+Rücken
+Arm
+Bein
+Hüfte
+Knie
+Schulter
+Wade
+
+Niere
+Lunge
+Gelenk
+Knorpel
+Appetit
+Schweiß
+Dame
+Kontinent

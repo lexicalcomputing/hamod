@@ -1,0 +1,17 @@
+blonde
+grey-haired
+frizzy
+curly
+straight
+uncombed
+bald
+shaved
+
+wrinkled
+skinny
+rosy
+freckled
+protruding
+slender
+difficult
+easy

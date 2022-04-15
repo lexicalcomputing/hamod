@@ -1,0 +1,17 @@
+apple_tree
+pear_tree
+cherry_tree
+plum_tree
+peach_tree
+orange_tree
+apricot_tree
+mulberry_tree
+
+yew
+beech
+lily
+daisy
+branch
+root
+fortune
+dollar

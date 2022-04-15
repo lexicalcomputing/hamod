@@ -1,0 +1,17 @@
+fucile
+pistola
+mitragliatrice
+carabina
+kalashnikov
+rivoltella
+lanciagranate
+moschetto
+
+proiettile
+spada
+carro_armato
+soldato
+guerra
+assassino
+dizionario
+letteratura

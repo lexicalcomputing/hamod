@@ -1,0 +1,17 @@
+stěrač
+čelní_sklo
+blatník
+airbag
+volant
+přední_světlo
+klakson
+výfuk
+
+auto
+kamion
+řidičský_průkaz
+cestující
+provoz
+semafor
+budoucnost
+papoušek

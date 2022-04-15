@@ -1,0 +1,17 @@
+thick
+wide
+short
+long
+tight
+small
+big
+thin
+
+pyramidal
+three-dimensional
+hard
+elastic
+white
+black
+scientific
+poisonous

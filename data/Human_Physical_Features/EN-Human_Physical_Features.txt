@@ -1,0 +1,17 @@
+thin
+tall
+sturdy
+plump
+stocky
+burly
+short
+chubby
+
+curved
+irregular
+smiling
+calm
+mysterious
+charming
+religious
+artificial

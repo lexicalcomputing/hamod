@@ -1,0 +1,17 @@
+t-shirt
+robe
+pantalon
+short
+pull
+jupe
+chemise
+manteau
+
+drap
+couverture
+lunettes
+barrette
+coton
+laine
+porte-clés
+frontière

@@ -1,0 +1,17 @@
+Gewehr
+Feuerwaffe
+Maschinengewehr
+Karabiner
+Kalaschnikow
+Revolver
+Pistole
+Muskete
+
+Projektil
+Schwert
+Tank
+Soldat
+Krieg
+Mörder
+Wörterbuch
+Literatur

@@ -1,0 +1,17 @@
+tango
+breakdance
+tip_tap
+salsa
+valzer
+samba
+danza_classica
+ballo_liscio
+
+rap
+soul
+passo
+musical
+teatro
+ballerino
+falegname
+sorriso

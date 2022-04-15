@@ -1,0 +1,17 @@
+spesso
+largo
+corto
+lungo
+stretto
+piccolo
+grande
+sottile
+
+piramidale
+tridimensionale
+duro
+elastico
+bianco
+nero
+scientifico
+velenoso

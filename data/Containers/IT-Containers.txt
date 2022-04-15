@@ -1,0 +1,17 @@
+scatola
+sacchetto
+sacco
+baule
+vaso
+cassetto
+barattolo
+cesto
+
+armadio
+tazzina
+cartone
+paglia
+regalo
+consegna
+vita
+tovaglia

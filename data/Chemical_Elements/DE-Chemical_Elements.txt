@@ -1,0 +1,17 @@
+Wasserstoff
+Helium
+Sauerstoff
+Kohlenstoff
+Natrium
+Kalzium
+Schwefel
+Jod
+
+Molekül
+Atom
+chemische_Reaktion
+Oxidation
+Reagenzglas
+Chemiker
+Kirche
+Spiegel

@@ -1,0 +1,17 @@
+televízor
+reproduktor
+notebook
+tablet
+počítač
+mobil
+rádio
+playstation
+
+blok
+zošit
+kniha
+film
+energia
+svetlo
+oslava
+bublina

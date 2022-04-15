@@ -1,0 +1,17 @@
+poltrona
+divano
+sgabello
+armadio
+scaffale
+tavolo
+comodino
+letto
+
+frigorifero
+lavastoviglie
+pattumiera
+scopa
+legno
+vetro
+commedia
+piuma

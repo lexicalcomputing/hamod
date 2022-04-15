@@ -1,0 +1,17 @@
+cerveau
+cœur
+vessie
+intestin
+poumon
+rein
+foie
+estomac
+
+âme
+esprit
+pied
+doigt
+appétit 
+inflammation
+maison
+bois

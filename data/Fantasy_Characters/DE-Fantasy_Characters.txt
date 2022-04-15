@@ -1,0 +1,17 @@
+Vampir
+Hexe
+Kobold
+Drache
+Einhorn
+Meerjungfrau
+Zombie
+Werwolf
+
+Schlange
+Mensch
+Zauberstab
+Zaubertrank
+Magie
+Zauberspruch
+Natur
+Mittag

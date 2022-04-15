@@ -1,0 +1,17 @@
+légumes
+fruits
+pain
+poisson
+viande
+œuf
+légumineuse
+céréale
+
+cuillère
+plat
+repas
+dîner
+saveur
+friture
+arc-en-ciel
+ambulance

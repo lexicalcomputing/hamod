@@ -1,0 +1,17 @@
+squared
+rounded
+conical
+oval
+cylindrical
+triangular
+rectangular
+spherical
+
+sharp
+flat
+geometrical
+mathematical
+heavy
+light
+random
+identical

@@ -1,0 +1,17 @@
+red
+blue
+green
+yellow
+purple
+pink
+orange
+brown
+
+dark
+bright
+wooden
+glass
+striped
+dotted
+sad
+low

@@ -1,0 +1,17 @@
+heureux
+triste
+fâché
+nerveux
+préoccupé
+joyeux
+désespéré
+anxieux
+
+hypocrite
+gentil
+malade
+vieux
+mince
+gros
+septentrional
+synthétique

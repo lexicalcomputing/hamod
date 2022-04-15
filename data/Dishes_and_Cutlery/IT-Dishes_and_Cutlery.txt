@@ -1,0 +1,17 @@
+piatto
+ciotola
+bicchiere
+tazza
+calice
+forchetta
+coltello
+cucchiaio
+
+martello
+ascia
+sandwich
+omelette
+sorso
+bevuta
+buco
+palloncino

@@ -1,0 +1,17 @@
+épais
+large
+court
+long
+étroit
+petit
+grand
+mince
+
+pyramidal
+tridimensionnel
+dur
+élastique
+blanc
+noir
+scientifique
+venimeux

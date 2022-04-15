@@ -1,0 +1,17 @@
+křeslo
+pohovka
+stolička
+skříň
+polička
+stůl
+noční_stolek
+postel
+
+lednice
+myčka
+odpadkový_koš
+koště
+dřevo
+sklo
+komedie
+pero

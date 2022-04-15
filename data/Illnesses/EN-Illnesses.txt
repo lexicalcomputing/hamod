@@ -1,0 +1,17 @@
+cold
+flu
+allergy
+bronchitis
+diabetes
+fever
+plague
+toothache
+
+fracture
+bruise
+death
+hospital
+thermometer
+ointment
+plate
+world

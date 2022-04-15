@@ -1,0 +1,17 @@
+hrubý
+široký
+krátky
+dlhý
+úzky
+malý
+veľký
+tenký
+
+pyramídový
+trojrozmerný
+tvrdý
+pružný
+biely
+čierny
+vedecký
+jedovatý

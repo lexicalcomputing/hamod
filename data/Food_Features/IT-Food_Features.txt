@@ -1,0 +1,17 @@
+dolce
+salato
+amaro
+piccante
+acido
+insipido
+aspro
+saporito
+
+soffice
+secco
+puzzolente
+aromatico
+crudo
+scaduto
+atletico
+montuoso

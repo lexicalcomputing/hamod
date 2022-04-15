@@ -1,0 +1,17 @@
+avion
+montgolfière
+deltaplane
+hélicoptère
+planeur
+parapente
+jet
+dirigeable
+
+voiture
+train
+oiseau
+cerf-volant
+atterrissage
+hôtesse
+démolition
+savon

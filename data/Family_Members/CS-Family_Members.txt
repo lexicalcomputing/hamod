@@ -1,0 +1,17 @@
+babička
+dědeček
+sestra
+matka
+teta
+strýc
+bratr
+otec
+
+člověk
+osoba
+stařec
+puberťák
+domácí_zvíře
+chůva
+svíčka
+tetování

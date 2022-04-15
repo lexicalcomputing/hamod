@@ -1,0 +1,17 @@
+fröhlich
+traurig
+wütend
+nervös
+besorgt
+heiter
+verzweifelt
+ängstlich
+
+heuchlerisch
+nett
+krank
+alt
+schlank
+fett
+nördlich
+synthetisch

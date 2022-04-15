@@ -1,0 +1,17 @@
+hydrogen
+helium
+oxygen
+carbon
+sodium
+calcium
+sulfur
+iodine
+
+molecule
+atom
+chemical_reaction
+oxidation
+phial
+chemist
+church
+mirror

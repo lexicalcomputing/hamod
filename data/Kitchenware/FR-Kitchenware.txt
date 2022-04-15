@@ -1,0 +1,17 @@
+ouvre-boîte
+planche_à_découper
+passoire
+fouet
+râpe
+rouleau_à_pâtisserie
+louche
+casse-noisette
+
+lave-vaisselle
+réfrigérateur
+pâte
+crème_fouettée
+restaurant
+dessert
+magazine
+feuille

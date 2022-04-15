@@ -1,0 +1,17 @@
+plate
+bowl
+glass
+mug
+cup
+fork
+knife
+spoon
+
+hammer
+axe
+sandwich
+omelette
+sip
+drink
+hole
+balloon

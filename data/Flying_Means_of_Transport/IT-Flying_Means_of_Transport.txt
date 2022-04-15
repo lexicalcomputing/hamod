@@ -1,0 +1,17 @@
+aeroplano
+mongolfiera
+deltaplano
+elicottero
+aliante
+parapendio
+jet
+dirigibile
+
+automobile
+treno
+uccello
+aquilone
+atterraggio
+assistente_di_volo
+distruzione
+sapone

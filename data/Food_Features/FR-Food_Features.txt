@@ -1,0 +1,17 @@
+sucré
+salé
+amer
+épicé
+aigre
+insipide
+âpre
+savoureux
+
+moelleux
+sec
+puant
+aromatique
+cru
+expiré
+athlétique
+montagneux

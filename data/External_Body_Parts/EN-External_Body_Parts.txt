@@ -1,0 +1,17 @@
+abdomen
+back
+arm
+leg
+hip
+knee
+shoulder
+calf
+
+kidney
+lung
+joint
+cartilage
+appetite
+sweat
+lady
+continent

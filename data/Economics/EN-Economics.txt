@@ -1,0 +1,17 @@
+bank
+money
+financial_statement
+tax_haven
+debt
+credit_card
+inflation
+bankrupt
+
+prison
+magistrate
+epidemic
+danger
+paradise
+parchment_paper
+caterpillar
+circus

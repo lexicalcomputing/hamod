@@ -1,0 +1,17 @@
+box
+bag
+sack
+chest_of_drawers
+vase
+drawer
+jar
+basket
+
+wardrobe
+cup
+cardboard
+straw
+gift
+delivery
+life
+tablecloth

@@ -1,0 +1,17 @@
+rose
+marguerite
+glycine
+tulipe
+coquelicot
+géranium
+tournesol
+lys
+
+corolle
+pétale
+saule
+cactus
+jardin
+arrosoir
+ceinture
+robinet

@@ -1,0 +1,17 @@
+vampire
+witch
+elf
+dragon
+unicorn
+mermaid
+zombie
+werewolf
+
+snake
+human
+wand
+potion
+magic
+magic_spell
+nature
+noon

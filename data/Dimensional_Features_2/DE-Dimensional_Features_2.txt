@@ -1,0 +1,17 @@
+quadratisch
+rund
+konisch
+oval
+zylindrisch
+dreieckig
+rechteckig
+kugelförmig
+
+scharf
+flach
+geometrisch
+mathematisch
+schwer
+leicht
+zufällig
+identisch

@@ -1,0 +1,17 @@
+tergicristallo
+parabrezza
+parafango
+airbag
+volante
+fanale
+clacson
+marmitta
+
+automobile
+camion
+patente
+passeggero
+traffico
+semaforo
+futuro
+pappagallo

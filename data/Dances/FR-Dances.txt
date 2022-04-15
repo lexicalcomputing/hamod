@@ -1,0 +1,17 @@
+tango
+breakdance
+claquettes
+salsa
+valse
+samba
+danse_classique
+danse_de_salon
+
+rap
+soul
+pas
+comédie_musicale
+théâtre
+danseur
+menuisier
+sourire

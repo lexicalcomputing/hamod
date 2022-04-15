@@ -1,0 +1,17 @@
+corn
+rice
+wheat
+barley
+millet
+oat
+rye
+buckwheat
+
+peanut
+almond
+bread
+pasta
+farmer
+crop
+mummy
+temple

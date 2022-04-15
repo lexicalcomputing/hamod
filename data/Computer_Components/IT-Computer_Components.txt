@@ -1,0 +1,17 @@
+monitor
+mouse
+modem
+stampante
+tastiera
+disco_rigido
+scheda_madre
+scheda_audio
+
+telefono
+telecomando
+internet
+file
+programma
+gigabyte
+polvere
+daino

@@ -1,0 +1,17 @@
+vampiro
+strega
+elfo
+drago
+unicorno
+sirena
+zombie
+lupo_mannaro
+
+serpente
+essere_umano
+bacchetta_magica
+pozione
+magia
+incantesimo
+natura
+mezzogiorno

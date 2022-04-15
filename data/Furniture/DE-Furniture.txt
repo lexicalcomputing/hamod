@@ -1,0 +1,17 @@
+Sessel
+Sofa
+Hocker
+Schrank
+Regal
+Tisch
+Nachttisch
+Bett
+
+Kühlschrank
+Spülmaschine
+Abfalleimer
+Besen
+Holz
+Glas
+Komödie
+Feder

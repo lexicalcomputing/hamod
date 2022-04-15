@@ -1,0 +1,17 @@
+quadrato
+rotondo
+conico
+ovale
+cilindrico
+triangolare
+rettangolare
+sferico
+
+acuto
+piatto
+geometrico
+matematico
+pesante
+leggero
+casuale
+uguale

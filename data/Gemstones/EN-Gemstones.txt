@@ -1,0 +1,17 @@
+diamond
+pearl
+ruby
+emerald
+sapphire
+topaz
+amber
+opal
+
+silver
+glass
+necklace
+ring
+jewelry_store
+goldsmith
+head
+law

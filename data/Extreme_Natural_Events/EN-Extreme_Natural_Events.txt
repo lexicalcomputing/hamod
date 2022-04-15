@@ -1,0 +1,17 @@
+fire
+flood
+hurricane
+tsunami
+tornado
+earthquake
+volcanic_eruption
+avalanche
+
+rain
+wind
+bombardment
+genocide
+volcano
+river
+animal
+slave

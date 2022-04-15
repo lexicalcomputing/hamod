@@ -1,0 +1,17 @@
+grandmother
+grandfather
+sister
+mother
+aunt
+uncle
+brother
+father
+
+human
+person
+old_man
+teenager
+pet
+babysitter
+candle
+tattoo

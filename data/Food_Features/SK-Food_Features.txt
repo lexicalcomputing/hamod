@@ -1,0 +1,17 @@
+sladký
+slaný
+horký
+pikantný
+kyslý
+mdlý
+trpký
+chutný
+
+nadýchaný
+sušený
+smradľavý
+voňavý
+surový
+zhnitý
+atletický
+hornatý

@@ -1,0 +1,17 @@
+pot
+flour
+ladle
+chef
+oven
+oil
+ingredient
+garlic
+
+pub
+table
+breakfast
+stomach
+digestion
+appetite
+navel
+crime

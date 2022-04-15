@@ -1,0 +1,17 @@
+cucina
+lettura
+giardinaggio
+bricolage
+modellismo
+cucito
+escursionismo
+pittura
+
+hockey
+calcio
+tempo_libero
+weekend
+attrezzo
+libro
+cellula
+giocattolo

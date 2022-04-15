@@ -1,0 +1,17 @@
+tango
+breakdance
+brušný_tanec
+salsa
+valčík
+polka
+balet
+spoločenský_tanec
+
+rap
+soul
+krok
+muzikál
+divadlo
+tanečník
+tesár
+úsmev

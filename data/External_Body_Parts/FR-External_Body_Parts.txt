@@ -1,0 +1,17 @@
+abdomen
+dos
+bras
+jambe
+hanche
+genou
+épaule
+mollet
+
+rein
+poumon
+articulation
+cartilage
+appétit
+sueur
+madame
+continent

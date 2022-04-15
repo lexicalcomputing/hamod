@@ -1,0 +1,17 @@
+écran
+souris
+modem
+imprimante
+clavier
+disque_dur
+carte_mère
+carte_son
+
+téléphone
+télécommande
+internet
+fichier
+programme
+gigaoctet
+poussière
+daim

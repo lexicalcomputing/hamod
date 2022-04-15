@@ -1,0 +1,17 @@
+essuie-glace
+pare-brise
+garde-boue
+airbag
+volant
+phare
+klaxon
+échappement
+
+voiture
+camion
+permis_de_conduire
+passager
+trafic
+feu_tricolore
+avenir
+perroquet

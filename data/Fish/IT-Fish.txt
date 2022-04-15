@@ -1,0 +1,17 @@
+tonno
+squalo
+anguilla
+salmone
+trota
+sardina
+merluzzo
+carpa
+
+delfino
+balena
+corallo
+alga
+sushi
+fritto_misto
+fiamma
+pagliaccio

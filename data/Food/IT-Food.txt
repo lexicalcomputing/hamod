@@ -1,0 +1,17 @@
+verdura
+frutta
+pane
+pesce
+carne
+uova
+legume
+cereale
+
+cucchiaio
+piatto
+pasto
+cena
+sapore
+frittura
+arcobaleno
+ambulanza

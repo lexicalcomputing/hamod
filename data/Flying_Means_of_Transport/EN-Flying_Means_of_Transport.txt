@@ -1,0 +1,17 @@
+airplane
+hot_air_balloon
+hang_glider
+helicopter
+sailplane
+paraglider
+jet
+airship
+
+car
+train
+bird
+kite
+landing
+flight_attendant
+demolition
+soap

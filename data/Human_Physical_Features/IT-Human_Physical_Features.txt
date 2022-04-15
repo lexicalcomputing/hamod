@@ -1,0 +1,17 @@
+magro
+alto
+robusto
+grassottello
+tozzo
+tarchiato
+basso
+paffuto
+
+ricurvo
+irregolare
+sorridente
+calmo
+misterioso
+affascinante
+religioso
+artificiale

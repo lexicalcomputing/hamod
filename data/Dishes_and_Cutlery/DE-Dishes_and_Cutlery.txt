@@ -1,0 +1,17 @@
+Teller
+Schüssel
+Glas
+Tasse
+Kelch
+Gabel
+Messer
+Löffel
+
+Hammer
+Axt
+Sandwich
+Omelett
+Schluck
+Trinkgelage
+Loch
+Luftballon

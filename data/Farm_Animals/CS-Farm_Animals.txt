@@ -1,0 +1,17 @@
+kráva
+prase
+kůň
+králík
+koza
+slepice
+ovce
+osel
+
+liška
+vlk
+šunka
+pečené_kuře
+dojení
+chov
+podzim
+plenka

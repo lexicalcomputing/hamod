@@ -1,0 +1,17 @@
+lietadlo
+teplovzdušný_balón
+rogalo
+vrtuľník
+klzák
+stíhačka
+vetroň
+vzducholoď
+
+auto
+vlak
+vták
+šarkan
+pristátie
+letuška
+demolácia
+mydlo

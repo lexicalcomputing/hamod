@@ -1,0 +1,17 @@
+nádcha
+chrípka
+alergia
+zápal_priedušiek
+cukrovka
+horúčka
+mor
+bolesť_zuba
+
+zlomenina
+modrina
+smrť
+nemocnica
+teplomer
+masť
+poznávacia_značka
+svet

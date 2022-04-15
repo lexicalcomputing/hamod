@@ -1,0 +1,17 @@
+pentola
+farina
+mestolo
+chef
+forno
+olio
+ingrediente
+aglio
+
+birreria
+tavolo
+colazione
+stomaco
+digestione
+appetito
+ombelico
+reato

@@ -1,0 +1,17 @@
+thon
+requin
+anguille
+saumon
+truite
+sardine
+morue
+carpe
+
+dauphin
+baleine
+corail
+algue
+sushi
+bouillabaisse
+flamme
+clown

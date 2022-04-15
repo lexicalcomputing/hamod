@@ -1,0 +1,17 @@
+monitor
+myš
+kábel
+tlačiareň
+klávesnica
+hard_disk
+základná_doska
+zvuková_karta
+
+telefón
+diaľkové_ovládanie
+internet
+súbor
+program
+gigabyte
+prach
+vysoká

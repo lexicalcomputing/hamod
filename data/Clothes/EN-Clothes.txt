@@ -1,0 +1,17 @@
+t-shirt
+dress
+trousers
+shorts
+jumper
+skirt
+shirt
+coat
+
+sheet
+blanket
+glasses
+hair_clip
+cotton
+wool
+keychain
+border

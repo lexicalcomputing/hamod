@@ -1,0 +1,17 @@
+vesinik
+heelium
+hapnik
+süsinik
+naatrium
+kaltsium
+väävel
+jood
+
+molekul
+aatom
+keemiline_reaktsioon
+oksüdatsioon
+katseklaas
+keemik
+kirik
+peegel

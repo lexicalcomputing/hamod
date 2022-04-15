@@ -1,0 +1,17 @@
+štvorcový
+okrúhly
+kužeľové
+oválny
+valcový
+trojuholníkový
+obdĺžnikový
+guľový
+
+ostrý
+plochý
+geometrický
+matematický
+ťažký
+ľahký
+náhodný
+identický

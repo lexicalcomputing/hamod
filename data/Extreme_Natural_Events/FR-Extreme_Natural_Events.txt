@@ -1,0 +1,17 @@
+incendie
+inondation
+ouragan
+tsunami
+tornade
+tremblement_de_terre
+éruption_volcanique
+avalanche
+
+pluie
+vent
+bombardement
+génocide
+volcan
+rivière
+animal
+esclave

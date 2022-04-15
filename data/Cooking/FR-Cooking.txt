@@ -1,0 +1,17 @@
+casserole
+farine
+louche
+chef
+four
+huile
+ingrédient
+ail
+
+brasserie
+table
+petit_déjeuner
+estomac
+digestion
+appétit
+nombril
+crime

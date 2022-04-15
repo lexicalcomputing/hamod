@@ -1,0 +1,17 @@
+banque
+argent
+bilan
+paradis_fiscal
+dette
+carte_de_crédit
+inflation
+banqueroute
+
+prison
+magistrat
+épidémie
+danger
+paradis
+papier_sulfurisé
+chenille
+cirque

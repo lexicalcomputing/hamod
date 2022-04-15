@@ -1,0 +1,17 @@
+lennuk
+kuumaõhupall
+deltaplaan
+helikopter
+purilennuk
+paraplaan
+reaktiivlennuk
+õhulaev
+
+auto
+rong
+lind
+tuulelohe
+maandumine
+stjuuardess
+lammutamine
+seep

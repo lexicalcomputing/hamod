@@ -1,0 +1,17 @@
+rosso
+blu
+verde
+giallo
+viola
+rosa
+arancione
+marrone
+
+scuro
+chiaro
+di_legno
+di_vetro
+a_righe
+a_pois
+triste
+basso

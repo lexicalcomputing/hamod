@@ -1,0 +1,17 @@
+windscreen_wiper
+windshield
+mudguard
+airbag
+steering_wheel
+headlight
+horn
+exhaust_pipe
+
+car
+lorry
+driving_licence
+passenger
+traffic
+traffic_light
+future
+parrot

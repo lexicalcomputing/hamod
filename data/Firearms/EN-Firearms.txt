@@ -1,0 +1,17 @@
+rifle
+gun
+machine_gun
+carbine
+kalashnikov
+revolver
+pistol
+musket
+
+projectile
+sword
+tank
+soldier
+war
+murderer
+dictionary
+literature

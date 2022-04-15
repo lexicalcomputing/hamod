@@ -1,0 +1,17 @@
+tuna
+shark
+eel
+salmon
+trout
+sardine
+cod
+carp
+
+dolphin
+whale
+coral
+seaweed
+sushi
+fish_pie
+flame
+clown

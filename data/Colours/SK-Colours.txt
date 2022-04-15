@@ -1,0 +1,17 @@
+červený
+modrý
+zelený
+žltý
+fialový
+ružový
+oranžový
+hnedý
+
+tmavý
+jasný
+drevený
+sklenený
+pruhovaný
+bodkovaný
+smutný
+nízky

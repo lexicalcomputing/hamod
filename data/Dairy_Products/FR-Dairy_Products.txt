@@ -1,0 +1,17 @@
+fromage
+crème_fraîche
+beurre
+yaourt
+crème
+lait
+crème_chantilly
+glace
+
+lait_de_soja
+beurre_de_cacahuète
+vache
+traite
+acide_lactique
+lait_maternel
+science
+chauve-souris

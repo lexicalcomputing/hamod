@@ -1,0 +1,17 @@
+Flugzeug
+Heißluftballon
+Gleiter
+Hubschrauber
+Segelflugzeug
+Gleitschirm
+Jet
+Luftschiff
+
+Auto
+Zug
+Vogel
+Kite
+Landung
+Flugbegleiter
+Abbruch
+Seife

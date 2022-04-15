@@ -1,0 +1,17 @@
+carré
+arrondi
+conique
+ovale
+cylindrique
+triangulaire
+rectangulaire
+sphérique
+
+pointu
+plat
+géométrique
+mathématique
+pesant
+léger
+aléatoire
+identique

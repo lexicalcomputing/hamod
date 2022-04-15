@@ -1,0 +1,17 @@
+fusil
+pistolet
+mitrailleuse
+carabine
+kalachnikov
+revolver
+lance-grenades
+mousquet
+
+projectile
+épée
+char
+soldat
+guerre
+tueur
+dictionnaire
+littérature

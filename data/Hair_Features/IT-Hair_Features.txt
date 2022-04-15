@@ -1,0 +1,17 @@
+biondo
+brizzolato
+crespo
+riccio
+liscio
+spettinato
+pelato
+rasato
+
+rugoso
+scarno
+roseo
+lentigginoso
+sporgente
+slanciato
+difficile
+facile

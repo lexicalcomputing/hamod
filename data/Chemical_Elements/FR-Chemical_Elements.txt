@@ -1,0 +1,17 @@
+hydrogène
+hélium
+oxygène
+carbone
+sodium
+calcium
+soufre
+iode
+
+molécule
+atome
+réaction_chimique
+oxydation
+éprouvette
+chimiste
+église
+miroir

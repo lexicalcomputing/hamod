@@ -1,0 +1,17 @@
+mucca
+maiale
+cavallo
+coniglio
+capra
+gallina
+pecora
+asino
+
+volpe
+lupo
+prosciutto
+pollo_arrosto
+mungitura
+allevamento
+autunno
+pannolino

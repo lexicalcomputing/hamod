@@ -1,0 +1,17 @@
+břicho
+záda
+paže
+noha
+bok
+koleno
+rameno
+lýtko
+
+ledvina
+plíce
+kloub
+chrupavka
+chuť_k_jídlu
+pot
+dáma
+kontinent
