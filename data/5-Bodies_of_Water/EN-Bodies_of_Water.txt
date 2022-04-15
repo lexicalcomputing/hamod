@@ -1,0 +1,17 @@
+lake
+bay
+swamp
+brook
+fjord
+ocean
+sea
+river
+
+mountain
+valley
+swimming_pool
+bathtub
+water
+mud
+lighter
+penguin

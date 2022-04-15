@@ -1,0 +1,17 @@
+deštný_prales
+savana
+džungle
+step
+poušť
+prérie
+tundra
+tajga
+
+ekosystém
+životní_prostředí
+ostrov
+keř
+zeměpisná_šířka
+zeměpisná_délka
+vztek
+polévka

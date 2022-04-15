@@ -1,0 +1,17 @@
+rainforest
+savanna
+jungle
+steppe
+desert
+prairie
+tundra
+boreal_forest
+
+ecosystem
+habitat
+island
+shrub
+latitude
+longitude
+anger
+soup

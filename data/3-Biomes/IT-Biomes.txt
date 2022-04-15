@@ -1,0 +1,17 @@
+foresta_pluviale
+savana
+giungla
+steppa
+deserto
+macchia_mediterranea
+tundra
+foresta_boreale
+
+ecosistema
+habitat
+isola
+arbusto
+latitudine
+longitudine
+rabbia
+zuppa

@@ -1,0 +1,17 @@
+béton_armé
+bois
+plâtre
+argile
+marbre
+pierre
+verre
+ciment
+
+tuile
+échafaudage
+bulldozer
+grue
+solidité
+dureté
+courbe
+ami

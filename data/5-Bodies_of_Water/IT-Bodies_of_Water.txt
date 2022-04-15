@@ -1,0 +1,17 @@
+lago
+baia
+palude
+ruscello
+fiordo
+oceano
+mare
+fiume
+
+montagna
+valle
+piscina
+vasca_da_bagno
+acqua
+fango
+accendino
+pinguino

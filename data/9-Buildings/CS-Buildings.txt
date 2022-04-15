@@ -1,0 +1,17 @@
+nemocnice
+továrna
+divadlo
+kino
+nákupní_centrum
+stanice
+knihovna
+hotel
+
+mrakodrap
+vila
+alej
+náměstí
+vstup
+balkon
+zápěstí
+stan

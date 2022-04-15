@@ -1,0 +1,17 @@
+roach
+mosquito
+wasp
+bee
+ant
+butterfly
+ladybug
+spider
+
+spider_web
+stinger
+frog
+viper
+mouse
+squirrel
+pirate
+sadness

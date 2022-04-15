@@ -1,0 +1,17 @@
+cemento_armato
+legno
+gesso
+laterizio
+marmo
+pietra
+vetro
+calcestruzzo
+
+tegola
+ponteggio
+ruspa
+gru
+solidità
+durezza
+curva
+amico

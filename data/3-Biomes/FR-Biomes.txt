@@ -1,0 +1,17 @@
+forêt_tropicale
+savane
+jungle
+steppe
+désert
+prairie
+toundra
+forêt_boréale
+
+écosystème
+habitat
+île
+arbuste
+latitude
+longitude
+colère
+soupe

@@ -1,0 +1,17 @@
+beton
+dřevo
+omítka
+jíl
+mramor
+kámen
+sklo
+cement
+
+střešní_taška
+lešení
+buldozer
+jeřáb
+odolnost
+tvrdost
+křivka
+přítel

@@ -1,0 +1,17 @@
+lac
+baie
+marais
+ruisseau
+fjord
+océan
+mer
+rivière
+
+montagne
+vallée
+piscine
+baignoire
+eau
+boue
+briquet
+pingouin

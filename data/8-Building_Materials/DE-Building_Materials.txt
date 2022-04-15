@@ -1,0 +1,17 @@
+Beton
+Holz
+Gips
+Lehm
+Marmor
+Stein
+Glas
+Zement
+
+Dachziegel
+Gerüst
+Bulldozer
+Kran
+Robustheit
+Härte
+Kurve
+Freund

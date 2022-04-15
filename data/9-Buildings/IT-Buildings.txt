@@ -1,0 +1,17 @@
+ospedale
+fabbrica
+teatro
+cinema
+centro_commerciale
+stazione
+biblioteca
+hotel
+
+grattacielo
+villa
+viale
+piazza
+ingresso
+balcone
+polso
+tenda

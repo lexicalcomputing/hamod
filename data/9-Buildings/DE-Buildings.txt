@@ -1,0 +1,17 @@
+Krankenhaus
+Fabrik
+Theater
+Kino
+Einkaufszentrum
+Bahnhof
+Bibliothek
+Hotel
+
+Wolkenkratzer
+Stadthaus
+Allee
+Platz
+Eingang
+Terrasse
+Handgelenk
+Zelt

@@ -1,0 +1,17 @@
+Regenwald
+Savanne
+Dschungel
+Steppe
+Wüste
+Prärie
+Tundra
+Taiga
+
+Ökosystem
+Habitat
+Insel
+Strauch
+Breitengrad
+Längengrad
+Wut
+Suppe

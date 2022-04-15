@@ -1,0 +1,17 @@
+concrete
+wood
+plaster
+clay
+marble
+stone
+glass
+cement
+
+roof_tile
+scaffolding
+bulldozer
+crane
+robustness
+hardness
+bend
+friend

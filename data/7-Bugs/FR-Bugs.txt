@@ -1,0 +1,17 @@
+blatte
+moustique
+guêpe
+abeille
+fourmi
+papillon
+coccinelle
+araignée
+
+toile_d'_araignée
+dard
+grenouille
+vipère
+souris
+écureuil
+pirate
+tristesse

@@ -1,0 +1,17 @@
+hôpital
+usine
+théâtre
+cinéma
+centre_commercial
+gare
+bibliothèque
+hôtel
+
+gratte-ciel
+villa
+avenue
+place
+entrée
+terrasse
+poignet
+tente

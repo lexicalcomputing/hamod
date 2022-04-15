@@ -1,0 +1,17 @@
+cygne
+canard
+mouette
+aigle
+colombe
+corbeau
+cigogne
+oie
+
+singe
+saumon
+sauterelle
+mouche
+œuf
+avion
+femme
+falaise

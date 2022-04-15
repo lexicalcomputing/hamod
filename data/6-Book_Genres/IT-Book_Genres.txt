@@ -1,0 +1,17 @@
+horror
+diario_di_viaggio
+racconto_breve
+poesia
+fantasy
+fantascienza
+biografia
+poliziesco
+
+serie
+film
+libro
+similitudine
+lettore
+scrittore
+escavatrice
+tovagliolo

@@ -1,0 +1,17 @@
+dažďový_prales
+savana
+džungľa
+step
+púšť
+préria
+tundra
+tajga
+
+ekosystém
+prostredie
+ostrov
+ker
+zemepisná_šírka
+zemepisná_dĺžka
+hnev
+polievka

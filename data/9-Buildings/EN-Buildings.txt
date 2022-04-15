@@ -1,0 +1,17 @@
+hospital
+factory
+theatre
+cinema
+shopping_mall
+station
+library
+hotel
+
+skyscraper
+townhouse
+avenue
+square
+entrance
+terrace
+wrist
+tent

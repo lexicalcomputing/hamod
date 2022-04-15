@@ -1,0 +1,17 @@
+scarafaggio
+zanzara
+vespa
+ape
+formica
+farfalla
+coccinella
+ragno
+
+ragnatela
+pungiglione
+rana
+vipera
+topo
+scoiattolo
+pirata
+tristezza

@@ -1,0 +1,17 @@
+swan
+duck
+seagull
+eagle
+dove
+crow
+stork
+goose
+
+monkey
+salmon
+grasshopper
+fly
+egg
+plane
+woman
+cliff
