@@ -1,0 +1,17 @@
+number
+multiplication
+fraction
+decimal
+infinity
+square_root
+subtraction
+equation
+
+rectangle
+triangle
+calculator
+computer_science
+note
+exam
+meadow
+cousin

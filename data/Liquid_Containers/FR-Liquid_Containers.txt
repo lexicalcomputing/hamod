@@ -1,0 +1,17 @@
+bouteille
+canette
+verre
+fiole
+gourde
+calice
+cruche
+tasse
+
+colis
+tiroir
+bière
+vin
+barman
+boisson
+honte
+héros

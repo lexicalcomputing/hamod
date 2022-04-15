@@ -1,0 +1,17 @@
+číslo
+násobení
+zlomek
+desetinné_číslo
+nekonečno
+odmocnina
+odečítání
+rovnice
+
+obdélník
+trojúhelník
+kalkulačka
+informatika
+poznámka
+zkouška
+louka
+bratranec

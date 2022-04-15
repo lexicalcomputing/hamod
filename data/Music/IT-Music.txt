@@ -1,0 +1,17 @@
+nota
+canzone
+chitarra
+rock
+flauto
+suono
+microfono
+cantante
+
+lettera
+colore
+disegno
+scultura
+scrittore
+pittore
+picnic
+tasca

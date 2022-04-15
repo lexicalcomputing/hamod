@@ -1,0 +1,17 @@
+vocale
+sillaba
+linguaggio
+prefisso
+lessico
+frase
+accento
+parola
+
+libro
+insegnante
+scuola
+divisione
+numero_primo
+proprietà
+regina
+ostello

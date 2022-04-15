@@ -1,0 +1,17 @@
+lékař
+pilulka
+injekční_stříkačka
+chirurg
+nemocnice
+steh
+rentgen
+obvaz
+
+řezník
+vězení
+paprsek
+pila
+osobní_trenér
+trénink
+pláž
+e-mail

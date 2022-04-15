@@ -1,0 +1,17 @@
+Motorrad
+Boot
+Auto
+Straßenbahn
+Bus
+Zug
+Flugzeug
+Hubschrauber
+
+Heimtrainer
+Laufband
+Gehweg
+Straße
+Fahrer
+Pilot
+Nadel
+Schuh

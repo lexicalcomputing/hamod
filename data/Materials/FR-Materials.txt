@@ -1,0 +1,17 @@
+métal
+verre
+bois
+tissu
+papier
+cuir
+aluminium
+or
+
+eau
+terre
+arbre
+entaille
+vêtement
+cahier
+valise
+cercle

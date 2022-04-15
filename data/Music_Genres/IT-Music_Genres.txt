@@ -1,0 +1,17 @@
+hip_hop
+jazz
+reggae
+country
+rock
+soul
+folk
+heavy_metal
+
+balletto
+opera
+tromba
+xilofono
+band
+cantautore
+misura
+nipote

@@ -1,0 +1,17 @@
+Arzt
+Pille
+Spritze
+Chirurg
+Krankenhaus
+Naht
+Röntgenuntersuchung
+Verband
+
+Fleischer
+Gefängnis
+Strahl
+Säge
+Personal_Trainer
+Ausbildung
+Strand
+E-Mail

@@ -1,0 +1,17 @@
+nombre
+multiplication
+fraction
+décimale
+infini
+racine_carrée
+soustraction
+équation
+
+rectangle
+triangle
+calculatrice
+informatique
+note
+examen
+pelouse
+cousin

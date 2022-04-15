@@ -1,0 +1,17 @@
+voyelle
+syllabe
+langue
+préfixe
+lexique
+phrase
+accent
+mot
+
+livre
+enseignant
+école
+division
+nombre_premier
+propriété
+reine
+auberge

@@ -1,0 +1,17 @@
+samohláska
+slabika
+jazyk
+předpona
+slovní_zásoba
+věta
+přízvuk
+slovo
+
+kniha
+učitel
+škola
+dělení
+prvočíslo
+vlastnost
+královna
+hostel

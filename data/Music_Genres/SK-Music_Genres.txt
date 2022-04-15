@@ -1,0 +1,17 @@
+hip_hop
+jazz
+reggae
+country
+rock
+soul
+folk
+heavy_metal
+
+balet
+opera
+trúbka
+xylofón
+kapela
+skladateľ
+miera
+synovec

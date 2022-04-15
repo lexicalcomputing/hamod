@@ -1,0 +1,17 @@
+tedesco
+polacco
+inglese
+italiano
+russo
+ceco
+francese
+olandese
+
+Java
+Python
+alfabeto_cirillico
+alfabeto_latino
+bilinguismo
+apprendimento
+lumaca
+ciglio

@@ -1,0 +1,17 @@
+láhev
+plechovka
+sklenice
+zkumavka
+čutora
+kelímek
+džbán
+hrnek
+
+balík
+zásuvka
+pivo
+víno
+barman
+nápoj
+hanba
+hrdina

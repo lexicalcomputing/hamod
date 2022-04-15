@@ -1,0 +1,17 @@
+bottiglia
+lattina
+bicchiere
+fiala
+borraccia
+calice
+brocca
+tazza
+
+pacchetto
+cassetto
+birra
+vino
+barista
+drink
+vergogna
+eroe

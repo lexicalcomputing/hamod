@@ -1,0 +1,17 @@
+lead
+iron
+gold
+zinc
+platinum
+copper
+aluminium
+nickel
+
+oxygen
+hydrogen
+nail
+key
+melting
+corrosion
+parsley
+tube

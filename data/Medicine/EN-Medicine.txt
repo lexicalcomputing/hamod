@@ -1,0 +1,17 @@
+physician
+pill
+syringe
+surgeon
+hospital
+suture
+x-ray
+bandage
+
+butcher
+prison
+sunbeam
+saw
+personal_trainer
+training
+beach
+email

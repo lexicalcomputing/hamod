@@ -1,0 +1,17 @@
+kov
+sklo
+dřevo
+látka
+papír
+kůže
+hliník
+zlato
+
+voda
+zemina
+strom
+zářez
+oděv
+blok
+kufr
+kruh

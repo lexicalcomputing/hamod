@@ -1,0 +1,17 @@
+lac
+montagne
+colline
+chute_d'_eau
+vallée
+rivière
+glacier
+plaine
+
+ville
+route
+arbre
+flaque
+randonnée_pédestre
+vacances
+talon
+liste

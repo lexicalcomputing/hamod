@@ -1,0 +1,17 @@
+saksa
+poola
+inglise
+itaalia
+vene
+tšehhi
+prantsuse
+hollandi
+
+Java
+Python
+vene_tähestik
+ladina_tähestik
+kakskeelsus
+õppimine
+nälkjas
+ripse

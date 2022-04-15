@@ -1,0 +1,17 @@
+médecin
+pilule
+seringue
+chirurgien
+hôpital
+suture
+radiographie
+bandage
+
+boucher
+prison
+rayon_de_soleil
+scie
+coach_sportif
+entraînement
+plage
+courriel

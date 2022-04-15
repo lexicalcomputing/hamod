@@ -1,0 +1,17 @@
+Metall
+Glas
+Holz
+Gewebe
+Papier
+Leder
+Aluminium
+Gold
+
+Wasser
+Boden
+Baum
+Einschnitt
+Kleider
+Notizbuch
+Koffer
+Kreis

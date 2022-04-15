@@ -1,0 +1,17 @@
+doktor
+tabletka
+injekčná_striekačka
+chirurg
+nemocnica
+steh
+röntgen
+obväz
+
+mäsiar
+väzenie
+lúč
+píla
+osobný_tréner
+školenie
+pláž
+e-mail

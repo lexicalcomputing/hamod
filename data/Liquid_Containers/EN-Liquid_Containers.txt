@@ -1,0 +1,17 @@
+bottle
+tin
+glass
+vial
+flask
+wine_glass
+jug
+mug
+
+packet
+drawer
+beer
+wine
+barman
+drink
+shame
+hero

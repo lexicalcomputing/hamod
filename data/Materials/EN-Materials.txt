@@ -1,0 +1,17 @@
+metal
+glass
+wood
+cloth
+paper
+leather
+aluminum
+gold
+
+water
+soil
+tree
+incision
+clothes
+notebook
+suitcase
+circle

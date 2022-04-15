@@ -1,0 +1,17 @@
+dottore
+pillola
+siringa
+chirurgo
+ospedale
+sutura
+radiografia
+benda
+
+macellaio
+prigione
+raggio
+sega
+personal_trainer
+allenamento
+spiaggia
+email

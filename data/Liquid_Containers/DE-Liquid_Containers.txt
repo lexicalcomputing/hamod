@@ -1,0 +1,17 @@
+Flasche
+Dose
+Glas
+Fläschchen
+Flachmann
+Weinglas
+Krug
+Becher
+
+Paket
+Schublade
+Bier
+Wein
+Barkeeper
+Getränk
+Schande
+Held

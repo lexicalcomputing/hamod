@@ -1,0 +1,17 @@
+vowel
+syllable
+language
+prefix
+lexicon
+sentence
+stress
+word
+
+book
+teacher
+school
+division
+prime_number
+property
+queen
+hostel

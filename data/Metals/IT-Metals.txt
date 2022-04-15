@@ -1,0 +1,17 @@
+piombo
+ferro
+oro
+zinco
+platino
+rame
+alluminio
+nichel
+
+ossigeno
+idrogeno
+chiodo
+chiave
+fusione
+corrosione
+prezzemolo
+tubo

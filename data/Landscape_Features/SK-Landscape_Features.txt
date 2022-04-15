@@ -1,0 +1,17 @@
+jazero
+hora
+kopec
+vodopád
+údolie
+rieka
+ľadovec
+planina
+
+mesto
+cesta
+strom
+kaluž
+turistika
+dovolenka
+podpätok
+zoznam

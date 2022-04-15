@@ -1,0 +1,17 @@
+moto
+navire
+voiture
+tramway
+bus
+train
+avion
+hélicoptère
+
+vélo_d'_appartement
+tapis_de_course
+trottoir
+route
+conducteur
+pilote
+aiguille
+chaussure

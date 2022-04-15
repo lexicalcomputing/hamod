@@ -1,0 +1,17 @@
+Hip_Hop
+Jazz
+Reggae
+Country
+Rockmusik
+Soul
+Folk
+Heavy_Metal
+
+Ballett
+Oper
+Trompete
+Xylophon
+Band
+Liedermacher
+Maß
+Neffe

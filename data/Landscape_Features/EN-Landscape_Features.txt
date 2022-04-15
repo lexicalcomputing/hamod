@@ -1,0 +1,17 @@
+lake
+mountain
+hill
+waterfall
+valley
+river
+glacier
+plain
+
+city
+road
+tree
+puddle
+hiking
+holiday
+heel
+list

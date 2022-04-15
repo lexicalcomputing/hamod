@@ -1,0 +1,17 @@
+nemčina
+poľština
+angličtina
+taliančina
+ruština
+čeština
+francúzština
+holandčina
+
+Java
+Python
+azbuka
+latinka
+dvojjazyčnosť
+učenie
+slimák
+riasa

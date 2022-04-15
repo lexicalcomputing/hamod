@@ -1,0 +1,17 @@
+lago
+montagna
+collina
+cascata
+valle
+fiume
+ghiacciaio
+pianura
+
+città
+strada
+albero
+pozzanghera
+escursionismo
+vacanza
+tacco
+lista

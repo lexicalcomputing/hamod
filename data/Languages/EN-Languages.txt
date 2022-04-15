@@ -1,0 +1,17 @@
+German
+Polish
+English
+Italian
+Russian
+Czech
+French
+Dutch
+
+Java
+Python
+Cyrillic_alphabet
+Latin_alphabet
+bilingualism
+learning
+snail
+eyelash

@@ -1,0 +1,17 @@
+motocicletta
+nave
+macchina
+tram
+bus
+treno
+aeroplano
+elicottero
+
+cyclette
+tapis_roulant
+marciapiede
+strada
+autista
+pilota
+ago
+scarpa

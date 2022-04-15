@@ -1,0 +1,17 @@
+Blei
+Eisen
+Gold
+Zink
+Platin
+Kupfer
+Aluminium
+Nickel
+
+Sauerstoff
+Wasserstoff
+Nagel
+Schlüssel
+Schmelze
+Korrosion
+Petersilie
+Rohr

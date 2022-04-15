@@ -1,0 +1,17 @@
+metallo
+vetro
+legno
+stoffa
+carta
+cuoio
+alluminio
+oro
+
+acqua
+terra
+albero
+incisione
+vestito
+taccuino
+valigia
+cerchio
