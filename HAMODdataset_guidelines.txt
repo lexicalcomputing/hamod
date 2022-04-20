@@ -1,0 +1,228 @@
+19.04.2022
+Emma Romani
+
+
+
+
+HAMOD (High Agreement Multi-lingual Outlier Detection) dataset
+
+
+
+GUIDELINES for the DATASET CREATION and TRANSLATION
+
+
+
+--------------------------------------------------------------------- DATASET CREATION ---------------------------------------------------------------------
+
+
+
+This part of the document has been adapted from Camacho-Collados & Navigli (2016) (http://lcl.uniroma1.it/outlier-detection/).
+
+
+HAMOD dataset (High Agreement Multi-lingual Outlier Detection dataset) is a dataset for exercising the outlier detection task on distributional thesauri and word embeddings. 
+
+It consists of several sets. Each set (equivalent to "cluster" in Camacho-Collados & Navigli, 2016) is made by a group of 8 words belonging to a semantic category or pertaining to a specific topic and 8 words which does not fit to the first 8 at different degrees (i.e., they do not have relevant/enough properties to be considered parts of the semantic category or the topic). We call the words belonging to the semantic category/topic INLIERS and the words which do not fit OUTLIERS. 
+
+Examples of semantic categories (included in our dataset) are: "School Subjects", "Means of transport", "Clothes", "Parts of Skeleton", "Trees". Examples of topics are: "Music", "Informatics", "Linguistics", "Cooking".
+
+
+-- SELECTION OF THE SEMANTIC CATEGORIES --
+
+
+Here are some requirements in the selection of the topics, the semantic categories, and the specific inliers and outliers:
+
+1. NAMED ENTITIES AND PROPER NAMES
+
+Named Entities and proper names have to be avoided. "Solar system planets", "South American Countries", "Presidents of Czech Republic" are not suitable candidates for a set, "Musical Instruments", "Shapes" and "Professions" are suitable candidates for a set.
+
+2. GENERAL KNOWLEDGE
+
+Categories and topics should belong to some general knowledge, thus avoid narrow and domain-specific categories or topics. "Farm Animals" ("cow", "pig", "goose", "dog", etc.) is a suitable category, but "Dog Breeds" ("basset hound", "bohemian shepherd", "poodle", "bulldog", etc.) may be too specific and may not belong to some shared knowledge.
+
+3. 12-YEAR-OLD VOCABULARY
+
+Words chosen as inliers and outliers should be easily understood by a 12-year-old person. If you cannot test this, try to use highly frequent and try not to use domain-specific vocabulary.
+
+4. SEMANTICS, NOTHING ELSE
+
+As we are evaluating thesauri (which encode semantic relations), the criteria for the identification of the sets must be semantic. "Interrogative Pronouns" or "Time Preposition" are not suitable candidates for a set, as the criterion would be syntactic or morphological.
+
+
+-- INLIERS SELECTION --
+
+
+We intend SEMANTIC CATEGORIES as sets of words referring to entities, properties or events sharing some common features: for example, "Means of Transport" contains items which share the feature of being human-made artifacts, used by human beings to move around. The features are implicitly reflected in the label assigned to each set by the annotator, which is only needed to identify the set (but will not be used in the task nor signaled to the human evaluators). For example, "Means of Transport" is a set based on a semantic category. Here are its 8 inliers: 
+
+	01	motorbike
+	02	boat
+	03	car
+	04	tram
+	05	bus
+	06	train
+	07	plane
+	08	helicopter
+
+Even if there are several types of means of transport (road, water, and flying vehicle), they all share the property of being human-made artifacts used by human beings to move around. A more specific set, derived from this, is "Road Means of Transport": 
+
+	01	car
+	02	bus
+	03	campervan
+	04	bike
+	05	motorbike
+	06	skateboard
+	07	van
+	08	e-scooter
+
+In this set, "train", "plane" and "boat" would be outliers because they are not means of transport used on the road (they are used on rails, air, and water, instead).
+
+Sets based on TOPICS are less strict: they can contain words that do not necessarily shared relevant features (e.g., abstract and concrete, human-made and natural objects, events, and properties can be mixed). For example, "Music" is a set based on a topic. Here are its 8 inliers:
+
+	01	note
+	02	composer
+	03	guitar
+	04	rock
+	05	flute
+	06	sound
+	07	microphone
+	08	singer
+
+In this case, items may belong to different semantic categories: for example, "guitar", "flute" are musical instruments, "singer" and "composer" are artistic professions, "rock" and "note" are abstract entities etc. All the inliers clearly pertain to the same topic.
+
+
+-- OUTLIERS SELECTION --
+
+
+Once you have identified the topic or the semantic category and its corresponding inliers, choosing the outliers may be trickier and clear guidelines are needed. Inliers are among themselves similar and related; outliers should have instead a lower degree of similarity and relatedness, at different hierarchical levels. 
+
+We follow Camacho-Collados & Navigli (2016) in dividing the 8 outliers in 4 sub-sets (thus, 2 words per each sub-set), defining each sub-set as follows:
+
+- sub-set 1: two words that are closely related to the inliers, thus sharing a high number of features with them, but not enough to be part of the inliers. For example, in "Road Means of Transport" (see above), "boat" and "train" are means of transport, but they cannot be used on the road, therefore they are distinguished from the inliers. 
+- sub-set 2: two words that are less related by sharing less features. For example, "road" and "roundabout" are always human-made entities but cannot be said to be means of transport, but they are still related to the semantic category of driving.
+- sub-set 3: two words that are even less related, but still pertaining to the semantic category. They may be words referring to different kind of entities (from concrete to abstract, in the case of our examples) or to events or properties. For example, "traffic" and "car_crash" refer to kinds of events that can involve road vehicles.
+- sub-set 4: two words that are not related at all to the inliers. They can be random words. For example, "tomato" and "toaster" do not share any feature with the inliers nor pertain to the semantic category.
+
+To sum up, the outliers of the set "Road Means of Transport" are:
+
+	01	boat
+	02	train
+	03	road
+	04	roundabout
+	05	traffic
+	06	car_crash
+	07	tomato
+	08	toaster
+
+For what concerns topics, the selection of the first six outliers does not have to follow the same hierarchy as for semantic categories, as different entities, events, and properties may be included among the inliers. The last two outliers always need to be random words. See for example the outliers for the set "Music" (mentioned above):
+
+	01	letter
+	02	color
+	03	picture
+	04	sculpture
+	05	writer
+	06	bird
+	07	helicopter
+	08	pig
+
+
+-- FORMAL REQUIREMENTS IN THE ENCODING OF THE DATASET --
+
+
+Here are some formal requirements in the selection and encoding of the inliers and the outliers in the sets:
+
+1. PARTS OF SPEECH
+
+Sets only contain words with the same part of speech, considering inliers and outliers altogether. There are only-noun, only-verb and only-adjectives set in the current state of the dataset.
+
+2. MULTIWORD EXPRESSIONS
+
+In order to be processed by the evaluation script, multiword expressions need to be encoded with an underscore joining each word of the term. See, for example, "peanut_butter", "salle_de_bain", "cambiamento_climatico".
+
+
+3. LEMMAS
+
+Words have to be encoded as their lemma. For example, singular form is the lemma for a noun, singular masculine for an adjective, infinitive form for a verb in Italian. Plural forms are not accepted unless the word is a pluralia tantum - i.e., only have a plural form (e.g., "trousers" in English).
+
+
+-- FORMAT --
+
+
+The format of the sets has to be a simple .txt file containing the inliers and the outliers as follows. Inliers can be in a random order, as there is no hierarchical relation among the 8 elements. Outliers need to follow the order outlined in the paragraph above. Inliers and outliers must be separated by an empty line. A different .txt file must be created for each language.
+
+	inlier 1
+	inlier 2
+	inlier 3
+	inlier 4
+	inlier 5
+	inlier 6
+	inlier 7
+	inlier 8
+	<Empty line>
+	outlier from sub-set 1
+	oultier from sub-set 1
+	oultier from sub-set 2
+	oultier from sub-set 2
+	oultier from sub-set 3
+	oultier from sub-set 3
+	oultier from sub-set 4
+	oultier from sub-set 4
+
+See the set "Means of Transport" as an example:
+
+	motorbike
+	ship
+	car
+	tram
+	bus
+	train
+	plane
+	helicopter
+
+	exercise_bike
+	treadmill
+	pavement
+	road
+	driver
+	pilot
+	needle
+	shoe
+
+
+
+--------------------------------------------------------- TRANSLATION AND ADAPTATION OF THE DATASET --------------------------------------------------------
+
+
+
+In this part of the document, we summarize the steps needed in order to translate and adapt the HAMOD dataset to other languages. English must be kept as source language for any translation/adaptation of the sets. Starting from English, the 8 inliers + 8 outliers have to be accurately translated into their equivalent in the new language(s). 
+
+One may choose not to translate directly - but to adapt the word into something similar that still fits among the inliers or the outliers - in the following cases:
+
+1. there is no exact correspondence in the translation;
+2. the corresponding translation is infrequent (according to a reference corpus) in the new language(s);
+3. the word is too cultural-specific (e.g., names of food, means of transports, animals) and therefore absent in the new language(s).
+
+In these circumstances, a multiword expression can be used if it is attested in the corpus - i.e., it is not Out-Of-Vocabulary (OOV). For example, "pet" in English would be translated "animale_domestico" in Italian. 
+
+In case this is not possible, the target word can be replaced with a completely different one - but still semantically related according to the guidelines for the selection of the inliers and the outliers. For example, as "custard" in English is cultural-specific, it can be adapted to "tvaroh" in Czech (thus always referring to a dairy product). 
+
+Other desiderata to be followed:
+
+1. USAGE
+
+The translated word has to be commonly used in the language (in particular for what concerns multiword expressions) - in case of uncertainty, a corpus in the target language can be checked.
+
+2. PARTS of SPEECH
+
+The translated word has to be in the same part of speech of the other words in the set (there cannot be mixed sets with both adjectives, verbs, and nouns: only-verbs, only-nouns and only-adjectives sets have to be created).
+
+3. LEMMAS
+
+The translated word has to be encoded as its lemma. Plural forms are not accepted unless the word is a pluralia tantum - i.e., only have a plural form (e.g., "trousers" in English).
+
+4. SEMANTIC POLYSEMY/AMBIGUITY
+
+In case of semantic polysemy/ambiguity, the translated word has to be contextually consistent with the others in the set. For example, "oil" in the set "Cooking" must refer to the ingredient used to cook or fry (thus, "olio" in Italian, "huile" in French etc.). If it is in the set "Sources of Energy", then it refers to petroleum used to power engines (thus, "petrolio" in Italian, "pétrole" in French etc.).
+
+5. PART of SPEECH AMBIGUITY
+
+In case of part of speech ambiguity, the translated word has to be consistent with the others in the set. For example, "fast" in the set "Verbs Eating" cannot refer to its homonymous adjective meaning "quick, rapid", but instead it would mean "to eat no food" (and thus translated as "paastuma" in Estonian, "fasten" in German etc.).
+
