@@ -54,7 +54,7 @@ As we are evaluating thesauri (which encode semantic relations), the criteria fo
 We intend SEMANTIC CATEGORIES as sets of words referring to entities, properties or events sharing some common features: for example, "Means of Transport" contains items which share the feature of being human-made artifacts, used by human beings to move around. The features are implicitly reflected in the label assigned to each set by the annotator, which is only needed to identify the set (but will not be used in the task nor signaled to the human evaluators). For example, "Means of Transport" is a set based on a semantic category. Here are its 8 inliers: 
 
 	01	motorbike
-	02	boat
+	02	ship
 	03	car
 	04	tram
 	05	bus
@@ -66,19 +66,19 @@ Even if there are several types of means of transport (road, water, and flying v
 
 	01	car
 	02	bus
-	03	campervan
+	03	taxi
 	04	bike
 	05	motorbike
-	06	skateboard
+	06	trolleybus
 	07	van
-	08	e-scooter
+	08	scooter
 
 In this set, "train", "plane" and "boat" would be outliers because they are not means of transport used on the road (they are used on rails, air, and water, instead).
 
 Sets based on TOPICS are less strict: they can contain words that do not necessarily shared relevant features (e.g., abstract and concrete, human-made and natural objects, events, and properties can be mixed). For example, "Music" is a set based on a topic. Here are its 8 inliers:
 
 	01	note
-	02	composer
+	02	song
 	03	guitar
 	04	rock
 	05	flute
@@ -86,7 +86,7 @@ Sets based on TOPICS are less strict: they can contain words that do not necessa
 	07	microphone
 	08	singer
 
-In this case, items may belong to different semantic categories: for example, "guitar", "flute" are musical instruments, "singer" and "composer" are artistic professions, "rock" and "note" are abstract entities etc. All the inliers clearly pertain to the same topic.
+In this case, items may belong to different semantic categories: for example, "guitar", "flute" are musical instruments, "singer" and is an artistic profession, "rock" and "note" are abstract entities etc. All the inliers clearly pertain to the same topic.
 
 
 -- OUTLIERS SELECTION --
@@ -96,35 +96,35 @@ Once you have identified the topic or the semantic category and its correspondin
 
 We follow Camacho-Collados & Navigli (2016) in dividing the 8 outliers in 4 sub-sets (thus, 2 words per each sub-set), defining each sub-set as follows:
 
-- sub-set 1: two words that are closely related to the inliers, thus sharing a high number of features with them, but not enough to be part of the inliers. For example, in "Road Means of Transport" (see above), "boat" and "train" are means of transport, but they cannot be used on the road, therefore they are distinguished from the inliers. 
+- sub-set 1: two words that are closely related to the inliers, thus sharing a high number of features with them, but not enough to be part of the inliers. For example, in "Road Means of Transport" (see above), "skates" and "train" are means of transport, but an airplane is a flying vehicle, not a road one, and the skates are more like a sport equipment, therefore they are dis-tinguished from the inliers. 
 - sub-set 2: two words that are less related by sharing less features. For example, "road" and "roundabout" are always human-made entities but cannot be said to be means of transport, but they are still related to the semantic category of driving.
 - sub-set 3: two words that are even less related, but still pertaining to the semantic category. They may be words referring to different kind of entities (from concrete to abstract, in the case of our examples) or to events or properties. For example, "traffic" and "car_crash" refer to kinds of events that can involve road vehicles.
-- sub-set 4: two words that are not related at all to the inliers. They can be random words. For example, "tomato" and "toaster" do not share any feature with the inliers nor pertain to the semantic category.
+- sub-set 4: two words that are not related at all to the inliers. They can be random words. For example, "rugby" and "toaster" do not share any feature with the inliers nor pertain to the semantic category.
 
 To sum up, the outliers of the set "Road Means of Transport" are:
 
-	01	boat
+	01	skates
 	02	train
 	03	road
 	04	roundabout
 	05	traffic
 	06	car_crash
-	07	tomato
+	07	rugby
 	08	toaster
 
 For what concerns topics, the selection of the first six outliers does not have to follow the same hierarchy as for semantic categories, as different entities, events, and properties may be included among the inliers. The last two outliers always need to be random words. See for example the outliers for the set "Music" (mentioned above):
 
 	01	letter
-	02	color
-	03	picture
+	02	colour
+	03	drawing
 	04	sculpture
 	05	writer
-	06	bird
-	07	helicopter
-	08	pig
+	06	painter
+	07	picnic
+	08	pocket
 
 
--- FORMAL REQUIREMENTS IN THE ENCODING OF THE DATASET --
+-- FORMAL REQUIREMENTS FOR THE ENCODING OF THE DATASET --
 
 
 Here are some formal requirements in the selection and encoding of the inliers and the outliers in the sets:
@@ -220,7 +220,7 @@ The translated word has to be encoded as its lemma. Plural forms are not accepte
 
 4. SEMANTIC POLYSEMY/AMBIGUITY
 
-In case of semantic polysemy/ambiguity, the translated word has to be contextually consistent with the others in the set. For example, "oil" in the set "Cooking" must refer to the ingredient used to cook or fry (thus, "olio" in Italian, "huile" in French etc.). If it is in the set "Sources of Energy", then it refers to petroleum used to power engines (thus, "petrolio" in Italian, "pétrole" in French etc.).
+In case of semantic polysemy/ambiguity, the translated word has to be contextually consistent with the others in the set. For example, "oil" in the set "Cooking" must refer to the ingredient used to cook or fry (thus, "olio" in Italian, "huile" in French etc.). If it is in the set "Sources of Energy", then it refers to petroleum used to power engines (thus, "petrolio" in Italian, "pÃ©trole" in French etc.).
 
 5. PART of SPEECH AMBIGUITY
 
