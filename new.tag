@@ -72,7 +72,7 @@
           <div class="card-content">
             <span class="card-title">Welcome {name}</span>
             You are about to start a new exercise. Your exercise ID is <h5>{id}</h5> and 
-            you can return to this exercise anytime through this <a href="https://milos.sketchengine.co.uk/outlier_detection/edit/{id}">link</a> or by returning to the main page, choosing to continue an exercise and entering your exercise ID.
+            you can return to this exercise anytime through this <a href="https://milos.sketchengine.co.uk/outlier_detection/#exercise{id}">link</a> or by returning to the main page, choosing to continue an exercise and entering your exercise ID.
             <h5>Your task</h5>
             <ul class="browser-default" style="color: black">
               <li>You will be presented 9 words.</li>
