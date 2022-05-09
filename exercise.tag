@@ -5,7 +5,7 @@
 
   <div class="row" if={!loading && !completed}>
     <div class="col s8 center-align offset-s2">
-      <a each={w in words} class="waves-effect waves-light btn" data-word={w} onclick={chooseWord}>{w.replace("_"," ")}</a>
+      <a each={w in words} class="waves-effect waves-light btn" data-word={w} onclick={chooseWord}>{w.replaceAll("_"," ")}</a>
       <a class="orange lighten-2 waves-effect waves-light btn" data-word="=SKIP=" onclick={chooseWord}>I'm not sure</a>
       <a class="red lighten-2 waves-effect waves-light btn" href="#">Quit</a>
     </div>
