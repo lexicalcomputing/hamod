@@ -26,11 +26,13 @@ def action_next(c, ex_id):
     ex = c.execute("SELECT * FROM exercises WHERE id=?", (ex_id,)).fetchone()
     results = json.loads(ex["results"])
     response = {"completed": False}
+    all_ex = get_exercise_sets(ex["lang"])
+    todo = list(all_ex - set(results.keys()))
+    response["progress"] = (len(all_ex) - len(todo)) / len(all_ex)
+    response["todo"] = len(todo)
     if "current" in results:
         response["words"] = results["current"]["words"]
         return response
-    all_ex = get_exercise_sets(ex["lang"])
-    todo = list(all_ex - set(results.keys()))
     if len(todo) == 0:
         response["completed"] = True
         return response
@@ -48,9 +50,18 @@ def save_result(c, ex_id, outlier):
         return
     filename = results["current"]["file"]
     results[filename] = {"words": results["current"]["words"], "outlier": outlier}
-    del results["current"]
+    results["previous"] = results.pop("current")
     c.execute("UPDATE exercises SET results=? WHERE id=?", (json.dumps(results), ex_id))
 
+def undo_previous(c, ex_id):
+    ex = c.execute("SELECT results FROM exercises WHERE id=?", (ex_id,)).fetchone()
+    results = json.loads(ex["results"])
+    if not "previous" in results:
+        return
+    filename = results["previous"]["file"]
+    del results[filename]
+    results["current"] = results.pop("previous")
+    c.execute("UPDATE exercises SET results=? WHERE id=?", (json.dumps(results), ex_id))
 
 def get_rarest_outlier(c, target_set_name):
     stat = {x: 0 for x in load_exercise_file(target_set_name)['outliers']}
@@ -92,6 +103,13 @@ elif action == "next":
     ex_id = form["id"].value.lower()
     if "chosen" in form:
         save_result(c, ex_id, form["chosen"].value)
+    response = action_next(c, ex_id)
+    conn.commit()
+    print(json.dumps(response))
+elif action == "undo":
+    c = conn.cursor()
+    ex_id = form["id"].value.lower()
+    undo_previous(c, ex_id)
     response = action_next(c, ex_id)
     conn.commit()
     print(json.dumps(response))

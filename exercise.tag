@@ -3,11 +3,20 @@
     <spinner size="big" class="center-align" style="margin: auto"></spinner>
   </div>
 
+  <div class="row" if={!completed}>
+    <div>
+      <div id="progress"></div>
+    </div>
+  </div>
+
   <div class="row" if={!loading && !completed}>
     <div class="col s8 center-align offset-s2">
-      <a each={w in words} class="waves-effect waves-light btn" data-word={w} onclick={chooseWord}>{w.replaceAll("_"," ")}</a>
-      <a class="orange lighten-2 waves-effect waves-light btn" data-word="=SKIP=" onclick={chooseWord}>I'm not sure</a>
-      <a class="red lighten-2 waves-effect waves-light btn" href="#">Quit</a>
+      <div if={showprev}>Clicked too fast? <a href="javascript:void(0)" onclick={undoLast}>Undo last click!</a></div>
+      <div if={waittime > 0}>Please read and think about the outlier word. Buttons become active in {waittime} seconds.</div>
+      <div if={waittime <= 0}>Please click the outlier word.</div>
+      <a each={w in words} class="waves-effect waves-light btn disabled" data-word={w} onclick={chooseWord}>{w.replaceAll("_"," ")}</a>
+      <br/>
+      <a if={waittime <= 0} class="orange lighten-2 waves-effect waves-light btn" data-word="=SKIP=" onclick={chooseWord}>I'm not sure</a>
     </div>
   </div>
 
@@ -31,35 +40,72 @@
       margin: .5em;
       display: inline-block;
     }
+    a.btn{
+      font-weight: bold;
+    }
+    a.btn.disabled {
+      color: black !important;
+    }
+    #progress {
+      margin: auto;
+      margin-bottom: 20px;
+      width: 40%;
+      height: 8px;
+      position: relative;
+    }
   </style>
  
   <script>
     this.words = []
     this.completed = false
-    this.loading = false
+    this.loading = true
     this.evaluating = false
+    this.progress = 0.0
+    this.todo = 0
+    this.waittime = 5
+    this.showprev = (this.progress > 0);
+
+    stepInterval() {
+      this.waittime--;
+      if (!this.waittime) {
+        clearInterval(this.timer);
+        $(".btn.disabled").removeClass("disabled")
+      }
+      this.update()
+    }
 
     chooseWord(e) {
+      this.loadData({action: "next", chosen: e.currentTarget.dataset.word})
+      this.showprev = true
+    }
+
+    undoLast() {
+      this.loadData({action: "undo"})
+      this.showprev = false
+    }
+
+    this.on("mount", () => {
+      this.loadData({action: "next"})
+    })
+
+    loadData(params) {
+      params["id"] = this.parent.exercise_id;
       this.loading = true
       this.update()
-      $.get("exercise.cgi?action=next&id=" + this.parent.exercise_id + "&chosen=" + encodeURIComponent(e.currentTarget.dataset.word), (data) => {
+      $.get("exercise.cgi", params, (data) => {
         this.words = data.words;
         this.completed = data.completed;
+        this.progress = data.progress;
+        this.todo = data.todo;
         this.loading = false
+        this.waittime = 5
+        this.timer = setInterval(this.stepInterval, 1000);
         this.update()
+        this.updateProgress()
       })
     }
-    this.on("mount", () => {
-      this.loading = true
-      this.update()
-      $.get("exercise.cgi?action=next&id=" + this.parent.exercise_id, (data) => {
-        this.words = data.words;
-        this.completed = data.completed;
-        this.loading = false
-        this.update()
-      })
-    })
-    this.on("updated", () => {
+
+    updateProgress() {
       if (this.completed) {
         if (!this.bar) {
           this.evaluating = true;
@@ -89,14 +135,47 @@
               bar.text.style.fontSize = '2rem';
             }
           });
-          this.bar.animate(0);  // Number from 0.0 to 1.0
-          $.get("exercise.cgi?action=eval&id=" + this.parent.exercise_id, (data) => {
-            this.evaluating = false
-            this.bar.animate((data[0]["correct"]/data[0]["total"]).toFixed(2))
-          })
         }
+        this.bar.animate(0);  // Number from 0.0 to 1.0
+        $.get("exercise.cgi?action=eval&id=" + this.parent.exercise_id, (data) => {
+          this.evaluating = false
+          this.bar.animate((data[0]["correct"]/data[0]["total"]).toFixed(2))
+        })
+      } else {
+        if (!this.progressbar) {
+          this.progressbar = new ProgressBar.Line(document.getElementById("progress"), {
+            strokeWidth: 4,
+            easing: 'easeInOut',
+            duration: 1400,
+            color: '#FF5500',
+            trailColor: '#eee',
+            trailWidth: 1,
+            svgStyle: {width: '100%', height: '100%'},
+            text: {
+              style: {
+                // Text color.
+                // Default: same as stroke color (options.color)
+                color: '#999',
+                position: 'absolute',
+                right: '0',
+                top: '10px',
+                padding: 0,
+                margin: 0,
+                transform: null
+              },
+              autoStyleContainer: false
+            },
+            from: {color: '#FF5500'},
+            to: {color: '#55FF00'},
+            step: (state, bar) => {
+              bar.setText(Math.round(bar.value() * 100) + ' % done (' + this.todo + ' outliers remaining)');
+              bar.path.setAttribute('stroke', state.color);
+            }
+          });
+        }
+        this.progressbar.animate(this.progress);
       }
-    })
+    }
   </script>
 
 </exercise>
