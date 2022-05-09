@@ -8,14 +8,6 @@
     this.name = ""
     this.userid = ""
 
-    onEditRecord(num, type) {
-      route("edit/" + type + "/" + num)
-    }
-
-    onShowOverview(e) {
-      route("overview/" + this.type)
-    }
-
     this.on("mount", () => {
       /* ROUTING */
       route('/exercise/*', (ex_id) => {
