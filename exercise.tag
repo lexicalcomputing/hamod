@@ -139,7 +139,7 @@
         this.bar.animate(0);  // Number from 0.0 to 1.0
         $.get("exercise.cgi?action=eval&id=" + this.parent.exercise_id, (data) => {
           this.evaluating = false
-          this.bar.animate((data[0]["correct"]/data[0]["total"]).toFixed(2))
+          this.bar.animate((data[0]["correct"]/data[0]["total"]).toFixed(4))
         })
       } else {
         if (!this.progressbar) {
