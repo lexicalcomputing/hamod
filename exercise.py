@@ -17,6 +17,7 @@ def eval_exercise(c, gold_data, langs, ex_id = None):
         if "current" in results:
             print("WARNING: exercise %s is incomplete, skipping" % e["id"], file=sys.stderr)
             del results["current"]
+        results.pop("previous", None)
         ex_sets = results.keys()
         correct = 0
         skipped = 0
