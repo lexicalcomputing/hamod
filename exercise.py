@@ -84,7 +84,10 @@ if __name__ == '__main__':
     if len(sys.argv) == 5 and len(sys.argv[4]) > 1:
         r = eval_exercise (c, load_exercise_data(sys.argv[2]), ["ALL"], sys.argv[4])[0][0]
         print("exercise id: %s, name: %s, lang: %s" % (r["id"], r["name"], r["lang"]))
-        print("correct = %d, total = %d, precision = %.2f, skipped = %d" % (r["correct"], r["total"], r["correct"]/r["total"], r["skipped"]))
+        if r["total"] > 0:
+            print("correct = %d, total = %d, precision = %.2f, skipped = %d" % (r["correct"], r["total"], r["correct"]/r["total"], r["skipped"]))
+        else:
+            print("total = 0")
         print("mistakes:")
         for m in r["mistakes"]:
             exset, mistaken_outlier, correct_outlier = m
