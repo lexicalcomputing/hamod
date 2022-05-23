@@ -49,7 +49,9 @@ def save_result(c, ex_id, outlier):
     if outlier != "=SKIP=" and outlier not in results["current"]["words"]:
         return
     filename = results["current"]["file"]
-    results[filename] = {"words": results["current"]["words"], "outlier": outlier}
+    from datetime import datetime
+    dt = datetime.now().isoformat(" ", "seconds")
+    results[filename] = {"words": results["current"]["words"], "outlier": outlier, "when": dt}
     results["previous"] = results.pop("current")
     c.execute("UPDATE exercises SET results=? WHERE id=?", (json.dumps(results), ex_id))
 
@@ -91,7 +93,7 @@ if action == "new":
     c = conn.cursor()
     while True:
         try:
-            c.execute("INSERT INTO exercises VALUES(LOWER(HEX(RANDOMBLOB(16))), ?, ?, '{}')", (name, lang))
+            c.execute("INSERT INTO exercises VALUES(LOWER(HEX(RANDOMBLOB(16))), ?, ?, '{}', DATETIME())", (name, lang))
         except sqlite3.IntegrityError:
             continue
         break
