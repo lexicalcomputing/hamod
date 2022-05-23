@@ -1,9 +1,10 @@
 #!/usr/bin/python3
 
-import sqlite3, sys, json, glob
+import sqlite3, sys, json, glob, argparse
 from collections import defaultdict
+from datetime import datetime
 
-def eval_exercise(c, gold_data, langs, skip_incomplete, ex_id = None):
+def eval_exercise(c, gold_data, langs, skip_incomplete, date_from, date_to, ex_id = None):
     if ex_id:
         ex = c.execute("SELECT * FROM exercises WHERE id=?", (ex_id,)).fetchall()
     else:
@@ -26,6 +27,12 @@ def eval_exercise(c, gold_data, langs, skip_incomplete, ex_id = None):
         total = len(ex_sets)
         mistakes = []
         for s in ex_sets:
+            if "when" in results[s]:
+                when = datetime.fromisoformat(results[s]["when"])
+            else:
+                when = None
+            if when and ((date_from and when < date_from) or (date_to and when > date_to)):
+                continue
             if s not in file_results:
                 file_results[s] = {"correct": 0, "total": 0, "skipped": 0, "words": {}}
             file_results[s]["total"] += 1
@@ -73,16 +80,16 @@ def load_exercise_file(filename):
     return {"words": ex_data[:8], "outliers": ex_data[9:]}
 
 if __name__ == '__main__':
-
-    import argparse
-
     parser = argparse.ArgumentParser(description='Evalutes outlier detection annotations.')
     parser.add_argument('dbpath', metavar='SQLITE.db', help='path to the SQLITE database with annotations')
     parser.add_argument('datadir', metavar='DATADIR', help='path to the data directory with gold dataset')
     parser.add_argument('lang', metavar='LANG', help='ALL|CS,EN,IT...')
-    parser.add_argument('-v', '--verbose', action='count', default=0, help='verbosity, up to -vvv supported')
-    parser.add_argument('-e', '--ex-id', help='limit evaluation to particular exercise ID')
     parser.add_argument('-a', '--all', help='include also incomplete exercises', action='store_false', dest='skip_incomplete')
+    parser.add_argument('-f', '--from', help='limit evaluation to actions from this datetime in ISO format (e.g. 1970-01-01 23:02:13)', dest='date_from', type=datetime.fromisoformat)
+    parser.add_argument('-t', '--to', help='limit evaluation to actions to this datetime in ISO format', dest='date_to', type=datetime.fromisoformat)
+    group = parser.add_mutually_exclusive_group()
+    group.add_argument('-v', '--verbose', action='count', default=0, help='verbosity, up to -vvv supported')
+    group.add_argument('-e', '--ex-id', help='limit evaluation to particular exercise ID')
 #    if len(sys.argv) < 4 or len(sys.argv) > 5:
 #        print("Usage: %s [-a] SQLITE.db DATADIR LANG=ALL|CS,EN,.. [ VERBOSITY_LEVEL={default=0,1,2,3} | EXERCISE_ID ]", file=sys.stderr)
 #        print("-a includes also incomplete exercises")
@@ -95,7 +102,7 @@ if __name__ == '__main__':
     langs = args.lang.split(",")
 
     if args.ex_id:
-        r = eval_exercise (c, load_exercise_data(args.datadir), ["ALL"], args.skip_incomplete, args.ex_id)[0][0]
+        r = eval_exercise (c, load_exercise_data(args.datadir), ["ALL"], args.skip_incomplete, args.date_from, args.date_to, args.ex_id)[0][0]
         print("exercise id: %s, name: %s, lang: %s" % (r["id"], r["name"], r["lang"]))
         if r["total"] > 0:
             print("correct = %d, total = %d, precision = %.2f, skipped = %d" % (r["correct"], r["total"], r["correct"]/r["total"], r["skipped"]))
@@ -109,7 +116,7 @@ if __name__ == '__main__':
         def vp(msg, level):
             if level <= args.verbose:
                 print(msg)
-        rr, fr = eval_exercise (c, load_exercise_data(args.datadir), langs, args.skip_incomplete)
+        rr, fr = eval_exercise (c, load_exercise_data(args.datadir), langs, args.skip_incomplete, args.date_from, args.date_to)
         per_lang = {}
         for r in rr:
             vp("exercise id: %s, name: %s, lang: %s" % (r["id"], r["name"], r["lang"]), 2)
