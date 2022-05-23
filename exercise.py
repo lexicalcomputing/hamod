@@ -3,7 +3,7 @@
 import sqlite3, sys, json, glob
 from collections import defaultdict
 
-def eval_exercise(c, gold_data, langs, ex_id = None):
+def eval_exercise(c, gold_data, langs, skip_incomplete, ex_id = None):
     if ex_id:
         ex = c.execute("SELECT * FROM exercises WHERE id=?", (ex_id,)).fetchall()
     else:
@@ -15,8 +15,10 @@ def eval_exercise(c, gold_data, langs, ex_id = None):
             continue
         results = json.loads(e["results"])
         if "current" in results:
-            print("WARNING: exercise %s is incomplete, skipping" % e["id"], file=sys.stderr)
             del results["current"]
+            if skip_incomplete:
+                print("WARNING: exercise %s is incomplete, skipping; use -a to include this" % e["id"], file=sys.stderr)
+                continue
         results.pop("previous", None)
         ex_sets = results.keys()
         correct = 0
@@ -71,18 +73,29 @@ def load_exercise_file(filename):
     return {"words": ex_data[:8], "outliers": ex_data[9:]}
 
 if __name__ == '__main__':
-    if len(sys.argv) < 4 or len(sys.argv) > 5:
-        print("Usage: %s SQLITE.db DATADIR LANG=ALL|CS,EN,.. [ VERBOSITY_LEVEL={default=0,1,2,3} | EXERCISE_ID ]", file=sys.stderr)
-        sys.exit(1)
 
-    conn = sqlite3.connect(sys.argv[1])
+    import argparse
+
+    parser = argparse.ArgumentParser(description='Evalutes outlier detection annotations.')
+    parser.add_argument('dbpath', metavar='SQLITE.db', help='path to the SQLITE database with annotations')
+    parser.add_argument('datadir', metavar='DATADIR', help='path to the data directory with gold dataset')
+    parser.add_argument('lang', metavar='LANG', help='ALL|CS,EN,IT...')
+    parser.add_argument('-v', '--verbose', action='count', default=0, help='verbosity, up to -vvv supported')
+    parser.add_argument('-e', '--ex-id', help='limit evaluation to particular exercise ID')
+    parser.add_argument('-a', '--all', help='include also incomplete exercises', action='store_false', dest='skip_incomplete')
+#    if len(sys.argv) < 4 or len(sys.argv) > 5:
+#        print("Usage: %s [-a] SQLITE.db DATADIR LANG=ALL|CS,EN,.. [ VERBOSITY_LEVEL={default=0,1,2,3} | EXERCISE_ID ]", file=sys.stderr)
+#        print("-a includes also incomplete exercises")
+#        sys.exit(1)
+    args = parser.parse_args()
+
+    conn = sqlite3.connect(args.dbpath)
     conn.row_factory = sqlite3.Row
     c = conn.cursor()
-    verbosity = 0
-    langs = sys.argv[3].split(",")
+    langs = args.lang.split(",")
 
-    if len(sys.argv) == 5 and len(sys.argv[4]) > 1:
-        r = eval_exercise (c, load_exercise_data(sys.argv[2]), ["ALL"], sys.argv[4])[0][0]
+    if args.ex_id:
+        r = eval_exercise (c, load_exercise_data(args.datadir), ["ALL"], args.skip_incomplete, args.ex_id)[0][0]
         print("exercise id: %s, name: %s, lang: %s" % (r["id"], r["name"], r["lang"]))
         if r["total"] > 0:
             print("correct = %d, total = %d, precision = %.2f, skipped = %d" % (r["correct"], r["total"], r["correct"]/r["total"], r["skipped"]))
@@ -93,12 +106,10 @@ if __name__ == '__main__':
             exset, mistaken_outlier, correct_outlier = m
             print("%s instead of %s for %s" % (exset, mistaken_outlier, correct_outlier))
     else:
-        if len(sys.argv) == 5:
-            verbosity = int(sys.argv[4])
         def vp(msg, level):
-            if level <= verbosity:
+            if level <= args.verbose:
                 print(msg)
-        rr, fr = eval_exercise (c, load_exercise_data(sys.argv[2]), langs)
+        rr, fr = eval_exercise (c, load_exercise_data(args.datadir), langs, args.skip_incomplete)
         per_lang = {}
         for r in rr:
             vp("exercise id: %s, name: %s, lang: %s" % (r["id"], r["name"], r["lang"]), 2)
@@ -125,4 +136,4 @@ if __name__ == '__main__':
         for f, k in fr.items():
             vp("\nFilename %s: correct = %d, total = %d, precision = %.2f, skipped = %d" % (f, k["correct"], k["total"], k["correct"]/k["total"], k["skipped"]), 1)
             for w, kk in k["words"].items():
-                vp("Outlier %s: correct = %d, total = %d, precision = %.2f, skipped = %d, mistakes = %s, ids = %s" % (w, kk["correct"], kk["total"], kk["correct"]/kk["total"], kk["skipped"], dict(kk["mistakes"]), verbosity > 2 and kk["ids"] or "[VERBOSITY3]"), 1)
+                vp("Outlier %s: correct = %d, total = %d, precision = %.2f, skipped = %d, mistakes = %s, ids = %s" % (w, kk["correct"], kk["total"], kk["correct"]/kk["total"], kk["skipped"], dict(kk["mistakes"]), args.verbose > 2 and kk["ids"] or "[VERBOSITY3]"), 1)
