@@ -14,9 +14,12 @@
       <div if={showprev}>Clicked too fast? <a href="javascript:void(0)" onclick={undoLast}>Undo last click!</a></div>
       <div if={waittime > 0}>Please read and think about the outlier word. Buttons become active in {waittime} seconds.</div>
       <div if={waittime <= 0}>Please click the outlier word.</div>
-      <a each={w in words} class="waves-effect waves-light btn disabled" data-word={w} onclick={chooseWord}>{w.replaceAll("_"," ")}</a>
+      <virtual each={w, i in words}>
+        <a class="waves-effect waves-light btn-large disabled" data-word={w} onclick={chooseWord}>{w.replaceAll("_"," ")}</a>
+        <br if={(i+1) % 3 == 0}/>
+      </virtual>
       <br/>
-      <a if={waittime <= 0} class="orange lighten-2 waves-effect waves-light btn" data-word="=SKIP=" onclick={chooseWord}>I'm not sure</a>
+      <a if={waittime <= 0} class="orange lighten-2 waves-effect waves-light btn-large" data-word="=SKIP=" onclick={chooseWord}>I'm not sure</a>
     </div>
   </div>
 
@@ -40,10 +43,10 @@
       margin: .5em;
       display: inline-block;
     }
-    a.btn{
+    a.btn-large{
       font-weight: bold;
     }
-    a.btn.disabled {
+    a.btn-large.disabled {
       color: black !important;
     }
     #progress {
@@ -69,7 +72,7 @@
       this.waittime--;
       if (!this.waittime) {
         clearInterval(this.timer);
-        $(".btn.disabled").removeClass("disabled")
+        $(".btn-large.disabled").removeClass("disabled")
       }
       this.update()
     }
