@@ -36,7 +36,7 @@
                 <option value="SK">Slovak</option>
               </select>
               <label>Select your language</label>
-              Is your language not listed? Let us know at <a href="mailto:inquiries@sketchengine.eu"><inquiries@sketchengine.eu></a> if you would like to volunteer to translate an initial dataset of 800 words.
+              Is your language not listed? Let us know at <a href="mailto:inquiries@sketchengine.eu">inquiries@sketchengine.eu</a> if you would like to volunteer to translate an initial dataset of 800 words.
             </div>
           </div>
           <div class="card-action" if={formComplete}>
