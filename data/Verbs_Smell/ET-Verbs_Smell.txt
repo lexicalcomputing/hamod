@@ -2,7 +2,7 @@ nuusutama
 haistma
 lehkama
 haisema
-kiirgama
+piserdama
 välja_hingama
 lõhnama
 sisse_hingama
