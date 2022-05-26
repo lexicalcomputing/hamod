@@ -3,7 +3,7 @@ tablett
 süstal
 kirurg
 haigla
-piste
+õmblus
 röntgen
 side
 
