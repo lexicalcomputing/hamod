@@ -4,7 +4,7 @@ mõru
 vürtsikas
 hapu
 mage
-hapu
+mõrkjas
 maitsev
 
 kohev
