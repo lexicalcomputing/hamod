@@ -2,7 +2,7 @@
 pühitsema
 ristima
 kanoniseerima
-üle_minema
+usku_vahetama
 abielluma
 palvetama
 jumaldama
