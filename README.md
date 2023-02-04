@@ -71,10 +71,47 @@ The dataset is licensed under the [CC-BY-SA 4.0](https://creativecommons.org/lic
 Attribution in any research context shall be carried out by properly citing the papers referenced below.
 We would appreciate if you let us know about any derived work.
 
-## References
+## How to cite
 
-Romani, E. (2022). Building A Multilingual Outlier Detection Dataset For The Evaluation Of Distributional Thesauri And Word Embeddings. Master's thesis, University of Pavia. [PDF](https://www.sketchengine.eu/wp-content/uploads/Building_a_Multilingual_Outlier_Detectio.pdf)
+Please cite:
 
-Jakubíček, M., Romani, E., Rychlý, P., & Herman, O. (2021). Development of HAMOD: a High Agreement Multi-lingual Outlier Detection dataset. In RASLAN 2021 Recent Advances in Slavonic Natural Language Processing, 177. [PDF](https://nlp.fi.muni.cz/raslan/raslan21.pdf#page=185)
+* Romani, E. (2022). Building A Multilingual Outlier Detection Dataset For The Evaluation Of Distributional Thesauri And Word Embeddings. Master's thesis, University of Pavia. [PDF](https://www.sketchengine.eu/wp-content/uploads/Building_a_Multilingual_Outlier_Detectio.pdf)
 
-Rychlý, P. (2019). Evaluation of Czech Distributional Thesauri. In RASLAN 2019  Recent Advances in Slavonic Natural Language Processing, 137. [PDF](https://nlp.fi.muni.cz/raslan/raslan19.pdf#page=145)
+  BibTex:
+
+  ```
+  @mastersthesis{hamod_thesis,
+    title={Building A Multilingual Outlier Detection Dataset For The Evaluation Of Distributional Thesauri And Word Embeddings},
+    author={Emma, Romani},
+    school={The University of Pavia},
+    year={2022}
+  }
+  ```
+
+* Jakubíček, M., Romani, E., Rychlý, P., & Herman, O. (2021). Development of HAMOD: a High Agreement Multi-lingual Outlier Detection dataset. In RASLAN 2021 Recent Advances in Slavonic Natural Language Processing, 177. [PDF](https://nlp.fi.muni.cz/raslan/raslan21.pdf#page=185)
+
+  BibTex:
+  ```
+  @inproceedings{hamod,
+    title={Development of HAMOD: a High Agreement Multi-lingual Outlier Detection dataset},
+    author={Jakubíček, Miloš and Romani, Emma and Rychlý, Pavel and Herman, Ondřej},
+    booktitle={Proceedings of the Fifteenth Workshop on Recent Advances in Slavonic Natural Languages Processing, RASLAN 2021},
+    year={2021},
+    pages={177--183},
+    publisher={Tribun EU}
+  }
+  ```
+
+* Rychlý, P. (2019). Evaluation of Czech Distributional Thesauri. In RASLAN 2019  Recent Advances in Slavonic Natural Language Processing, 137. [PDF](https://nlp.fi.muni.cz/raslan/raslan19.pdf#page=145)
+
+  BibTex:
+  ```
+  @inproceedings{thesaurievaluation,
+    title={Evaluation of Czech Distributional Thesauri},
+    author={Rychlý, Pavel},
+    booktitle={Proceedings of the Thirteenth Workshop on Recent Advances in Slavonic Natural Languages Processing, RASLAN 2019},
+    pages={137--142},
+    year={2019},
+    publisher={Tribun EU}
+  }
+  ```
